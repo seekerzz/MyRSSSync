@@ -1,16 +1,5 @@
 ---
 # GitHub All Languages Daily Trending
-## [stitionai/devika](https://github.com/stitionai/devika)
-Devika 是一个强大的 AI 平台，用于软件开发任务的规划、执行和优化。以下是关于 Devika 的关键信息摘要：
-
-1. 功能强大：Devika 能够理解用户的需求，制定详细的计划，并在项目过程中进行动态调整。
-
-2. 语言支持广泛：Devika 支持多种编程语言，可以根据项目的具体需求选择合适的语言。
-
-3. 社区交流平台：Devika 还有一个社区 Discord 服务器，用户可以在这里分享经验、提问和协作。
-
-总结来说，Devika 是一个集智能规划、代码生成、项目管理等功能于一体的软件开发工具。
-
 ## [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
 本文主要介绍了OpenDevin项目，这是一个旨在复制和增强现有软件工程模型的社区驱动项目。文章详细阐述了研究策略，包括技术栈、未来步骤等，并鼓励贡献者通过代码贡献、研究评估等方式参与进来。
 
@@ -18,111 +7,31 @@ Devika 是一个强大的 AI 平台，用于软件开发任务的规划、执行
 
 总的来说，OpenDevin是一个致力于软件工程自动化和智能化的项目，它欢迎所有对这个领域感兴趣的人士贡献自己的力量。
 
-## [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft)
-本论文主要介绍了VoiceCraft零-shot语音编辑和文本转语音技术。作者 Peng等人开发了这项技术，它可以在野外环境下对说话人的语音进行编辑，同时还可以将文本转换为语音。
+## [fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)
+我们的项目Champ是一个基于3D参数指导的人类图像动画工具。它允许用户控制和一致地生成具有动态变化的图像。
 
-这项技术的使用受到严格的限制，任何组织或个人未经许可不得使用该技术生成或编辑他人的语音，包括但不限于政府领导人、政治人物和名人。违反此规定可能会触犯版权法。
+我们提供了多种示例数据，包括不同人物、动作和环境条件下的图像。这些数据可用于模型训练和测试。
 
-## [IDEA-Research/T-Rex](https://github.com/IDEA-Research/T-Rex)
-本文主要介绍了T-REX2，这是一个面向通用对象检测的工具。通过文本-视觉提示的协同作用，T-REX2能够处理开放集和指代检测中的视觉提示，并进行相应的分割。此外，本文还提供了相关的代码链接和作者信息。
+如果您对我们的工作感兴趣，并希望在研究领域应用这种技术，欢迎联系我们寻求进一步的信息和机会。
 
-## [placeholderkv/placeholderkv](https://github.com/placeholderkv/placeholderkv)
-PlaceHolderKV是一个非默认内存分配器，用于构建PlaceHolderKV服务器。选择使用jemalloc而非默认的libc malloc是因为jemalloc在处理碎片和内存泄漏方面表现得更好。
+## [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
+CrewAI 是一个用于创建人工智能代理的开源库。它旨在简化多代理协作的过程，使团队能够更高效地合作完成任务。
 
-默认情况下，PlaceHolderKV将使用POSIX clock_gettime函数作为内部时钟源。如果需要改进性能，可以使用processor内部指令计时器（TSC）替代。
+CrewAI 的优势在于其自动化流程和可扩展性，使得构建复杂的协作场景变得简单。此外，它还支持多种语言模型，以满足不同语言需求的项目。
 
-为了正确安装并配置用于生产环境的PlaceHolderKV服务，可以使用提供的install_server.sh脚本。这个脚本会引导你完成必要的设置和启动。
+总之，CrewAI 是一个强大的人工智能协作工具，适用于各种需要多代理协作的任务场景。
 
-对于代码贡献，我们鼓励基于BSD许可协议提交你的代码。请参阅COPYING文件以获取更详细的信息。
+## [langchain4j/langchain4j-examples](https://github.com/langchain4j/langchain4j-examples)
+这个README文件提供了LangChain4j库的一些示例。这些例子旨在展示如何使用该库进行编程。
 
-## [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
-本文介绍了名为Open Interpreter的工具，它是一个功能调用语言模型，具有执行代码的能力。用户可以通过终端流式传输模型的消息、代码和系统输出，以Markdown格式显示。
+首先，你可以通过查看"Tutorials"部分的Java代码链接，开始学习教程中的示例。
 
-此外，文章还提到了如何贡献到这个项目，以及项目的未来规划。总的来说，Open Interpreter提供了一种本地交互式的编程体验。
+此外，还有"More examples"和"Examples of using advanced RAG techniques"等更多示例供你参考。
 
-## [Project-DARC/DARC](https://github.com/Project-DARC/DARC)
-本文介绍了DARC（Decentralized Autonomous Research Community）的协议开发过程，包括使用Hardhat和OpenZeppelin等工具进行智能合约编写、编译、测试和部署。同时，文章还提到了在实际项目中可能遇到的问题以及解决方法，为后续的DARC协议开发提供了参考。
+最后，一个特别的例子展示了带有记忆、工具和RAG（关系图）功能的代理应用。这个例子详细地解释了如何使用LangChain4j实现这样的场景。
 
-## [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-本书《从零开始构建大型语言模型》详细介绍了如何从零开始，使用Python编程语言和相关的库，构建一个能够理解和生成人类语言的大型语言模型。书中包含了各种技术细节、代码示例以及优化建议，适合有一定编程基础的学习者或研究人员参考。
-
-## [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-本文主要介绍了一个关于数据结构和算法实现的项目——Tech Interview Handbook。该项目通过GitHub开源，提供代码示例，并附带了开放源代码许可。
-
-由于这是个人仓库，所以提供的许可证来自作者本人，而非其雇主（Meta）。
-
-总的来说，这个项目为工程师提供了学习和实践数据结构和算法的资源。
-
-## [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
-本文是一个关于使用Groq API、Mixtral、Langchain等工具构建一个语言模型的教程。教程首先介绍了项目的基本结构，包括Next.JS前端和Node.js后端的Express API。然后详细解释了如何设置和配置这些工具，包括安装依赖、设置API密钥、以及如何利用这些工具来构建语言模型。
-
-最后，教程还提到了如何贡献到这个项目，如果你对该项目有任何改进的想法或者发现了任何问题，都可以通过提交pull request来进行交流和改进。
-
-## [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor)
-这是一个关于Claude-Investor投资分析AI的GitHub README文件。AI系统基于Claude 3 Opus和Haiku模型，能够进行行业分析并生成投资报告。
-
-使用该AI需要一个Anthropic API key，并通过Google Colab或Jupyter Notebook运行包含API密钥的代码块。
-
-该AI具有改进空间，如提高行业分析模块的实时数据使用能力。如有任何问题、建议或想要贡献代码，都可以在README中找到联系方式。
-
-## [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-这是一个关于MoneyPrinterTurbo项目的介绍和使用指南。项目基于原作者的开源项目重构，增加了功能并进行了优化。
-
-项目提供了抖音账号（https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/docs/douyin.jpg）和视频号（https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/docs/shipinghao.jpg）的链接，方便用户获取最新教程和技术分享。
-
-此外，项目还包含了许可证文件，你可以查看以了解项目的版权信息。
-
-如果你有任何问题或需要帮助，可以在下面留言，我会尽快回复你。
-
-## [FoundationVision/GLEE](https://github.com/FoundationVision/GLEE)
-GLEE（General Object Foundation Model for Images and Videos at Scale）是一个大规模的图像和视频对象检测和分割模型。它由多个组件组成，包括图像编码器、文本编码器、视觉提示器以及对象解码器。
-
-GLEE在训练过程中充分利用了多种数据集，实现了跨领域知识的融合，从而具备了广泛的应用场景。
-
-如果您需要引用GLEE，请参考提供的arXiv论文链接和作者列表。
-
-## [lichao-sun/Mora](https://github.com/lichao-sun/Mora)
-本文主要介绍了Mora和Sora两个视频生成模型。Mora是一个多代理框架，用于实现通用主义的视频生成；而Sora则是一个详细的报告，讨论了视频生成模型作为世界模拟器的可能性。
-
-这两个模型都是为了扩展人工智能在视频生成领域的应用，通过模仿现实世界的环境和行为来生成逼真的视频内容。
-
-## [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-本文是一份关于生成式人工智能（AI）的指南。它包括了多个主题的代码教程，如RAG Tutorials（一系列教程）、LLM Fine-tuning tutorials等。
-
-此外，文章还提到了如何贡献到这个资源库，以及如果需要引用这份指南应该如何操作。
-
-总的来说，这是一份全面且实践导向的生成式AI学习指南。
-
-## [systemdesign42/system-design](https://github.com/systemdesign42/system-design)
-这篇文档是关于软件许可的。它声明本内容受Creative Commons BY-NC-ND 4.0版许可保护，允许非商业性复制和分发。
-
-如果你对这个许可有任何疑问或需要进一步的信息，你可以点击链接到Creative Commons网站进行详细阅读。
-
-## [semanser/codel](https://github.com/semanser/codel)
-这是一个关于全自主AI代理的GitHub README文件。该代理能够执行复杂的任务，并且具有自动学习和适应的能力。
-
-以下是关键信息摘要：
-
-1. **安全**：一切都运行在沙箱化的Docker环境中，保证数据和系统的安全性。
-
-2. **自主性**：代理能自动检测下一步操作并执行。
-
-3. **功能集成**：包括浏览器、文本编辑器以及后端API的集成。
-
-4. **开发过程**：提供如何设置环境变量，以及运行前端和后端代码的步骤。
-
-5. **未来计划**：列出项目未来的改进方向，如更好的单命令执行方式等。
-
-## [olegos2/mobox](https://github.com/olegos2/mobox)
-本文是一份关于Mobox（可能是错误拼写）的详细指南。它包含了如何安装、设置以及解决一些常见问题的步骤。
-
-首先，对于Android设备，推荐使用Android 10或更高版本，并且需要支持Mesa VirGL的设备。
-
-然后是设备和Root的问题，如果遇到预创建冻结等问题，可能需要调整兼容性设置。
-
-最后提到了几个第三方应用，如Termux-app、Mesa-zink-等，它们在Mobox的运行中可能会有帮助。
-
-总的来说，这份指南旨在帮助用户更好地理解和使用Mobox（或其类似软件），并解决可能出现的问题。
+## [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar)
+这个项目遵循 Attribution-NonCommercial 4.0 国际许可，这意味着该项目不允许用于商业用途。如果想要将此项目作为网站的avatar生成器使用，是自由的；但如果构建一个主要基于此代码的应用程序，则强烈反对这样的实践。作者不想因为有人抄袭他的代码并从中获利而感到沮丧。
 
 ## [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
 "Animate Anyone"是一个项目，目标是实现一种一致且可控的图像到视频转换技术，专门用于角色动画。该项目的研究者包括Li Hu、Xin Gao等人，并已在arXiv预印版上发表了相关论文。
@@ -131,93 +40,198 @@ GLEE在训练过程中充分利用了多种数据集，实现了跨领域知识�
 
 总的来说，"Animate Anyone"是一个致力于提供高质量图像到角色动画转换技术的项目。
 
-## [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org)
-感谢所有贡献者和协作者的支持，使Node.js项目成为可能。特别提到Chromatic提供的视觉测试平台、Vercel提供的基础设施服务、Cloudflare的支持以及Sentry的开源许可工具等合作伙伴的贡献。同时感谢Crowdin这样的本地化平台、Orama的搜索解决方案以及社区用户的反馈和支持。
+## [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+本文是关于一个名为MoneyPrinterTurbo的项目，该项目基于另一个开源项目重构而来。文章提到了一些优化措施、增加的功能以及对原作者开源精神的感谢。
 
-## [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-本文主要介绍了编程学习平台，包括如何访问这些平台、提供了哪些语言的版本等信息。同时，也提到了翻译的重要性，并列出了版权许可信息。
+此外，还提供了查看项目许可证（LICENSE）文件的链接，以便读者进一步了解项目的版权信息。
 
-## [janhq/jan](https://github.com/janhq/jan)
-本文是一个关于如何在Docker环境中运行Jan的教程。Jan是一个用于语言模型训练和评估的工具，它基于TensorRT和LLM技术。
+## [IDEA-Research/T-Rex](https://github.com/IDEA-Research/T-Rex)
+本文主要介绍了T-REX2，这是一个面向通用对象检测的工具。通过文本-视觉提示的协同作用，T-REX2能够处理开放集和指代检测中的视觉提示，并进行相应的分割。此外，本文还提供了相关的代码链接和作者信息。
 
-教程分为几个步骤：
+## [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform)
+本文主要介绍了如何在使用Docker运行pre-commit-terraform时，解决GitHub私有仓库的认证问题。同时，对于来自俄罗斯和白俄罗斯地区的用户，还提供了额外的信息，提醒他们俄罗斯对乌克兰的行动带来的影响。
 
-1. **检查CUDA兼容性**：首先确认你的NVIDIA驱动与你想要使用的CUDA版本相匹配。
+## [stitionai/devika](https://github.com/stitionai/devika)
+Devika是一个旨在帮助用户进行AI规划和推理的工具。它通过先进的AI算法，如BERT（双向编码器代表），来理解和生成代码。
 
-2. **找到最小的minor版本**：然后在NGC Catalog中找到适用于你的CUDA版本的Jan镜像，并找到其最新的minor版本。
+社区Discord服务器是Devika用户交流、分享经验、提问解答以及协作项目的地方。
 
-3. **更新Dockerfile.gpu**：将Dockerfile中的FROM行替换为找到的最新minor版本的镜像。
+如果你对Devika有任何问题或建议，欢迎随时在社区服务器上提出。祝你使用愉快！
 
-4. **启动Jan**：使用`docker compose --profile gpu-fs up -d`命令启动Jan，其中`--profile gpu-fs`指定了GPU模式和文件系统，`up -d`表示启动容器并保持运行。
+## [medusajs/medusa](https://github.com/medusajs/medusa)
+Medusa是一个用于数字 commerce 的模块化系统。它提供了一套可定制的商业组件，用于构建高级电子商务商店、市场或任何需要基本商务功能的产品。
 
-最后，教程还提到了Jan的其他贡献者、联系方式以及许可证信息。
+Medusa的架构是开放源码的，并且所有的模块都可在npm上获取。社区和核心团队活跃在GitHub Discourse上，为用户提供支持并讨论项目的发展方向。
 
-## [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-本文主要介绍了开发者路线图（Developer Roadmap）项目，包括如何贡献内容、添加新路标、提出修改建议等。同时，还提到了项目的贡献者列表和许可证文件等内容。对于对开发者教育和指导感兴趣的开发者或团队管理者来说，这是一个很好的资源。
+总的来说，Medusa是一个强大的数字 commerce 基础，它提供了灵活、可定制的工具，帮助开发者构建高效、可靠的电子商务应用。
 
-## [fdundjer/solana-sniper-bot](https://github.com/fdundjer/solana-sniper-bot)
-这段文本是关于Solana Sniper Bot的说明。它首先介绍了这个脚本作为一个购买新流动性池令牌的工具。然后详细列出了设置该脚本的一些步骤，包括如何配置私钥、监听RPC节点、以及如何根据需求调整参数。
+## [cnlohr/lolra](https://github.com/cnlohr/lolra)
+这篇博客主要介绍了作者进行的一项LoRa无线通信技术的研究。研究中，作者使用了MikroTik LR9作为发射器，配合Airspy Mini SDR进行接收。同时，还引入了一款LILYGO® T-Beam Meshtastic模块，用于实验中的地面设备。
 
-最后提到了一些可能遇到的问题和解决方法，如空交易、不支持的RPC节点以及没有相关USDC/WSOL账户等问题。
+在研究过程中，得到了许多人的支持和帮助，包括MustardTiger的疯狂支持工作，以及Willmore的编辑工作。
 
-总的来说，这段文本是一个详细的Solana Sniper Bot使用指南。
+此外，作者的妻子也参与了测试和帮助，而一些在Discord中关注项目的人员也提供了审查和编辑的帮助。
+
+最后，作者感谢所有在自己的开源项目中提供帮助的人们。这次研究不仅技术上有所突破，同时也凝聚了团队合作的力量。
+
+## [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)
+这个项目是一个基于MIT协议的开源项目，用于学习和开发中大型管理系统的管理工具。请尊重作者的版权信息，并在商业用途时保留原作者的信息。关于软件的具体保证和责任问题，请参阅相关协议或直接联系项目维护者。
+
+## [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+这段文字是关于一个低成本机器人领袖臂的详细说明。首先，提到了所需材料，包括6个XL330型号的电动伺服驱动器、一个用于连接和控制的板载伺服驱动器板、5V电源供应器以及用于固定和使用的桌夹。 
+
+然后，解释了组装过程，特别是对于简化版本的领袖臂，所有电机都使用5v电压，使得组装更为直接。 
+
+最后，提到了测试脚本teleoperation.py，但警告可能需要调整设备名称。
+
+总结来说，这段文字详细介绍了如何制作一个低成本的机器人领袖臂，并提供了组装和测试的指导。
+
+## [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
+OpenVoice是一个多语言即时语音克隆工具。它具有高精度的音色颜色克隆能力，能够在多种语言和口音之间进行转换。
+
+OpenVoice还允许用户通过精细控制来调整声音风格，包括情感表达、口音特征等。此外，该模型在大规模多语言训练数据集上进行了优化，这意味着它可以处理大量音频样本而不会降低性能。
+
+总之，OpenVoice是一个强大且灵活的语音克隆工具，适用于各种语音转换和风格控制需求。
+
+## [langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract)
+本文主要介绍了如何在本地运行LangChain的提取服务器。首先，需要配置环境变量，如OpenAI API密钥。然后，使用Poetry进行环境设置和安装所需依赖。接着，创建数据库和迁移文件，以便管理数据结构。最后，通过Makefile执行测试、格式化等操作。
+
+如果你对开发或使用这个项目有任何问题，或者想要贡献代码，请访问项目的GitHub页面（https://github.com/langchain-ai/langchain-extract）并参与讨论。
+
+## [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+本文是一份关于生成式人工智能（AI）的指南。它包括了多个主题的代码教程，如RAG Tutorials（一系列教程）、LLM Fine-tuning tutorials等。
+
+此外，文章还提到了如何贡献到这个资源库，以及如果需要引用这份指南应该如何操作。
+
+总的来说，这是一份全面且实践导向的生成式AI学习指南。
+
+## [lencx/Noi](https://github.com/lencx/Noi)
+这篇内容是关于Noi，一个跨平台定制化浏览器的介绍。它首先解释了Noi的理念，并推荐新手阅读详细的使用文档。
+
+接着提到了国内用户如果遇到问题或想交流，可以关注公众号「浮之静」并加入相关群组进行讨论。
+
+最后鼓励用户分享Noi应用带来的帮助，或者通过微信扫码打赏以表达感谢。
+
+## [reactjs/react.dev](https://github.com/reactjs/react.dev)
+这是一个关于React.js文档网站的README文件。它包含了如何获取和使用这个网站的方法，以及创建新分支并提交代码的步骤。
+
+此外，README还提到了翻译工作的相关信息，以及网站内容的版权信息。
+
+总结来说，这个README文件为想要贡献或使用React开发文档的人提供了指导。
+
+## [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
+该工作坊系列包含一系列Python笔记本，旨在帮助参与者了解如何使用Amazon Bedrock服务。以下是获取和开始探索实验室笔记的步骤：
+
+1. **安装必要的环境****：**首先需要在你的笔记本环境中安装必要的工具，如`unzip`来解压Bedrock SDKs。
+
+2. **克隆并进入工作坊仓库****：**然后通过命令行或Studio中的终端，使用`git clone`命令将这个GitHub仓库克隆到本地。
+
+3. **切换到工作坊目录****：**之后需要进入这个工作坊目录，这可以通过命令行的`cd`命令来操作。
+
+4. **开始探索笔记********：**现在你已经准备好开始探索这些实验室笔记了。首先可以查看`00_Prerequisites/bedrock_basics.ipynb`笔记，那里详细介绍了如何安装Bedrock SDKs，创建客户端并开始调API的Python代码示步骤。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)
+本文主要介绍了如何使用LLMs（大型语言模型）进行各种任务，包括信息检索、问题解答、结构化输出等。同时，文章还提到了如何获取OpenAI或Hugging Face的API key以使用这些服务。
+
+对于如何选择合适的LLM模型，文章建议参考Hugging Face MTEB leaderboard，这是一个展示不同模型性能的平台。
+
+最后，文章还提供了获取Hugging Face API key的具体步骤，这对于想要使用Hugging Face服务的人来说是重要的信息。
+
+## [semanser/codel](https://github.com/semanser/codel)
+这是一个关于全自主AI代理的GitHub README文件。它详细介绍了如何运行这个项目，包括后端API、数据库集成、Docker容器运行等步骤。
+
+此外，README还提到了项目的未来计划，包括API改进、前端优化、性能提升以及与SWE-bench等基准的比较。
+
+总的来说，这是一个关于全自主AI代理开发和管理的GitHub README文件。
+
+## [run-llama/llama_index](https://github.com/run-llama/llama_index)
+"LLamaIndex" 是一个用于构建和使用基于LLMs（语言模型）的自然语言处理应用的数据框架。它提供了一套工具，包括数据连接器、索引结构、查询引擎等，使得用户能够方便地将他们的数据与LLM服务集成，从而实现更复杂的自然语言处理任务。
+
+## [rerun-io/rerun](https://github.com/rerun-io/rerun)
+Rerun是一个用于可视化多模态数据的SDK。它主要用于计算机视觉和机器人产品团队，帮助他们更好地理解和展示他们的数据。
+
+如果你是开发者，想要了解如何安装预发布的Python SDK，可以参考以下步骤：
+
+1. 访问GitHub Releases页面，找到正确的`.whl`文件。
+2. 使用命令行工具（如`pip install`）来安装这个`.whl`文件。例如：`pip install rerun_sdk.<filename>.whl`
+3. 测试安装是否成功，运行`rerun --version`检查版本号。
+
+如果你是使用Rerun的用户，想要了解如何获取最新版本或进行其他操作，请查阅相关文档或在项目GitHub页面上寻找帮助。
 
 ## [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 本文主要介绍了如何使用E2B（Execute Anything）工具与AI产品集成，实现数据分析等功能。同时，文章还提到了一些已有的AI团队和开源项目，供读者参考。
 
 ---
 # 36氪 - 24小时热榜
-## [全球最强开源模型一夜易主，1320亿参数推理飙升2倍](https://www.36kr.com/p/2708770531653763)
-本文讨论了Databricks团队如何创建世界上最强的开源人工智能模型DBRX。这个过程包括数据收集、模型训练和优化，以及安全测试。
+## [恭喜雷军，“地狱”来了](https://www.36kr.com/p/2709988242045065)
+这篇新闻报道了小米汽车工厂的建设情况和产能规划。文章提到小米汽车工厂已开工，并预计在未来几年内实现量产落地。
 
-文章还提到了DBRX对于其他AI研究人员的价值，它不仅提供了一个强大的模型，还提供了构建自己模型的技巧。
+此外，报道还提到了小米汽车面临的挑战，包括如何应对市场变化、保证产品质量以及避免潜在的产能危机等。
 
-最后，文中提到Databricks计划研究模型在训练后期的变化，以揭示强大模型如何产生额外能力。
+总的来说，这篇报道提供了小米汽车项目的一些关键信息，有助于读者理解小米在汽车行业的发展策略和挑战。
 
-## [36氪独家｜抖音电商副总裁木青调离，将赴TikTok电商任职](https://www.36kr.com/p/2707761946966149)
-1. 抖音电商副总裁木青即将转职至TikTok电商业务，负责非服饰运营业务。
+## [8点1氪丨小米汽车上市27分钟大定超5万台；“腾讯裁员比例10%到30%”消息不实；日本将排放54600立方米核污染水](https://www.36kr.com/p/2709905438374018)
+以下是关于36氪2023财年业绩、Keep全年业绩以及投融资活动的摘要：
 
-2. 木青的职位调整意味着字节跳动尝试将国内电商业务经验与TikTok业务相结合。
+1. **36氪2023财年业绩**：
+   - 总营收达到34亿元人民币，同比增长5.5%。
+   - 月活用户数为2976万，继续保持增长势头。
 
-3. TikTok电商业务定下了2024年500亿美金的GMV目标，显示出对业绩增长的强烈信心。
+2. **Keep全年业绩**：
+   - 经调整后净亏损为2.95亿元，相比前一年度的亏损有所收窄。
+   - 净亏损率从30.2%降至13.8%，表明公司在控制成本方面取得了一定的进步。
 
-## [海底捞开放加盟的原因，藏在财报里](https://www.36kr.com/p/2707840666384259)
-海底捞在经历了疫情的低谷期后，开始逐步开放加盟业务。这一举动不仅有助于海底捞进一步拓展市场，也可能带来一些挑战和问题。
+3. **投融资活动**：
+   - “星驱科技”完成数亿元人民币A轮融资，国调基金领投。
+   - Keep还与多家投资机构签订了总额数亿元的意向融资协议。
 
-首先，加盟模式可能会导致海底捞在服务质量控制方面面临更大的难度。因为每个加盟商都有自己的经营方式和标准，如何确保所有门店都能达到海底捞一贯的高标准服务，是一个需要解决的问题。
+总结来说，36氪在2023财年实现了稳定的增长，并在成本控制方面有所改善。Keep全年业绩亏损收窄，显示出公司在市场环境变化下的适应能力。投融资活动方面，“星驱科技”获得了重要资金支持，为后续业务拓展提供了保障。
 
-其次，加盟业务可能带来财务风险。如果加盟商管理不当，可能导致海底捞的收入或利润受到负面影响。
+## [为了小米汽车，雷军豁出去了](https://www.36kr.com/p/2709363804403593)
+小米的跨界造车之旅，是雷军背水一战的重要战略。小米通过自身在AIoT领域的技术积累和品牌影响力，试图在这个高度竞争的市场中找到自己的位置。
 
-最后，海底捞需要建立一套有效的加盟管理体系，包括加盟条件设定、培训体系搭建、加盟商日常管理和激励机制设计等环节，以确保加盟模式能够为海底捞带来长期的增长潜力。
+然而，汽车业务的高投入、长周期特性以及政策环境的不确定性，都给小米带来了巨大的挑战。市场的接受程度、现金流管理能力以及与传统汽车厂商的竞争策略，都是小米能否成功的关键因素。
 
-## [AI长文本之战：Kimi快跑，大厂围剿 | 焦点分析](https://www.36kr.com/p/2707564507346821)
-Kimi，作为一款长文本处理工具，因其在B站投放广告并引发用户付费等待的事件而备受关注。其爆火和商业化的可能性表明了该产品在市场上的独特地位。
+总的来说，小米的造车之旅充满了未知和机遇，但要想真正实现市场价值，还需时间和实践来验证。
 
-然而，要证明Kimi具有商业化的能力，首先需要解决的是如何通过商业模式来实现盈利。此外，还要面对如何持续创新以满足不断变化的用户需求的问题。
+## [今夜，雷军让车圈大佬失眠](https://www.36kr.com/p/2709412492588932)
+小米汽车发布会前夕，雷军对外解释了为何选择造轿车，并提到要认真向特斯拉和保时捷学习。他还表达了对小米汽车未来竞争力的信心。此外，文章还提到了小米集团2023年财报的情况。
 
-总的来说，Kimi的成功与其独特的长文本处理能力密不可分，但要想真正实现商业化的目标，还需要在商业模式、产品迭代等多个方面进行深入探索和实践。
+## [8 名谷歌员工发明了现代人工智能，这是那篇论文的内幕故事](https://www.36kr.com/p/2705849179912064)
+这篇论文详细介绍了谷歌在2018年左右开始探索Transformer技术，并将其应用于翻译工具和搜索服务中的过程。
 
-## [36氪独家｜芯擎科技完成数亿元B轮融资，年内芯片出货量达百万片](https://www.36kr.com/p/2707427246585735)
-芯擎科技近日完成了数亿元B轮融资，该轮融资由多个国有资本机构领投。芯擎科技专注于7纳米车规级SoC芯片“龍鹰一号”的研发与量产供货，为智能座舱提供性能强大的国产替代芯片方案。
+论文指出，谷歌的这一转变源于对人工智能技术进步的需求，以及对现有技术如RNN（循环神经网络）性能提升的追求。
 
-芯擎科技还计划推出高阶智能驾驶芯片系列，如AD1000，以满足智能驾驶技术快速演进的需求。
+论文还提到，谷歌内部的一些关键人物，包括论文作者，都在Transformer技术的研发和应用中发挥了重要作用。
 
-总之，芯擎科技在汽车智能化领域通过芯片技术实现了关键产品的突破和市场应用的广泛化。
+最后，论文总结了谷歌通过Transformer技术推动产品和服务创新的过程，并对未来可能的应用场景进行了展望。
 
-## [小米汽车，就是不能卖 20 万以下，为什么？](https://www.36kr.com/p/2708506949695365)
-小米汽车在高端市场的发展策略包括避免价格战、设定合理价格区间以及通过品牌塑造和产品升级来实现差异化竞争。
+## [小米汽车21.59万起售，雷军：我抱着必胜的信念｜36氪专访](https://www.36kr.com/p/2709517831976841)
+雷军在访谈中分享了小米造车过程中的困难和决策，强调了设计美观和用户体验的重要性。他还提到了小米在北京新能源汽车产业的发展规划和考虑，表达了北方企业需要努力并具备优势的观点。
 
-## [8点1氪丨武汉大学回应开设雷军班；小林制药保健品已致2死106人住院；加拿大鹅将裁员约17%](https://www.36kr.com/p/2708482440738951)
-以下是关于AI领域最新动态的简要概述：
+## [GPTs大翻车后，OpenAI再宣布给开发者送钱，美国码农狂欢](https://www.36kr.com/p/2708772362795136)
+本文讨论了OpenAI创建GPT Store的意图和当前面临的问题。GPT Store最初旨在复制App Store的成功模式，但目前充斥垃圾信息且用户吸引力有限。
 
-1. **英国人工智能初创公司Stability AI首席执行官辞职**：彭唯透露，他已辞去Keep联合创始人职务。Keep在线官方运动课程中AIGC（人工智能生成内容）生产比例为15%，这一消息表明了人工智能在教育领域的应用。
+文章还提到了开发者们面临的挑战，包括后台数据分析功能不足、用户体验差等。这可能导致新的用户增长缓慢，从而影响订阅服务的收入前景。
 
-2. **百度智能云发布Baidu Comate 2.0**：百度智能云正式推出Baidu Comate 2.0版本，面向个人开发者免费开放使用。这标志着百度在AI领域进一步的产品和服务提供。
+最后，文章暗示了如果未经官方授权的GPT开始赚钱，可能会引发迪士尼或托尔金信托基金会这样的知识产权所有者的反应。
 
-总结来说，AI领域的最新动态包括初创公司的战略调整、人工智能教育应用的提升以及主流科技公司的新产品发布。
+## [有些烂工作，根本不值得你浪费生命](https://www.36kr.com/p/2708774181025673)
+这段内容看起来像是一个公众号文章的摘录，用于分享关于工作回报的思考。摘录中提到了满足三个条件（明确质量标准、关注无关细节、跳出思维惯性）的工作，可以带来较高的回报。
 
-## [月入10万，代购天水麻辣烫赚麻了](https://www.36kr.com/p/2707930062780292)
-这段内容是关于天水麻辣烫代购生意火爆的介绍。主要人物包括王雪和蒋世杰，他们通过顺丰快递服务顾客，并且单量增加导致食材供应紧张。
-
-王雪的新店铺上架了香豆疙瘩馍等天水特产，两个月前她还只想卖樱桃。这个故事展示了天水特产在当地乃至全国范围内受欢迎的程度，同时也反映了代购模式的商业潜力和挑战。
+如果需要更具体的咨询摘要，可能需要对原文进行整理和提炼，确保信息的准确性和完整性。
 
