@@ -1,4 +1,5 @@
 ---
+
 # GitHub All Languages Daily Trending
 | Title | Summary |
 | --- | --- |
@@ -28,6 +29,7 @@
 | [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) | 应用ReVanced Manager用于Android设备，它使用ReVanced Patcher进行应用程序的修补。该应用具有简单易用的用户界面，支持多种自定义选项，包括配置API、选择源代码、语言设置、签名keystore、主题定制等。<br/><br/>用户可以通过链接下载最新版本的应用程序，或者直接访问GitHub页面获取。此外，还提供了详细的文档供用户参考学习如何使用ReVanced Manager进行应用程序的修补和个性化定制。<br/> |
 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | Gradio 是一个用于轻松分享和测试机器学习模型的开源工具。它允许用户在野外环境中无需复杂设置即可快速共享和测试他们的模型。通过@article{abid2019gradio, ...},您可以查阅完整的论文引用以在您的工作中使用Gradio时进行适当的引用。<br/><br/><br/> |
 ---
+
 # 36氪 - 24小时热榜
 | Title | Summary |
 | --- | --- |
