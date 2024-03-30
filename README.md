@@ -1,5 +1,5 @@
----
 # GitHub All Languages Daily Trending
+---
 | Title | Summary |
 | --- | --- |
 | [semanser/codel](https://github.com/semanser/codel) | 这是一个关于全自主AI代理的GitHub README文件。它详细介绍了如何运行这个项目，包括后端API、数据库集成、Docker容器运行等步骤。<br/><br/>此外，README还提到了项目的未来计划，包括API改进、前端优化、性能提升以及与SWE-bench等基准的比较。<br/><br/>总的来说，这是一个关于全自主AI代理开发和管理的GitHub README文件。<br/> |
