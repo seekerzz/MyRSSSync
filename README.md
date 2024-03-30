@@ -1,6 +1,7 @@
 ---
 
 # GitHub All Languages Daily Trending
+
 | Title | Summary |
 | --- | --- |
 | [semanser/codel](https://github.com/semanser/codel) | 这是一个关于全自主AI代理的GitHub README文件。它详细介绍了如何运行这个项目，包括后端API、数据库集成、Docker容器运行等步骤。<br/><br/>此外，README还提到了项目的未来计划，包括API改进、前端优化、性能提升以及与SWE-bench等基准的比较。<br/><br/>总的来说，这是一个关于全自主AI代理开发和管理的GitHub README文件。<br/> |
@@ -31,6 +32,7 @@
 ---
 
 # 36氪 - 24小时热榜
+
 | Title | Summary |
 | --- | --- |
 | [9点1氪｜小米回应SU7定金无法退款；新款iPad计划5月初发布；小林制药就保健品致死事件鞠躬道歉](https://www.36kr.com/p/2710906856716162) | 以下是关于苹果神秘设备曝光、微信豆和腾讯广告推出全域投流产品以及俄罗斯开始研制PlayStation类似产品的摘要：<br/><br/>1. 苹果M3 Ultra芯片可能独立设计：Max Tech的Vadim Yuryev推测，即将发布的苹果M3 Ultra芯片将不再通过封装两颗M3 Max芯片的方式实现，这将是历史上第一款独立设计的苹果Ultra系列芯片。<br/><br/>2. 微信豆和腾讯广告推出全域投流产品：微信豆推出了名为“全域订单”的产品，而腾讯广告则推出了名为“3.0投放端”的同类产品。这些产品都具备对视频号账号和直播进行全范围流量投放的功能。<br/><br/>3. 俄罗斯开始研制类似PlayStation的游戏机：“PlaySpace”是俄罗斯专家正在研发的一款类似PlayStation的游戏机。该设备基于英特尔Atom处理器，内存和内置存储容量都有所提升，并且还配备了蓝牙和Wi-Fi功能以及HDMI接口。<br/> |
