@@ -1,180 +1,139 @@
 ---
 # GitHub All Languages Daily Trending
-## [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
-本文主要介绍了OpenDevin项目，这是一个旨在复制和增强现有软件工程模型的社区驱动项目。文章详细阐述了研究策略，包括技术栈、未来步骤等，并鼓励贡献者通过代码贡献、研究评估等方式参与进来。
+| Title | Summary || --- | --- || [semanser/codel](https://github.com/semanser/codel) | 这是一个关于全自主AI代理的GitHub README文件。它详细介绍了如何运行这个项目，包括后端API、数据库集成、Docker容器运行等步骤。
 
-此外，文中还提到了如何加入OpenDevin团队，以及项目的进展可以通过星历史图表来查看。
+此外，README还提到了项目的未来计划，包括API改进、前端优化、性能提升以及与SWE-bench等基准的比较。
 
-总的来说，OpenDevin是一个致力于软件工程自动化和智能化的项目，它欢迎所有对这个领域感兴趣的人士贡献自己的力量。
+总的来说，这是一个关于全自主AI代理开发和管理的GitHub README文件。
+ |
+| [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) | 本文主要介绍了OpenDevin项目，这是一个旨在复制和增强现有软件工程应用的社区驱动项目。通过研究和开发，OpenDevin的目标是利用人工智能（LLMs）简化代码生成任务，并提供更高效的工作工具。
 
-## [fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)
-我们的项目Champ是一个基于3D参数指导的人类图像动画工具。它允许用户控制和一致地生成具有动态变化的图像。
+文章还提到了如何贡献到OpenDevin项目，包括代码贡献、研究与评估、反馈测试等。同时，作者鼓励有兴趣的人加入Slack讨论组，以获取更多关于项目的更新和参与机会。
 
-我们提供了多种示例数据，包括不同人物、动作和环境条件下的图像。这些数据可用于模型训练和测试。
+总的来说，OpenDevin是一个致力于利用人工智能技术改进软件工程实践的社区项目。通过各种方式的贡献，参与者可以共同推动这一领域的发展。
+ |
+| [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) | 这个PwnNote提到了一个CVE-2024-1086的漏洞，它是一个通用本地权限提升Proof-of-Concept exploit。这个exploit适用于大多数Linux内核版本（包括Debian, Ubuntu和KernelCTF）。
 
-如果您对我们的工作感兴趣，并希望在研究领域应用这种技术，欢迎联系我们寻求进一步的信息和机会。
+提到了配置选项，包括默认值，这些应该在目标Linux系统上使用时匹配。还提到构建步骤，以及如何获取编译好的x64二进制文件。
 
-## [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
-CrewAI 是一个用于创建人工智能代理的开源库。它旨在简化多代理协作的过程，使团队能够更高效地合作完成任务。
+最后，提到了运行exploit的方法，以及在某些情况下如何实现无声执行（例如进行渗透测试时避免检测）。
 
-CrewAI 的优势在于其自动化流程和可扩展性，使得构建复杂的协作场景变得简单。此外，它还支持多种语言模型，以满足不同语言需求的项目。
+总的来说，这是一个关于CVE-2024-1086漏洞及其利用的详细说明。
+ |
+| [valkey-io/valkey](https://github.com/valkey-io/valkey) | Valkey是一个用于构建分布式应用程序的开源框架。以下是关于如何使用Valkey、配置选项、运行服务器以及代码贡献的一些详细信息：
 
-总之，CrewAI 是一个强大的人工智能协作工具，适用于各种需要多代理协作的任务场景。
+1. **编译器和环境**：默认情况下，Valkey将使用POSIX clock_gettime函数作为内部时钟源。如果想要利用处理器的内部指令时钟，可以设置CFLAGS参数。
 
-## [langchain4j/langchain4j-examples](https://github.com/langchain4j/langchain4j-examples)
-这个README文件提供了LangChain4j库的一些示例。这些例子旨在展示如何使用该库进行编程。
+2. **命令行工具**：Valkey提供了valkey-cli命令行工具，用于测试和操作Valkey服务。
 
-首先，你可以通过查看"Tutorials"部分的Java代码链接，开始学习教程中的示例。
+3. **安装服务器**：对于Ubuntu或Debian系统，可以通过运行./install_server.sh脚本来自动配置Valkey作为后台服务。
 
-此外，还有"More examples"和"Examples of using advanced RAG techniques"等更多示例供你参考。
+4. **代码贡献**：如果想要参与到Valkey的开发中，需要阅读CONTRIBUTING.md文件了解贡献流程。对于安全问题，请参阅SECURITY.md文档。
+ |
+| [modularml/mojo](https://github.com/modularml/mojo) | Mojo是一个新的编程语言，它结合了Python的语法和生态系统与系统编程和元编程的功能。Mojo的目标是成为Python的超集，并随着其发展不断扩展。
 
-最后，一个特别的例子展示了带有记忆、工具和RAG（关系图）功能的代理应用。这个例子详细地解释了如何使用LangChain4j实现这样的场景。
+这个仓库包含了Mojo的各种示例代码、文档（托管在modular.com）以及标准库。开发者可以使用这些例子来学习和实践Mojo编程。
 
-## [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar)
-这个项目遵循 Attribution-NonCommercial 4.0 国际许可，这意味着该项目不允许用于商业用途。如果想要将此项目作为网站的avatar生成器使用，是自由的；但如果构建一个主要基于此代码的应用程序，则强烈反对这样的实践。作者不想因为有人抄袭他的代码并从中获利而感到沮丧。
+此外，仓库还提供了贡献指南，对希望为Mojo做出贡献的开发者进行了指导。
+ |
+| [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) | 这个项目是一个混合前端和后端的Next.js版本，以及一个独立的Node.js和Express版本。项目的主要功能是构建一个基于Groq API的问答引擎。
 
-## [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
-"Animate Anyone"是一个项目，目标是实现一种一致且可控的图像到视频转换技术，专门用于角色动画。该项目的研究者包括Li Hu、Xin Gao等人，并已在arXiv预印版上发表了相关论文。
+为了贡献到这个项目，开发者可以fork仓库，然后根据项目的文档进行相应的开发工作，如添加新功能、修复bug或优化性能等。完成后，可以通过提交pull request将你的更改合并到主分支。
 
-虽然目前还没有公开的演示或源代码，但团队明确表示正在积极准备这些内容，以供公众访问和使用。
-
-总的来说，"Animate Anyone"是一个致力于提供高质量图像到角色动画转换技术的项目。
-
-## [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-本文是关于一个名为MoneyPrinterTurbo的项目，该项目基于另一个开源项目重构而来。文章提到了一些优化措施、增加的功能以及对原作者开源精神的感谢。
-
-此外，还提供了查看项目许可证（LICENSE）文件的链接，以便读者进一步了解项目的版权信息。
-
-## [IDEA-Research/T-Rex](https://github.com/IDEA-Research/T-Rex)
-本文主要介绍了T-REX2，这是一个面向通用对象检测的工具。通过文本-视觉提示的协同作用，T-REX2能够处理开放集和指代检测中的视觉提示，并进行相应的分割。此外，本文还提供了相关的代码链接和作者信息。
-
-## [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform)
-本文主要介绍了如何在使用Docker运行pre-commit-terraform时，解决GitHub私有仓库的认证问题。同时，对于来自俄罗斯和白俄罗斯地区的用户，还提供了额外的信息，提醒他们俄罗斯对乌克兰的行动带来的影响。
-
-## [stitionai/devika](https://github.com/stitionai/devika)
-Devika是一个旨在帮助用户进行AI规划和推理的工具。它通过先进的AI算法，如BERT（双向编码器代表），来理解和生成代码。
-
-社区Discord服务器是Devika用户交流、分享经验、提问解答以及协作项目的地方。
-
-如果你对Devika有任何问题或建议，欢迎随时在社区服务器上提出。祝你使用愉快！
-
-## [medusajs/medusa](https://github.com/medusajs/medusa)
-Medusa是一个用于数字 commerce 的模块化系统。它提供了一套可定制的商业组件，用于构建高级电子商务商店、市场或任何需要基本商务功能的产品。
-
-Medusa的架构是开放源码的，并且所有的模块都可在npm上获取。社区和核心团队活跃在GitHub Discourse上，为用户提供支持并讨论项目的发展方向。
-
-总的来说，Medusa是一个强大的数字 commerce 基础，它提供了灵活、可定制的工具，帮助开发者构建高效、可靠的电子商务应用。
-
-## [cnlohr/lolra](https://github.com/cnlohr/lolra)
-这篇博客主要介绍了作者进行的一项LoRa无线通信技术的研究。研究中，作者使用了MikroTik LR9作为发射器，配合Airspy Mini SDR进行接收。同时，还引入了一款LILYGO® T-Beam Meshtastic模块，用于实验中的地面设备。
-
-在研究过程中，得到了许多人的支持和帮助，包括MustardTiger的疯狂支持工作，以及Willmore的编辑工作。
-
-此外，作者的妻子也参与了测试和帮助，而一些在Discord中关注项目的人员也提供了审查和编辑的帮助。
-
-最后，作者感谢所有在自己的开源项目中提供帮助的人们。这次研究不仅技术上有所突破，同时也凝聚了团队合作的力量。
-
-## [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)
-这个项目是一个基于MIT协议的开源项目，用于学习和开发中大型管理系统的管理工具。请尊重作者的版权信息，并在商业用途时保留原作者的信息。关于软件的具体保证和责任问题，请参阅相关协议或直接联系项目维护者。
-
-## [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot)
-这段文字是关于一个低成本机器人领袖臂的详细说明。首先，提到了所需材料，包括6个XL330型号的电动伺服驱动器、一个用于连接和控制的板载伺服驱动器板、5V电源供应器以及用于固定和使用的桌夹。 
+此外，如果你觉得这个项目对你有帮助，或者喜欢我所做的工作，你可以考虑支持我。这可以通过多种方式实现，比如在Patreon上订阅我、购买我的咖啡、访问我的个人网站或在我的GitHub账户上关注我。
+ |
+| [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) | 这段文字是关于一个低成本机器人领袖臂的详细说明。首先，提到了所需材料，包括6个XL330型号的电动伺服驱动器、一个用于连接和控制的板载伺服驱动器板、5V电源供应器以及用于固定和使用的桌夹。 
 
 然后，解释了组装过程，特别是对于简化版本的领袖臂，所有电机都使用5v电压，使得组装更为直接。 
 
 最后，提到了测试脚本teleoperation.py，但警告可能需要调整设备名称。
 
 总结来说，这段文字详细介绍了如何制作一个低成本的机器人领袖臂，并提供了组装和测试的指导。
+ |
+| [gamemcu/www-genshin](https://github.com/gamemcu/www-genshin) | 这个项目是一个基于xviewer.js的在线网站，用于复刻《原神》启动界面。源码包含前端开发，旨在简化three.js的应用。项目提醒用户不要将代码用于非法用途，并且由于访问量大，免费托管服务受限。作者表示会制作更多有趣的项目开源，并鼓励关注者通过B站账号获取更多信息。
+ |
+| [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) | 本文主要介绍了我们团队开发的一个音频驱动的肖像动画合成工具——AniPortrait。这个工具能够根据音频内容生成高度逼真的肖像动画，实现了音频与图像动画的无缝转换。
 
-## [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
-OpenVoice是一个多语言即时语音克隆工具。它具有高精度的音色颜色克隆能力，能够在多种语言和口音之间进行转换。
+在技术实现上，AniPortrait首先通过音频处理提取关键信息，然后利用深度学习和图像渲染技术生成动态肖像动画。整个过程既灵活又高效。
 
-OpenVoice还允许用户通过精细控制来调整声音风格，包括情感表达、口音特征等。此外，该模型在大规模多语言训练数据集上进行了优化，这意味着它可以处理大量音频样本而不会降低性能。
+此外，本文还提供了AniPortrait的详细使用指南以及一个实际案例来展示其功能。希望这个工具能够帮助更多人实现音频驱动的图像动画创作。
+ |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 这个项目是一个基于其他MoneyPrinter项目的重构版本。它做了大量的优化，并增加了新的功能。感谢原作者的开源精神。
 
-总之，OpenVoice是一个强大且灵活的语音克隆工具，适用于各种语音转换和风格控制需求。
+关于许可证，你可以查看链接到的LICENSE文件，这是项目许可证的详细内容。
+ |
+| [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) | 本文主要介绍了GitHub技术社区Doocs的技术分享平台。它是一个专注于分享技术领域知识的社区，包括但不限于Java工程进阶知识、编程书籍推荐等。
 
-## [langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract)
-本文主要介绍了如何在本地运行LangChain的提取服务器。首先，需要配置环境变量，如OpenAI API密钥。然后，使用Poetry进行环境设置和安装所需依赖。接着，创建数据库和迁移文件，以便管理数据结构。最后，通过Makefile执行测试、格式化等操作。
+此外，文章还提供了关注公众号「Doocs」获取离线PDF文档的学习路径，方便读者学习和使用。
+
+总之，Doocs是一个为技术爱好者提供丰富资源和技术交流的平台。
+ |
+| [databricks/dbrx](https://github.com/databricks/dbrx) | 本文主要介绍了Databricks的模型服务，即如何使用Mosaic AI Model Serving来部署和使用DBRX（深度学习基础模型）模型。同时提到了其他支持DBRX的平台和服务，以及如何处理模型输出或社区讨论的问题。最后还概述了Databricks的开源许可证和接受使用政策等内容。
+ |
+| [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) | YARP（Yet Another Reverse Proxy）是一个用于构建高性能HTTP反向代理服务器的项目。该项目旨在提供一个易于定制和扩展的基础设施，以满足不同场景下的反向代理需求。
+
+YARP的设计目标是灵活性和可配置性。它通过使用.NET框架提供的API和服务来实现这一点。用户可以根据自己的需求选择不同的模块和功能，并进行相应的配置。
+
+对于开发人员来说，YARP提供了丰富的API和工具，使得构建高性能的反向代理服务器变得更加高效和便捷。同时，项目还鼓励社区参与，共同推动项目的持续改进和发展。
+ |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | "LLamaIndex" 是一个用于构建和使用基于LLMs（语言模型）的自然语言处理应用的数据框架。它提供了一套工具，包括数据连接器、索引结构、查询引擎等，使得用户能够方便地将他们的数据与LLM服务集成，从而实现更复杂的自然语言处理任务。
+ |
+| [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 本文是一个关于开源iOS应用列表的总结。列表由作者dkhamsing维护，包括App Store上的项目、不再维护的项目和最新的更新项目。
+
+此外，文章还感谢了所有贡献者的支持，并提供了联系作者的方式。
+
+总的来说，这个开源iOS应用列表为开发者提供了一个方便查找和学习的资源库。
+ |
+| [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) | 这是一份关于Suno AI API的Python和FastAPI实现的简介。它支持生成歌曲、歌词等，且内置了自动令牌维护和保持活跃的功能。
+
+使用时，需要配置环境文件（.env.example重命名为.env）并填充会话ID和cookie信息。这些初始信息通常从浏览器中获取，并会自动保持活跃。
+
+此外，还提供了Docker容器的构建和启动命令，以及访问API文档的方法。
+
+如果你对这个项目有任何问题或想要进一步了解，可以联系我。
+ |
+| [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) | 这个项目遵循 Attribution-NonCommercial 4.0 国际许可，这意味着该项目不允许用于商业用途。如果想要将此项目作为网站的avatar生成器使用，是自由的；但如果构建一个主要基于此代码的应用程序，则强烈反对这样的实践。作者不想因为有人抄袭他的代码并从中获利而感到沮丧。
+ |
+| [fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ) | 我们的项目名为Champ，它是一个基于3D参数指导的人类图像动画工具。Champ的目标是提供一种可控和一致的图像生成方式。
+
+我们的模型包括一个用于生成驱动运动的UNet网络，以及一系列用于指导动画生成的深度学习模型，如Guidance Encoders。
+
+我们提供了详细的配置文件和示例数据，方便用户进行模型训练和动画生成。
+
+未来，我们将继续优化Champ的功能，提供更多的3D参数选项，以及与其他图像处理工具的集成。
+ |
+| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 本文主要介绍了MindsDB的安装、数据集成和贡献者指南。首先，提供了Docker镜像的下载链接，方便用户快速获取。接着，详细阐述了如何通过Docker或pip进行安装，并提供了常见问题的解答。
+
+关于数据集成，文章指出MindsDB支持数百种数据源，包括数据库、数据仓库、流处理系统等。并提供了创建新数据源的步骤和注意事项。
+
+对于贡献者，本文提到了查看当前贡献者的GitHub页面，以及如何通过First timers only issues参与到项目中来。同时，也鼓励有兴趣的人参与进来，共同推动MindsDB的发展。
+
+总的来说，本文为想要使用MindsDB进行数据分析或集成的开发者提供了全面而详细的指导。
+ |
+| [langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract) | 本文主要介绍了如何在本地运行LangChain的提取服务器。首先，需要配置环境变量，如OpenAI API密钥。然后，使用Poetry进行环境设置和安装所需依赖。接着，创建数据库和迁移文件，以便管理数据结构。最后，通过Makefile执行测试、格式化等操作。
 
 如果你对开发或使用这个项目有任何问题，或者想要贡献代码，请访问项目的GitHub页面（https://github.com/langchain-ai/langchain-extract）并参与讨论。
+ |
+| [istio/istio](https://github.com/istio/istio) | 本文主要介绍了Istio项目，它是Cloud Native Computing Foundation（CNCF）的一个项目。文章详细描述了Istio的代码库分布，各个组件的功能以及如何通过GitHub进行问题跟踪和优先级设定。最后，还提到了Istio是CNCF项目这一事实。
+ |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 这段文本是关于一个名为"Midday"的项目或应用的介绍。它详细描述了项目的架构，包括使用Monorepo、Bun、React和TypeScript等技术。此外，还提到了项目的托管服务，如Supabase和Vercel，以及使用的各种服务，如Trigger.dev和Loops等。
 
-## [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-本文是一份关于生成式人工智能（AI）的指南。它包括了多个主题的代码教程，如RAG Tutorials（一系列教程）、LLM Fine-tuning tutorials等。
+总结来说，这是一个在积极开发中的企业级应用项目，它注重代码质量、最佳实践，并利用多种服务来提升用户体验。
+ |
+| [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) | 这个项目是一个开源的Quivr应用程序，它使用Apache 2.0 License。项目的目标是提供一个用于学习和分享编程知识的平台。
 
-此外，文章还提到了如何贡献到这个资源库，以及如果需要引用这份指南应该如何操作。
+项目的贡献者列表显示了哪些人对项目的开发做出了贡献。合作伙伴列表则列出了支持该项目的其他组织或个人。
 
-总的来说，这是一份全面且实践导向的生成式AI学习指南。
+最后，关于星星历史图表，这个链接展示了项目在GitHub上的星标数量随时间变化的情况，可以用来观察项目的受欢迎程度如何随着时间推移而变化。
+ |
+| [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) | 应用ReVanced Manager用于Android设备，它使用ReVanced Patcher进行应用程序的修补。该应用具有简单易用的用户界面，支持多种自定义选项，包括配置API、选择源代码、语言设置、签名keystore、主题定制等。
 
-## [lencx/Noi](https://github.com/lencx/Noi)
-这篇内容是关于Noi，一个跨平台定制化浏览器的介绍。它首先解释了Noi的理念，并推荐新手阅读详细的使用文档。
-
-接着提到了国内用户如果遇到问题或想交流，可以关注公众号「浮之静」并加入相关群组进行讨论。
-
-最后鼓励用户分享Noi应用带来的帮助，或者通过微信扫码打赏以表达感谢。
-
-## [reactjs/react.dev](https://github.com/reactjs/react.dev)
-这是一个关于React.js文档网站的README文件。它包含了如何获取和使用这个网站的方法，以及创建新分支并提交代码的步骤。
-
-此外，README还提到了翻译工作的相关信息，以及网站内容的版权信息。
-
-总结来说，这个README文件为想要贡献或使用React开发文档的人提供了指导。
-
-## [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
-该工作坊系列包含一系列Python笔记本，旨在帮助参与者了解如何使用Amazon Bedrock服务。以下是获取和开始探索实验室笔记的步骤：
-
-1. **安装必要的环境****：**首先需要在你的笔记本环境中安装必要的工具，如`unzip`来解压Bedrock SDKs。
-
-2. **克隆并进入工作坊仓库****：**然后通过命令行或Studio中的终端，使用`git clone`命令将这个GitHub仓库克隆到本地。
-
-3. **切换到工作坊目录****：**之后需要进入这个工作坊目录，这可以通过命令行的`cd`命令来操作。
-
-4. **开始探索笔记********：**现在你已经准备好开始探索这些实验室笔记了。首先可以查看`00_Prerequisites/bedrock_basics.ipynb`笔记，那里详细介绍了如何安装Bedrock SDKs，创建客户端并开始调API的Python代码示步骤。
+用户可以通过链接下载最新版本的应用程序，或者直接访问GitHub页面获取。此外，还提供了详细的文档供用户参考学习如何使用ReVanced Manager进行应用程序的修补和个性化定制。
+ |
+| [gradio-app/gradio](https://github.com/gradio-app/gradio) | Gradio 是一个用于轻松分享和测试机器学习模型的开源工具。它允许用户在野外环境中无需复杂设置即可快速共享和测试他们的模型。通过@article{abid2019gradio, ...},您可以查阅完整的论文引用以在您的工作中使用Gradio时进行适当的引用。
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)
-本文主要介绍了如何使用LLMs（大型语言模型）进行各种任务，包括信息检索、问题解答、结构化输出等。同时，文章还提到了如何获取OpenAI或Hugging Face的API key以使用这些服务。
-
-对于如何选择合适的LLM模型，文章建议参考Hugging Face MTEB leaderboard，这是一个展示不同模型性能的平台。
-
-最后，文章还提供了获取Hugging Face API key的具体步骤，这对于想要使用Hugging Face服务的人来说是重要的信息。
-
-## [semanser/codel](https://github.com/semanser/codel)
-这是一个关于全自主AI代理的GitHub README文件。它详细介绍了如何运行这个项目，包括后端API、数据库集成、Docker容器运行等步骤。
-
-此外，README还提到了项目的未来计划，包括API改进、前端优化、性能提升以及与SWE-bench等基准的比较。
-
-总的来说，这是一个关于全自主AI代理开发和管理的GitHub README文件。
-
-## [run-llama/llama_index](https://github.com/run-llama/llama_index)
-"LLamaIndex" 是一个用于构建和使用基于LLMs（语言模型）的自然语言处理应用的数据框架。它提供了一套工具，包括数据连接器、索引结构、查询引擎等，使得用户能够方便地将他们的数据与LLM服务集成，从而实现更复杂的自然语言处理任务。
-
-## [rerun-io/rerun](https://github.com/rerun-io/rerun)
-Rerun是一个用于可视化多模态数据的SDK。它主要用于计算机视觉和机器人产品团队，帮助他们更好地理解和展示他们的数据。
-
-如果你是开发者，想要了解如何安装预发布的Python SDK，可以参考以下步骤：
-
-1. 访问GitHub Releases页面，找到正确的`.whl`文件。
-2. 使用命令行工具（如`pip install`）来安装这个`.whl`文件。例如：`pip install rerun_sdk.<filename>.whl`
-3. 测试安装是否成功，运行`rerun --version`检查版本号。
-
-如果你是使用Rerun的用户，想要了解如何获取最新版本或进行其他操作，请查阅相关文档或在项目GitHub页面上寻找帮助。
-
-## [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
-本文主要介绍了如何使用E2B（Execute Anything）工具与AI产品集成，实现数据分析等功能。同时，文章还提到了一些已有的AI团队和开源项目，供读者参考。
-
+ |
 ---
 # 36氪 - 24小时热榜
 ## [恭喜雷军，“地狱”来了](https://www.36kr.com/p/2709988242045065)
