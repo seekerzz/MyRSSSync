@@ -2,14 +2,50 @@
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [【🧨看看究竟有多强】Claude计算机操作能力大挑战 - Web开发 / 访问文件系统 / 操作系统管理](https://www.bilibili.com/video/BV1iXy1YgEb1) | 2024-10-25 07:51:40 | |
+| [【OpenAI Swarm极简入门】02 集成100%本地化开源大模型 - Ollama运行的Llama 3.2与3.1能运行Swarm吗？](https://www.bilibili.com/video/BV1UA1NYLEVJ) | 2024-10-24 07:22:23 | |
+| [【🚀 震撼发布】Anthropic带来全新模型Claude 3.5 Sonnet与Haiku，可以操作电脑的大模型来了！](https://www.bilibili.com/video/BV1uFy9YUE6a) | 2024-10-23 07:24:41 | |
+| [【OpenAI Swarm极简入门】01 多代理编排的初体验](https://www.bilibili.com/video/BV1nYyEYuE2a) | 2024-10-22 07:08:12 | |
+| [【用过的最昂贵API💰】OpenAI的聊天API支持语音啦！用Cursor 10分钟开发一个语音助手玩玩](https://www.bilibili.com/video/BV1nkCDYbEXL) | 2024-10-19 08:32:58 | |
+| [【小红书爆款利器😏】黑森林最新力作 Flux1.1 [pro]，生成超高清超逼真图片](https://www.bilibili.com/video/BV1gsywY6EFh) | 2024-10-17 07:03:04 | |
+| [【事半功倍💥】自从用上OpenAI Meta-Prompt，人人都是提示词高手啦！](https://www.bilibili.com/video/BV1YvmJYqE8t) | 2024-10-15 06:53:56 | |
+| [【颠覆格局💥】Bolt.new - AI云端Web应用开发与部署平台初体验。开发，部署，说说话，统统搞定](https://www.bilibili.com/video/BV1Vq2iY7EbA) | 2024-10-13 08:01:38 | |
+| [【效果炸裂💥】Vanna.AI + Plotly构建基于AI的SQL数据分析与可视化应用](https://www.bilibili.com/video/BV1oH2uYkEMi) | 2024-10-10 07:32:35 | |
+| [LangChain + Realtime API + Tavily - 支持实时搜索的语音助手](https://www.bilibili.com/video/BV1w12jYgEn3) | 2024-10-08 07:10:23 | |
+| [OpenAI Realtime API - 构建超低延迟的实时语音助手](https://www.bilibili.com/video/BV1tS1rYSERs) | 2024-10-07 07:32:09 | |
+| [ChatGPT发布重大更新【Canvas】- Cursor的竞争对手来了吗❓](https://www.bilibili.com/video/BV1oN1SYQEpZ) | 2024-10-05 07:47:28 | |
 # 小工蚁创始人
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [人工智能12个应用场景案例 （2/2）#小工蚁](https://www.bilibili.com/video/BV1CcymY9EJK) | 2024-10-27 08:15:00 | 人工智能在制造生产、财务策略、零售电商和房地产等领域的应用案例，特别是大模型在用户画像、风控和智能问答中的作用。<br/>AI在制造生产、财务策略和房地产领域的应用，通过数据挖掘和模型学习，实现个性化推荐和风控<br/>0:02 案例细节需要进一步了解<br/>0:13 报表通过开源工具生成，数据仓库使用Click House，BI工具展示数据<br/>0:38 AI模型自动检测异常，区别于固定值规则，学习并优化报警机制<br/>4:04 应用场景包括制造生产、财务策略、个性化推荐和零售电商<br/>4:31 个性化推荐根据用户画像和转化率，提高用户价值<br/>4:58 房地产项目通过小程序获取用户画像，用于风控和交叉销售<br/>AI在客户标签、用户行为分析、零部件查询、故障码诊断、风控系统、法律咨询和药物管理等领域的应用<br/>6:54 人工智能不依赖人为定义标签，而是自动识别和更新。<br/>7:25 当用户量庞大时，传统方式更新标签慢，人工智能可以实时更新。<br/>8:06 人工智能在打标签后，可以通过实时数据仓库帮助用户圈选特定用户。<br/>|
+| [人工智能12个应用场景案例 （1/2）#小工蚁](https://www.bilibili.com/video/BV1Noy2Y4Enk) | 2024-10-26 08:15:01 | |
+| [如何提高垂直领域RAG准确率？ #小工蚁](https://www.bilibili.com/video/BV14cy6Y6EN3) | 2024-10-25 08:15:00 | 如何提高垂直领域RAG准确率，通过UC伯克利的AFT算法，训练IG模型识别有效参考资料，避免混淆，提升准确率20多个百分点。<br/>提高垂直领域RAG准确率，需要通过模型微调，特别是识别有效参考资料的能力<br/>0:01 如何提高垂直领域RAG准确率是视频的主要议题<br/>0:11 LUCY伯克利提出了AFT算法，通过微调IG模型提高准确率<br/>0:44 微调的能力在于让模型识别有效和无效的参考资料，避免混淆答案<br/>提高垂直领域RAG准确率需混合相关与无关文档，通过模型推理和纠错<br/>5:31 需要混合包含回答问题和参考资料的文档，并进行推理过程以提高RAG准确率。<br/>6:03 添加CUT推理能力可以显著提升模型性能，否则准确率会下降。<br/>6:28 P参数指上下文中有效文档的比例，过高或过低都会影响准确率，最佳比例在40%到60%之间。<br/>8:47 IFT策略可以帮助IG在专业领域做RG，提高准确率，微调后的模型可以超过未微调的大模型。<br/>|
+| [F5-TTS TTS开源语音模型 克隆声音TTS演示#小工蚁](https://www.bilibili.com/video/BV1HzypYDEZC) | 2024-10-24 08:15:00 | 交大额发布的F5-TTS和E2TTS开源语音模型，包括模型的安装、权重和源代码发布，以及模型的主要作用和推理性能。特别展示了如何使用模型克隆声音，包括选择参考文档和合成声音的过程。<br/>F5-TTS开源语音模型，支持声音克隆，推理性能强。<br/>0:01  F5TTS开源语音模型，交大额发布，用于将语言转换为声音，推理性能强。<br/>1:02  模型能克隆声音，选择参考书本知识，检索增强，合成埃隆马斯克相关内容。<br/>F5-TTS开源语音模型克隆声音TTS演示，语音语调接近参考文档，性能需在模型上测试<br/>2:00  语音模型推理有问题，但语调接近参考文档<br/>2:15  工具方便，性能在机器上测不出<br/>2:28  需要委托到模型上测试<br/>|
+| [EMU3大统一的多模态大模型  #小工蚁](https://www.bilibili.com/video/BV1a5ynYFEHA) | 2024-10-23 08:15:00 | EMU3大统一的多模态大模型。该模型不仅理解视频和图片，还能生成视频和图片，实现了端到端的能力。它通过统一的Transformer架构，预测下一个token，实现了多模态的统一。该模型在生成视频和图片的能力上达到了业界最强，尤其是生成视频的能力，超过了OpenSA1.2。该模型在GitHub上已发布，包括权重和论文。该模型的推出将引领新的潮流，改变多模态AI领域。<br/>EMU3大统一多模态模型，端到端生成视频、图片，性能最强<br/>0:01  EMU3多模态大模型发布，支持视频、图片生成<br/>0:21  大模型采用Transformer decoder only架构，实现多模态统一<br/>1:31  在开源模型中，EMU3在图片和视频理解上达到最强水平<br/>EMU3大统一多模态大模型，由中国智源研究所研发，引领多模态AI新潮流<br/>2:08 EMU3模型有机会引领多模态AI新潮流，效果显著。<br/>2:49 模型使用DPO方案，直接反馈人类喜好，生成视频预测能力强。<br/>3:28 模型统一视觉TOIZE，词汇量大，架构简洁，原理基于z ft t和DPU优化<br/>|
+| [谷歌实践如何让大模型“读懂”海量表格数据？RIG&RAG #小工蚁](https://www.bilibili.com/video/BV1BTCDYWE9d) | 2024-10-21 08:15:00 | 谷歌实践如何让大模型"读懂"海量表格数据，通过IG&RAG方法，提升模型回答事实数据的准确性，尽管准确率尚未达到80%以上，但相对于原始模型有显著提升。<br/>谷歌实践通过IG&RAG让大模型理解海量表格数据，提升准确性和引用可靠性<br/>0:01 谷歌实践通过让大模型理解海量表格数据，解决日常应用中的事实查询问题。<br/>0:21 他们利用大模型回答公开数据，数据量巨大，包含美国NGO等多方面的信息。<br/>1:34 实验主要测试大模型如何检索非结构化数据库，采用IG rag和RI及两种方法。<br/>谷歌实践在大模型理解海量表格数据上，IG方法优于RIG，主要改进方向为模型微调和数据覆盖<br/>6:32 truth调用方式的准确性和数据推理的准确性。<br/>6:56 在超大规模的common数据集上，大模型的准确率在60%左右，IG的准确率在70%到76%左右，均未达到预期。<br/>10:12 在data a common table的测试场景中，IG的方法略胜一筹，因为它能够更准确地获取和处理数据。<br/>|
+| [推荐一本书《大模型项目实战》](https://www.bilibili.com/video/BV1ujy8YSEuj) | 2024-10-20 16:05:11 | 作者推荐一本《大模型项目实战》书，该书包含基础知识、操作和开发三部分，有助于初学者理解大模型，提升竞争力。<br/>推荐《大模型项目实战》书，系统介绍基础知识、软件硬件和操作流程<br/>0:01 推荐《大模型项目实战》书，帮助理解大模型知识<br/>0:25 书包含基础知识、软件硬件介绍和大模型操作指南<br/>1:30 了解基础设施、操作系统、软件和模型安装、微调、量化等重要知识<br/>《大模型项目实战》推荐给老板们，了解人工智能基础，提升竞争力<br/>2:02 了解大模型项目实战中的高性能推理和多模态模型应用<br/>2:13 掌握模型操作，超过50%同行<br/>2:25 了解人工智能应用场景，掌握编程助手和数字人开发<br/>3:01 老板应了解基础内容，提升理解能力<br/>3:24 推荐《大模型项目实战》书，帮助入门人工智能<br/>|
+| [2024 AMD AI解决方案介绍  #小工蚁](https://www.bilibili.com/video/BV1uYyKYDErx) | 2024-10-20 08:15:00 | AMD2024AI解决方案，包括数据中心、无人驾驶、边缘计算等，重点介绍了MI300芯片和ROCOM6.2软件生态，强调开源和与英伟达竞争的优势。<br/>AMD AI解决方案全面覆盖数据中心、边缘计算与游戏卡，2024年将推出MI325芯片，拥抱开源生态。<br/>0:01 AMD AI解决方案全面，包括数据中心、无人驾驶和边缘计算，软件生态日益完善。<br/>1:03 在数据中心的CPU上，AMD与英特尔竞争激烈，甚至占据上风。<br/>2:06 AMD的核心拳头产品是MI系列，特别是MI300，对标H100，性能强大，内存带宽高。<br/>AMD AI解决方案开源，性能提升，生态完善，性价比高<br/>4:09  AMD的AI解决方案开源，集成了FaceS和OpenAI的CHATON，支持Python编程。<br/>4:50  软件站提供驱动、开箱即用设计和开源AI生态优化，优势在于完全开源。<br/>5:37  ROCOM五代和六代性能提升，6.2版本比6.0提升大，支持游戏GPU卡AI推理加速。<br/>|
+| [PyTorch2.5发布有哪些新功能？ #小工蚁](https://www.bilibili.com/video/BV1uoCdYsEDf) | 2024-10-19 21:10:13 | PyTorch2.5的新功能，包括CCUDNNBACKEND优化、DPA算法提升GPU性能，以及Flash Attention统一各种注意力机制，提高模型效率。<br/>PyTorch2.5发布DUDNNBACKEND优化和Flash Attention变种注意力机制<br/>0:01 PYTORCH2.5发布，引入了CCUDNNBACKEND for s DP a和reacks attention两个重要功能。<br/>0:21 CCUDNNBACKEND优化深度神经网络，提升H100等GPU性能75%。reacks attention统一了各种注意力机制，提高计算效率。<br/>PyTorch2.5发布新功能，包括统一Flash Attention API，优化GPI，提升G100 GPU性能75%<br/>4:38 PyTorch 2.5通过统一Flash Attention和GPI优化，大幅降低计算成本。<br/>5:07 新引入Score Mode自定义方法，提高计算效率。<br/>6:06 LIBI的Bars算子用于长上下文注意力，满足算子要求。<br/>6:54 吉马和GROCK1模型使用正则化算法防止模型收敛。<br/>7:21 MR.模型使用滑动窗口和Casual机制减少显存重量。<br/>7:47 Flash Attention API原型发布，影响开源项目优化。<br/>|
+| [LightRAG一种简单高效的RAG新方法  #小工蚁](https://www.bilibili.com/video/BV1CbmNYLEYr) | 2024-10-19 08:15:01 | |
+| [多个大模型哪个输出更好对比工具 #小工蚁](https://www.bilibili.com/video/BV1eZmnYrETY) | 2024-10-18 08:15:00 | |
+| [ToolGen大模型调用工具新方法 #小工蚁](https://www.bilibili.com/video/BV1jwmjYYEEL) | 2024-10-17 08:18:00 | |
 # AIGCLINK
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [Open Interpreter+ScreenPipe：实现AI Agent对计算机上看到或听到的所有内容采取action，除了计算机使用能力能力还有记忆能力](https://www.bilibili.com/video/BV1Siy6Y2EQc) | 2024-10-24 17:47:32 | |
+| [Claude compute：Claude发布计算机使用能力、claude3.5新版本、claude haiku新版本，史上最强的大模型驱动的RPA工具](https://www.bilibili.com/video/BV1cHydYGEen) | 2024-10-23 09:52:38 | |
+| [VisRAG：清华和面壁智能提出了多模态RAG新方法，基于视觉的多模态文档检索增强生成，专用于处理含有图表等复杂信息的多模态文档，比传统RAG提高25-39%](https://www.bilibili.com/video/BV1wZyHYSEK9) | 2024-10-22 16:09:28 | |
+| [Claude Financial Data Analyst：AI金融数据分析师来了，可从财报中提取关键信息输出为专业图表，大大提升证券分析师的工作效率](https://www.bilibili.com/video/BV1FQyLY8EsS) | 2024-10-21 20:46:33 | |
+| [Zion：5分钟无代码上线企业级AI应用，赋能超级个体的场景落地与商业变现，以及ai应用产品如何出海，含实操AI故事插画生成的商业化落地](https://www.bilibili.com/video/BV1UzCoYREc2) | 2024-10-19 17:58:22 | |
+| [KLing API：人人都可以创建AI虚拟试穿应用，每个电商网站、线下实体店都可落地自己的AI虚拟试穿，极大的促进AI在电商行业的应用落地和发展](https://www.bilibili.com/video/BV1eMC2YNEyA) | 2024-10-18 18:01:27 | |
+| [Knowledge Table：使用AI从非结构化数据提取关键信息结构化，实现从合同、公司年度报告或收益报表中提取关键信息入库结构化，非常有商用场景](https://www.bilibili.com/video/BV13uyNYEEEZ) | 2024-10-17 18:54:46 | |
+| [Open-canvas：OpenAI-canvas的开源实现，颠覆传统写作和编程场景，可本地化部署快速接入到公司内部OA系统、编程IDE系统等，实现AI辅助](https://www.bilibili.com/video/BV1cgmPYzEBU) | 2024-10-16 16:33:12 | |
+| [F5-TTS：上交大、剑桥、吉利研究院联合发布的开源TTS，可零样本声音克隆，生成的语音自然且富有表现力，适用于播客、语音合成等多种场景](https://www.bilibili.com/video/BV1Tm2oYcEu2) | 2024-10-15 21:03:20 | |
+| [Surya：支持90+种语言的OCR神器，可实现多语言的布局分析、表格识别、顺序读取，性能媲美各种商业化OCR工具，每页处理速度0.62秒](https://www.bilibili.com/video/BV1xnm5YkEVD) | 2024-10-14 18:21:06 | |
+| [Swarm：openai官方发布多智能体agent框架，通过两个原始抽象（Agent和handoof）来实现对话在agent之间的切换，非常适合在复杂、高可控的](https://www.bilibili.com/video/BV1UD2BYLECJ) | 2024-10-13 18:32:54 | |
+| [description-generator：基于Llama 3.2 Vision的电商项目，根据商品图片生成多语言产品描述，为电商产品描述提供了一种AI解决方案](https://www.bilibili.com/video/BV1pW2SYeEFH) | 2024-10-11 19:26:54 | |
 # 技术爬爬虾
 ---
 | Title | Date | Summary |
