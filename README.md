@@ -2,6 +2,7 @@
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [我用AI无代码开发平台20分钟创建了儿童绘本制作应用](https://www.bilibili.com/video/BV1hF1EYREsV) | 2024-10-29 07:00:05 | 作者如何利用AI无代码开发平台Sign，仅用20分钟就创建了一个儿童绘本制作应用。通过Sign的无代码开发平台，作者构建了一个包含故事生成、分镜生成和插图生成的应用。应用中集成了大模型，用于生成故事和插图提示词，并通过AI代理和行为流实现了数据的存储和更新。此外，应用还包含了分镜代理，用于根据故事生成分镜。整个开发过程展示了AI在无代码开发中的应用潜力。<br/>AI无代码开发儿童绘本应用<br/>0:01 介绍AI在儿童绘本中的应用，利用AI生成故事内容。<br/>2:07 创建儿童绘本应用，包括关键词生成故事和故事生成插图的页面。<br/>6:13 使用AI代理生成故事和插图，介绍生成故事和生成插图提示词的代理。<br/>20分钟用AI平台建儿童绘本应用<br/>10:02 生成四个分镜，使用故事内容作为输入参数，输出包含每个分镜的数据。<br/>10:47 介绍行为流，包括生成插图、插入分镜表和更新故事表，详细说明其输入和输出。<br/>19:00 演示应用流程，输入关键词生成故事，点击生成插图后，基于故事内容生成插图和分镜。<br/>AI无代码平台20分钟建儿童绘本应用<br/>20:00  利用AI无代码平台Sign快速构建儿童绘本应用，相关链接和登录链接将放在视频描述中。<br/>20:16  Sign平台支持AI代理与行为流编排，帮助用户快速构建和部署AI应用。<br/>20:39  本次分享结束，期待下次再见。<br/>|
 | [【🧨看看究竟有多强】Claude计算机操作能力大挑战 - Web开发 / 访问文件系统 / 操作系统管理](https://www.bilibili.com/video/BV1iXy1YgEb1) | 2024-10-25 07:51:40 | |
 | [【OpenAI Swarm极简入门】02 集成100%本地化开源大模型 - Ollama运行的Llama 3.2与3.1能运行Swarm吗？](https://www.bilibili.com/video/BV1UA1NYLEVJ) | 2024-10-24 07:22:23 | |
 | [【🚀 震撼发布】Anthropic带来全新模型Claude 3.5 Sonnet与Haiku，可以操作电脑的大模型来了！](https://www.bilibili.com/video/BV1uFy9YUE6a) | 2024-10-23 07:24:41 | |
@@ -13,7 +14,6 @@
 | [【效果炸裂💥】Vanna.AI + Plotly构建基于AI的SQL数据分析与可视化应用](https://www.bilibili.com/video/BV1oH2uYkEMi) | 2024-10-10 07:32:35 | |
 | [LangChain + Realtime API + Tavily - 支持实时搜索的语音助手](https://www.bilibili.com/video/BV1w12jYgEn3) | 2024-10-08 07:10:23 | |
 | [OpenAI Realtime API - 构建超低延迟的实时语音助手](https://www.bilibili.com/video/BV1tS1rYSERs) | 2024-10-07 07:32:09 | |
-| [ChatGPT发布重大更新【Canvas】- Cursor的竞争对手来了吗❓](https://www.bilibili.com/video/BV1oN1SYQEpZ) | 2024-10-05 07:47:28 | |
 # 小工蚁创始人
 ---
 | Title | Date | Summary |
