@@ -18,7 +18,7 @@
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
-| [AI 能自主操控电脑了，揭秘实现原理 #小工蚁](https://www.bilibili.com/video/BV14j1pY8EDL) | 2024-10-29 08:15:00 | |
+| [AI 能自主操控电脑了，揭秘实现原理 #小工蚁](https://www.bilibili.com/video/BV14j1pY8EDL) | 2024-10-29 08:15:00 | AI自主操控电脑的原理。AI通过安装在电脑上的ENC server，结合AIPC上的agent，实现对电脑的远程控制。核心在于多模态模型能够识别电脑屏幕图像，根据指令在相应应用中执行操作。云3.5的API在视觉问答方面表现优异，使得AI能够自主完成复杂任务。目前该功能仍处于测试阶段，存在风险，需谨慎使用。<br/>AI自主操控电脑原理：AI通过云端API与本地服务器交互，实现对电脑的远程控制与操作。<br/>0:01 AI能自主操控电脑，实现原理揭秘<br/>1:00 AI通过ENC server远程控制电脑，AIPC上运行agent接受指令<br/>2:00 cloud3.5 API帮助AI分析截图，控制电脑操作<br/>AI通过多模态模型识别和控制电脑，实现自主操作。<br/>2:48  AI通过识别和编辑器操控电脑，接受图片并分析应用，通过VCN Plant API操控电脑。<br/>3:25  通过浏览器控制电脑，使用WEBSOCKET API实现，本质上是一个agent。<br/>4:07  AI通过多模态模型识别桌面图像，根据指令在相应应用上完成动作，核心能力是多模态。<br/>|
 | [B站大数据智能体实践 #小工蚁](https://www.bilibili.com/video/BV1jz1pYyEPv) | 2024-10-28 08:15:00 | B站大数据智能体实践'小工蚁'。B站作为大型视频网站，拥有海量数据，大数据平台对其业务至关重要。他们面临的挑战是处理大量离线计算和实时计算任务。为了解决任务失败和变慢的问题，他们开发了一个人工智能助手，使用智能体技术，结合大模型和知识库，进行问题推理和任务执行。该助手通过建立知识库，使用react智能体，进行问题分解和执行，最终给出解决方案。实践过程中，他们发现准确度是关键，通过问题向量化，语义级别分块，检索增强和模型重排等方法，提升了准确度。此外，他们强调了质量检测工具的重要性，通过不断反馈和调优，提升智能体的性能。<br/>B站大数据智能体实践，通过知识库建立和问题分解，提升IG准确度<br/>0:01 大数据智能体实践，B站拥有海量数据，大数据平台复杂，每天27万离线任务和7000条实时任务，任务失败或变慢，人工排查工作量大。<br/>1:00 B站通过训练智能体，辅助工程师解决任务失败问题，定位任务失败原因复杂，需根据任务日志具体分析。<br/>2:00 B站智能体实践总结：建立知识库，使用react智能体方案，分解用户问题，执行子任务，提升准确度，经验包括只做问题embedding，基于语义级别分块，检索增强和RERANK提升准确度。<br/>B站大数据智能体实践，包括质量检测工具、agent模式、IG知识库和智能体架构，面临精度和推理能力挑战<br/>5:16 他们强调了优化提示词和持续优化的重要性<br/>5:29 提到了质量检测工具，用于自动化测试和反馈<br/>6:23 介绍了IG的rag知识库和reaction智能体的使用，包括离线、实时和评测场景<br/>|
 | [人工智能12个应用场景案例 （2/2）#小工蚁](https://www.bilibili.com/video/BV1CcymY9EJK) | 2024-10-27 08:15:00 | 人工智能在制造生产、财务策略、零售电商和房地产等领域的应用案例，特别是大模型在用户画像、风控和智能问答中的作用。<br/>AI在制造生产、财务策略和房地产领域的应用，通过数据挖掘和模型学习，实现个性化推荐和风控<br/>0:02 案例细节需要进一步了解<br/>0:13 报表通过开源工具生成，数据仓库使用Click House，BI工具展示数据<br/>0:38 AI模型自动检测异常，区别于固定值规则，学习并优化报警机制<br/>4:04 应用场景包括制造生产、财务策略、个性化推荐和零售电商<br/>4:31 个性化推荐根据用户画像和转化率，提高用户价值<br/>4:58 房地产项目通过小程序获取用户画像，用于风控和交叉销售<br/>AI在客户标签、用户行为分析、零部件查询、故障码诊断、风控系统、法律咨询和药物管理等领域的应用<br/>6:54 人工智能不依赖人为定义标签，而是自动识别和更新。<br/>7:25 当用户量庞大时，传统方式更新标签慢，人工智能可以实时更新。<br/>8:06 人工智能在打标签后，可以通过实时数据仓库帮助用户圈选特定用户。<br/>|
 | [人工智能12个应用场景案例 （1/2）#小工蚁](https://www.bilibili.com/video/BV1Noy2Y4Enk) | 2024-10-26 08:15:01 | |
@@ -34,6 +34,7 @@
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [OmniParser：微软发布截屏解析器， 可识别任何截屏中的可交互图标，理解屏幕中各个元素的含义，从而可准确地将预期动作与屏幕上的相应区域关联操作](https://www.bilibili.com/video/BV1CQS8YWERq) | 2024-10-29 19:13:47 | |
 | [MaskGCT：支持多国语言生成、效果非常不错的TTS，其在生成的语音质量、克隆相似度、清晰度等方面优于当前最先进的 TTS，人人都可克隆多国语言](https://www.bilibili.com/video/BV1wY1LYiEXP) | 2024-10-28 18:24:08 | |
 | [Open Interpreter+ScreenPipe：实现AI Agent对计算机上看到或听到的所有内容采取action，除了计算机使用能力能力还有记忆能力](https://www.bilibili.com/video/BV1Siy6Y2EQc) | 2024-10-24 17:47:32 | |
 | [Claude compute：Claude发布计算机使用能力、claude3.5新版本、claude haiku新版本，史上最强的大模型驱动的RPA工具](https://www.bilibili.com/video/BV1cHydYGEen) | 2024-10-23 09:52:38 | |
@@ -45,7 +46,6 @@
 | [Open-canvas：OpenAI-canvas的开源实现，颠覆传统写作和编程场景，可本地化部署快速接入到公司内部OA系统、编程IDE系统等，实现AI辅助](https://www.bilibili.com/video/BV1cgmPYzEBU) | 2024-10-16 16:33:12 | |
 | [F5-TTS：上交大、剑桥、吉利研究院联合发布的开源TTS，可零样本声音克隆，生成的语音自然且富有表现力，适用于播客、语音合成等多种场景](https://www.bilibili.com/video/BV1Tm2oYcEu2) | 2024-10-15 21:03:20 | |
 | [Surya：支持90+种语言的OCR神器，可实现多语言的布局分析、表格识别、顺序读取，性能媲美各种商业化OCR工具，每页处理速度0.62秒](https://www.bilibili.com/video/BV1xnm5YkEVD) | 2024-10-14 18:21:06 | |
-| [Swarm：openai官方发布多智能体agent框架，通过两个原始抽象（Agent和handoof）来实现对话在agent之间的切换，非常适合在复杂、高可控的](https://www.bilibili.com/video/BV1UD2BYLECJ) | 2024-10-13 18:32:54 | |
 # 技术爬爬虾
 ---
 | Title | Date | Summary |
@@ -58,30 +58,34 @@
 ---
 | Title | Summary |
 | --- | --- |
-| [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) | 这段文字是关于Open Interpreter这个工具的介绍和使用指南。它首先解释了Open Interpreter是如何通过一个具有函数调用功能的语言模型来执行代码的。<br/><br/>然后，它提到了如何访问文档以获取更多详细信息，包括贡献指南和未来路线图等。<br/><br/>最后，它引用了OpenAI在其代码解释器发布时的一段话，强调了Open Interpreter工具可能带来的便利性和编程普及的好处。 |
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 这段内容是关于 PowerShell 项目的一些指导和信息。主要包括以下几个方面：<br/><br/>1. **Building the Repository**：提供了如何通过Git克隆源代码的步骤。<br/><br/>2. **Downloading Source Code**：如果不想通过Git，也可以直接下载源代码的链接。<br/><br/>3. **Developing and Contributing**：详细介绍了如何参与开发以及贡献代码的指南。<br/><br/>4. **Support**：指出了获取支持的方式，包括查看支持文档等。<br/><br/>5. **Governance Policy**：强调了项目管理政策，包括代码规范、治理结构等内容。<br/><br/>6. **Security Policy**：对于任何安全问题，提供了查看和遵循的安全策略链接。 |
 | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | 这是一个Android应用的README文件，用于描述ViMusic应用程序。以下是关键信息摘要：<br/><br/>1. **应用介绍**：ViMusic是一个用于从YouTube Music流音乐的应用。<br/><br/>2. **安装方式**：提供GitHub和IzzyOnDroid Droid Store的下载链接。<br/><br/>3. **开发者认可**：提到YouTube-Internal-Clients作为研究项目，以及ionicons图标库的使用。<br/><br/>4. **免责声明**：声明ViMusic项目与YouTube、Google LLC等实体无关，并明确商标归属。 |
-| [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 这段文字是一个关于Web爬虫伦理讨论的摘要。讨论指出，虽然Web爬虫为多个领域提供了便利，但存在风险，如恶意使用和数据侵犯问题。作为工具开发者，期望其能用于合法目的，并倡导合理合法地利用系统，尊重并保护数据安全和隐私。 |
+| [stanford-oval/storm](https://github.com/stanford-oval/storm) | 我们的项目致力于研究自动知识库的构建，以帮助用户从海量信息中获取有价值的知识。我们通过收集和整理高质量的Wikipedia文章来创建FreshWiki数据集，并利用这些数据进行模型训练。<br/><br/>未来的工作将包括开发参与式功能，让用户参与到知识生成过程中；设计信息抽象层，支持不同格式的信息展示；以及持续优化算法，提高知识库的质量和用户满意度。<br/><br/>如果您对我们的项目有任何问题或建议，请随时提出。我们欢迎所有贡献者共同推动这项研究的发展！ |
 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 这段文字是关于ToolJet的，一个可以在线构建应用的平台。它提到了ToolJet现在可以在AWS和Azure市场找到，方便用户访问和部署。<br/><br/>此外，还提供了获取帮助的方式，包括Slack、GitHub问题以及Twitter等社交媒体渠道。<br/><br/>最后，提及了ToolJet的开发模型是git-flow分支模式，并且明确了其开源许可证为GNU Affero General Public License v3.0。 |
-| [anthropics/courses](https://github.com/anthropics/courses) | Anthropic的教育课程包括五个课程，旨在教授使用Claude SDK进行API基础操作的方法。课程按照特定顺序排列，如"Anthropic API fundamentals"等。此外，课程通常会倾向于使用低成本模型，以降低学生在跟随材料学习时的API费用。如果需要其他Claude模型，可以根据个人喜好选择。 |
 | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 以下是LobeChat项目的中文摘要：<br/><br/>这个项目是一个开源的聊天机器人平台，由LobeHub团队维护。它旨在帮助开发者快速构建和定制聊天机器人，以满足各种应用场景的需求。<br/><br/>LobeChat的主要特性包括：<br/>- **主题化设计**：提供现代主题，易于定制UI。<br/>- **AI生成图像**：通过ChatGPT快速创建丰富多样的图片。<br/>- **Midjourney WebUI**：用于管理Midjourney任务的Web界面。<br/>- **i18n自动化工具**：使用ChatGPT自动处理国际化翻译过程。<br/><br/>LobeChat遵循Apache 2.0开源许可证，欢迎开发者贡献代码、提出问题和建议，共同推动这个项目的发展。 |
-| [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) | 这段文本是关于如何使用Mindcraft（一种基于LLM的 Minecraft聊天和嵌入工具）的详细指导。它包括如何配置bot后台的LLM模型，设置用于影响行为的提示，以及如何通过命令行指定多个agent profiles。<br/><br/>此外，文本还提到了模型参数的格式，如果模型或嵌入方法未明确指定，将使用默认值。对于需要添加补丁的情况，也给出了具体的步骤。 |
-| [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent是一个用C++/Qt编写的BitTorrent客户端。它依赖于libtorrent库，由Arvid Norberg开发。<br/><br/>qBittorrent的目标是提供一个稳定、快速且具有Unicode支持的BitTorrent客户端。它还提供了论坛、wiki以及官方IRC频道等资源供用户交流和获取帮助。<br/><br/>总之，qBittorrent是一个开源的BitTorrent客户端，致力于为用户提供稳定、高效和功能丰富的BitTorrent体验。 |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 本文是一篇关于fzf（一个快速、简洁的命令行文本过滤器）的介绍和使用技巧的文章。文章首先解释了fzf如何尊重.gitignore文件，以及在fish shell中通过键盘快捷键实现对目录搜索的特性。接着还提供了一个自定义FZF_CTRL_Т_COMMAND的示例，以充分利用这一功能。最后提到了一个名为“fzf Theme Playground”的在线平台，用户可以在这个平台上互动式创建fzf主题。 |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 这段内容是关于如何配置和运行一个基于Jellyfin的媒体服务器，但不包含在同一个容器中托管前端Web客户端的具体步骤。如果需要详细步骤，可以参考相关文档链接：<https://github. com/OmniSharp/omnisharp-vscode/wiki/How- to- run- and- debug- unit- tests>或者直接查看jellyfin-web的README文件。 |
+| [soimort/you-get](https://github.com/soimort/you-get) | 这段文本是关于一个名为"you-get"的软件的介绍和法律声明。主要信息包括：<br/><br/>1. **软件分发**："you-get"遵循MIT许可协议，用户可以免费获取并使用该软件。<br/><br/>2. **法律责任**：如果用户因使用该软件而侵犯版权或其他违法行为，作者将无法承担责任。<br/><br/>3. **作者信息**：软件的创建者是 "@soimort"，他本人也由咖啡、啤酒和面条等元素支持。<br/><br/>4. **贡献者列表**：文本还提到可以在GitHub上找到所有贡献者的列表。 |
+| [anthropics/courses](https://github.com/anthropics/courses) | Anthropic的教育课程包括五个课程，旨在教授使用Claude SDK进行API基础操作的方法。课程按照特定顺序排列，如"Anthropic API fundamentals"等。此外，课程通常会倾向于使用低成本模型，以降低学生在跟随材料学习时的API费用。如果需要其他Claude模型，可以根据个人喜好选择。 |
+| [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) | Amphion是一个开源的音频、音乐和语音生成工具包。它为研究和商业用途提供了音频处理和生成的功能。这个项目在2024年的IEEE Spoken Language Technology Workshop（SLT）中发布，标志着其在音频技术领域的贡献。 |
+| [usememos/memos](https://github.com/usememos/memos) | Memos是一个开源、自我托管的笔记应用程序。它设计用于快速部署和多平台访问，支持用户以纯文本形式保存内容，并提供Markdown格式的支持进行快速格式化。<br/><br/>此外，Memos还包含一个轻量级但功能强大的Go编译器Gomark，用于解析存储在Memos中的Markdown内容。<br/><br/>总的来说，Memos是一个集笔记、链接分享和代码解析于一体的多功能平台。 |
+| [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) | Meta Llama是一个用于自然语言处理的开源模型库。这个仓库包含了不同版本的LLAMA（Lambada Model for NLP）模型，以及相关的训练脚本和数据集。<br/><br/>LLAMA模型是基于Lambada语言规范设计的预训练语言模型，适用于各种NLP任务，如文本分类、命名实体识别等。<br/><br/>如果你想了解如何使用LLAMA模型进行特定任务的训练或预测，或者想要贡献代码或提出问题，可以查阅仓库中的相关文档和代码。 |
+| [huggingface/lerobot](https://github.com/huggingface/lerobot) | 这段话是关于一个名为"LeRobot"的项目，该项目旨在开发先进的机器学习技术，用于现实世界中的机器人操作。项目提供了多种政策架构、预训练模型和数据集，供研究者使用和扩展。<br/><br/>此外，这段话还提到了一些具体的贡献者，包括他们的名字和他们在项目中扮演的角色。这表明这个项目的研发工作是由多个专家团队共同完成的。 |
+| [termux/termux-app](https://github.com/termux/termux-app) | 这段文本是关于如何进行代码提交时的 commit message 写作指南。主要分为以下几个部分：<br/><br/>1. **Commit Message Guidelines**：强调了使用特定格式的 commit messages 的重要性，这些格式包括类型（如 Added、Changed等）、描述和可能的身体部分。<br/><br/>2. **具体类型说明**：列出了几种常见的 commit 类型，如新增（Added）、更改（Changed）、废弃（Deprecated）、移除（Removed）以及修复（Fixed）和安全更新（Security）。<br/><br/>3. **关于forking的额外信息**：对于那些想要修改或创建新包名称的开发者，提到了需要重新编译bootstrap zip文件，并且链接了具体步骤的文档。<br/><br/>总的来说，这段文本是为那些在GitHub上进行代码提交的开发者提供一个详细的commit message写作指南。 |
+| [ai16z/eliza](https://github.com/ai16z/eliza) | 这段文本是关于Eliza，一个多代理模拟器的介绍。它提到了需要设置环境变量，包括OpenAI API key等，并且详细列出了这些变量的名称和用途。<br/><br/>此外，文本还提到如何在本地运行Eliza，以及如何配置Discord Bot来与之交互。 |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 这段内容是关于 PowerShell 项目的一些指导和信息。主要包括以下几个方面：<br/><br/>1. **Building the Repository**：提供了如何通过Git克隆源代码的步骤。<br/><br/>2. **Downloading Source Code**：如果不想通过Git，也可以直接下载源代码的链接。<br/><br/>3. **Developing and Contributing**：详细介绍了如何参与开发以及贡献代码的指南。<br/><br/>4. **Support**：指出了获取支持的方式，包括查看支持文档等。<br/><br/>5. **Governance Policy**：强调了项目管理政策，包括代码规范、治理结构等内容。<br/><br/>6. **Security Policy**：对于任何安全问题，提供了查看和遵循的安全策略链接。 |
 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 这段内容是关于Skyvern AI的开源项目，包括贡献指南、技术支持方式以及项目的许可证信息。还提到了一个星历史图表链接，但具体图表内容并未在摘录中给出。 |
-| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Dioxus是一个跨平台的UI工具包，它使用WGPU渲染器来提供原生感觉。Dioxus鼓励使用HTML和CSS进行布局，并且提供了自动格式化、热重载和打包工具等开发者便利功能。<br/><br/>尽管Dioxus与Electron（一个基于Web技术构建桌面应用的框架）有相似之处，但它们在轻量级、成熟度和资源共享方面存在区别。Dioxus通常会比Electron的最终产品文件小，因为它不需要像Electron那样嵌入额外的Chromium实例。<br/><br/>对于贡献者来说，Dioxus鼓励参与并提供问题解答服务。同时，项目还提供了GitHub issue tracker来报告和跟踪问题。<br/><br/>总的来说，Dioxus是一个轻量级、易于使用且具有强大开发者工具支持的UI框架。 |
+| [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | 这段文字是关于一个iOS规则脚本项目的介绍。项目中整合了互联网上其他开源项目的资源，并对部分脚本进行了配置，如Quantumult X Gallery和BoxJS的订阅。<br/><br/>此外，还提到了感谢的对象，包括一些GitHub用户名的用户，他们在这个项目中提供了帮助和支持。<br/><br/>总的来说，这是一个关于自动化iOS规则脚本，整合外部资源并表示感谢的项目介绍。 |
 # 36氪 - 24小时热榜
 ---
 | Title | Summary |
 | --- | --- |
+| [MiniMax：7000万美金营收下的甜蜜和隐忧｜焦点分析](https://www.36kr.com/p/3012129118414342) | MiniMax是一家AI独角兽企业，其核心产品Talkie在英语市场增长放缓后，开始布局东南亚市场以寻求新机遇。此外，MiniMax还在内部尝试通过自主创建AI角色来提升陪伴工具的用户体验。<br/><br/>然而，扩张过程中也面临挑战，如产品定位摇摆导致团队流失、与已有强劲对手的竞争压力以及市场适应性等问题。<br/><br/>总的来说，MiniMax正通过多元化战略和市场拓展来应对AI行业的竞争和变化。 |
+| [开盘暴涨468%市值超400亿，41岁海归博士敲钟了](https://www.36kr.com/p/3012977190958209) | 拉普拉斯是一家专注于半导体分立器件设备研发和生产的公司。以下是其主要业务和发展亮点的摘要：<br/><br/>1. 技术积累深厚：<br/>   - 拥有519项已授权专利，其中发明专利54项。<br/>   - 逐步进入半导体分立器件设备领域。<br/><br/>2. 客户导入成功：<br/>   - 设备已完成向比亚迪、基本半导体等企业的导入工作。<br/><br/>3. 市场潜力大：<br/>   - 产品处于客户导入和验证阶段，尚未形成规模化的销售收入。<br/><br/>4. 融资亮点明显：<br/>   - 在2022年12月，拉普拉斯获得了中芯国际旗下多家投资机构的高额估值投资。<br/><br/>综合以上信息，可以看出拉普拉斯在半导体分立器件设备领域具有一定的技术积累和市场潜力。同时，其融资表现也显示出投资者对其未来发展的信心。 |
+| [vivo爆款的120小时](https://www.36kr.com/p/3012937983374217) | 本文讨论的是vivo一款产品的翻车事件对品牌的影响。具体包括魅族Pro7系列因“月亮门”事件导致销量下滑，以及vivo在眩光门事件中的公关处理方式引发内部员工的质疑。<br/><br/>总结来说，一次产品翻车可能会成为品牌形象转折点，需要企业及时应对和修复形象。 |
+| [“中年人的茅台”终于还是输给了“青年新能车”](https://www.36kr.com/p/3012962539234560) | 本文主要讲述了3季度公募持股变动情况，重点提及了阿里巴巴和百胜中国等企业的新纳入重仓股，并分析这些名单背后的创新成分和经济空间。<br/><br/>此外，文章还列举了一些其他新入重仓股的公司，如密尔克卫、康华生物、哈药股份等，以展示公募基金在投资组合配置上的多元化策略。<br/><br/>总的来说，本文通过分析3季度公募持股变动情况，揭示了当前市场中创新和技术驱动的投资趋势。 |
+| [获数千万元B轮融资，「知行机器人」加速布局具身智能 · 36氪首发](https://www.36kr.com/p/3012907546502402) | 知行机器人科技有限公司完成了数千万元B轮融资，本轮融资由诚美资本与中关村智友科学家基金联合领投。资金将用于公司核心产品及系统的研发、拓展和推广。此外，知行机器人在航空航天领域技术积累深厚，产品品质高，未来发展前景被看好。 |
 | [AI 招聘「作弊」逗笑马斯克，在简历加一句话就让面试邀约涨四倍，百万网友围观](https://www.36kr.com/p/3012832817980679) | AI 面试官与 AI 求职者之间的互动，揭示了面试过程中人机交流的现状和问题。文章呼吁面试官和求职者都应少一些套路，多一些真诚，以实现更有效的沟通和评估。 |
 | [8点1氪｜塔斯汀汉堡被曝吃出生肉；飞天茅台价格跌近2000元；南京博物院免费门票被黄牛炒至200元](https://www.36kr.com/p/3012833415226889) | 以下是关于几个科技和汽车产品的简要咨询摘要：<br/><br/>1. 苹果发布iMac搭载M4芯片，首批AI功能落地。这款产品具有更快的处理速度和人工智能支持，适用于需要高性能计算能力的用户。<br/><br/>2. 智己汽车宣布具备L3级自动驾驶量产条件，成为首个同时具备L2、L3、L4智能驾驶的品牌。这意味着智己汽车在自动驾驶技术方面走在了前列，为用户提供更安全便捷的出行体验。<br/><br/>请根据具体需求或问题进行深入咨询。 |
 | [苹果29999元一台的Vision Pro确实要停产了 · 焦点分析](https://www.36kr.com/p/3007628930393346) | 苹果下一代空间计算设备可能会采取类似“SE版”的策略，即推出更便宜、功能简化的产品版本来吸引大众。预计销量会显著超过Vision Pro今年的出货量，并可能成为2025年考验苹果空间计算产品大众接受度的关键一年。 |
-| [日本第一“烂店”：越乱越受欢迎，卖低价却赚了大钱](https://www.36kr.com/p/3011679701394688) | 唐吉诃德的成功在于其商业模式天然抗周期，能够抓住经济景气时的普通和经济不景气时的大好机会。这种模式类似于德国阿尔迪、美国罗斯等以低价吸引消费者的企业，尽管看起来赚的钱不多，但基数庞大，消费潜力巨大。<br/><br/>对于中国来说，虽然高大上的超市遍地开花，但在消费需求日益多元化的背景下，像唐吉诃德这样的“穷人超市”依然有其生存和发展空间。通过精准定位和价格优势，这类企业能够吸引大量中低收入消费者，从而实现稳定的利润来源。 |
-| [年轻人为何涌向小县城：在“破圈”之旅中寻找生活的另一面？](https://www.36kr.com/p/3011693205844866) | 小县城的崛起不仅是年轻人逃离都市压力的临时避风港，更是一种生活方式和文化认同的转变。通过这些小城，年轻人在消费选择、生活节奏上找到了与现代城市生活不同的体验。<br/><br/>未来，中国的小县城不仅会成为旅游目的地，还可能引领一种新的“慢生活”潮流。这种趋势将吸引更多年轻人关注并参与到这样的生活方式中来。<br/><br/>总结来说，小县城的崛起不仅是年轻人的“避风港”，更是中国旅游业发展的一个新方向和可能性。 |
-| [陶哲轩神预言，Transformer破解百年三体难题，凭数学直觉找到李雅普诺夫函数](https://www.36kr.com/p/3011896633714182) | 这项研究通过训练Transformer模型在生成数据集上进行学习，成功地找到了多项式动力系统的李雅普诺夫函数。这表明Transformer具有一定的推理能力，能够通过数据学习复杂的系统特征。<br/><br/>此外，研究还展示了AI在科学发现中的潜力，尤其是在非多项式系统定义域的扩展方面。这项工作为未来AI在科学研究中的应用提供了新的思路和方法。 |
-| [我们为什么不买优衣库了？](https://www.36kr.com/p/3012038725543172) | 这篇文章的摘要可以概括为以下几点：<br/><br/>1. **优衣库面临挑战**：文章提到优衣库在中国大陆的主要市场面临着增长放缓和竞争加剧的问题。<br/><br/>2. **本土化门店策略**：针对这一问题，文章提出优衣库可能通过调整其连锁体系以适应本地消费者需求的本土化门店策略。<br/><br/>3. **效率与兴趣消费转变**：文章还指出，随着消费者生活方式的变化，提升效率的选择变多，消费者开始关注品牌是否“与我有关”，这为优衣库提供了新的市场机会。<br/><br/>总结来说，这篇文章讨论了优衣库在中国面临挑战时可能采取的本土化门店策略，并分析了这一策略背后消费者行为和市场趋势的变化。 |
-| [AI玩毁灭人类游戏，全程自主操控惊呆教授，Claude 3.5硬核实测来袭](https://www.36kr.com/p/3011896396522753) | Claude，一个AI研究员，进行了一项测试，目的是评估Claude是否具备在人类毁灭性游戏中扮演角色的能力。尽管结果参半，但这项测试揭示了AI在复杂人机交互中的潜力和挑战。 |
 # eess.AS updates on arXiv.org
 ---
 | Title | Summary |
