@@ -2,52 +2,104 @@
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [【独立开发笔记】Cursor开发Chrome插件Beautify Markdown · 关于如何寻找点子？如何快速开发原型？](https://www.bilibili.com/video/BV1MuDMYqEJm) | 2024-11-06 08:19:31 | |
+| [【Perplexity终结者来了吗？】ChatGPT支持实时搜索啦！AI搜索引擎市场越发热闹！](https://www.bilibili.com/video/BV11rDFYkEQY) | 2024-11-02 08:04:40 | |
+| [我用AI无代码开发平台20分钟创建了儿童绘本制作应用](https://www.bilibili.com/video/BV1hF1EYREsV) | 2024-10-29 07:00:05 | 作者如何利用AI无代码开发平台Sign，仅用20分钟就创建了一个儿童绘本制作应用。通过Sign的无代码开发平台，作者构建了一个包含故事生成、分镜生成和插图生成的应用。应用中集成了大模型，用于生成故事和插图提示词，并通过AI代理和行为流实现了数据的存储和更新。此外，应用还包含了分镜代理，用于根据故事生成分镜。整个开发过程展示了AI在无代码开发中的应用潜力。<br/>AI无代码开发儿童绘本应用<br/>0:01 介绍AI在儿童绘本中的应用，利用AI生成故事内容。<br/>2:07 创建儿童绘本应用，包括关键词生成故事和故事生成插图的页面。<br/>6:13 使用AI代理生成故事和插图，介绍生成故事和生成插图提示词的代理。<br/>20分钟用AI平台建儿童绘本应用<br/>10:02 生成四个分镜，使用故事内容作为输入参数，输出包含每个分镜的数据。<br/>10:47 介绍行为流，包括生成插图、插入分镜表和更新故事表，详细说明其输入和输出。<br/>19:00 演示应用流程，输入关键词生成故事，点击生成插图后，基于故事内容生成插图和分镜。<br/>AI无代码平台20分钟建儿童绘本应用<br/>20:00  利用AI无代码平台Sign快速构建儿童绘本应用，相关链接和登录链接将放在视频描述中。<br/>20:16  Sign平台支持AI代理与行为流编排，帮助用户快速构建和部署AI应用。<br/>20:39  本次分享结束，期待下次再见。<br/>|
+| [【🧨看看究竟有多强】Claude计算机操作能力大挑战 - Web开发 / 访问文件系统 / 操作系统管理](https://www.bilibili.com/video/BV1iXy1YgEb1) | 2024-10-25 07:51:40 | |
+| [【OpenAI Swarm极简入门】02 集成100%本地化开源大模型 - Ollama运行的Llama 3.2与3.1能运行Swarm吗？](https://www.bilibili.com/video/BV1UA1NYLEVJ) | 2024-10-24 07:22:23 | |
+| [【🚀 震撼发布】Anthropic带来全新模型Claude 3.5 Sonnet与Haiku，可以操作电脑的大模型来了！](https://www.bilibili.com/video/BV1uFy9YUE6a) | 2024-10-23 07:24:41 | |
+| [【OpenAI Swarm极简入门】01 多代理编排的初体验](https://www.bilibili.com/video/BV1nYyEYuE2a) | 2024-10-22 07:08:12 | |
+| [【用过的最昂贵API💰】OpenAI的聊天API支持语音啦！用Cursor 10分钟开发一个语音助手玩玩](https://www.bilibili.com/video/BV1nkCDYbEXL) | 2024-10-19 08:32:58 | |
+| [【小红书爆款利器😏】黑森林最新力作 Flux1.1 [pro]，生成超高清超逼真图片](https://www.bilibili.com/video/BV1gsywY6EFh) | 2024-10-17 07:03:04 | |
+| [【事半功倍💥】自从用上OpenAI Meta-Prompt，人人都是提示词高手啦！](https://www.bilibili.com/video/BV1YvmJYqE8t) | 2024-10-15 06:53:56 | |
+| [【颠覆格局💥】Bolt.new - AI云端Web应用开发与部署平台初体验。开发，部署，说说话，统统搞定](https://www.bilibili.com/video/BV1Vq2iY7EbA) | 2024-10-13 08:01:38 | |
+| [【效果炸裂💥】Vanna.AI + Plotly构建基于AI的SQL数据分析与可视化应用](https://www.bilibili.com/video/BV1oH2uYkEMi) | 2024-10-10 07:32:35 | |
 # 小工蚁创始人
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [用LLM大模型来评估RAG实践 #小工蚁](https://www.bilibili.com/video/BV1F7DsYKEaC) | 2024-11-07 08:15:00 | |
+| [探究模型亲缘关系以合并大语言模型 #小工蚁](https://www.bilibili.com/video/BV16DSqYKEiL) | 2024-11-06 08:15:00 | |
+| [部署大模型在TorchServe+vLLM #小工蚁](https://www.bilibili.com/video/BV1SJDAYsExV) | 2024-11-05 08:15:00 | 如何部署大模型在TorchServe+vLLM。PyTorch官方博客介绍了大模型推理部署的方案，使用了开源的PyTorch的Torch Serve和VLLM构成。Torch Serve是一个稳定的框架，支持多种模型，具有灵活的个性化处理能力，包括推理前和推理后的定制化处理。此外，它还具备高级日志、模型版本控制等功能，适合云原生架构。文章详细介绍了如何通过Docker镜像启动VLLM，结合Torch Serve进行大模型推理部署。<br/>PyTorch官方博客介绍了大模型在TorchServe与VLLM的结合，实现高效、灵活的推理部署。<br/>0:01 介绍大模型在TorchServe+vLLM的部署方案，使用PyTorch的Torch Server和VLLM构成。<br/>1:02 Torch Server是一个稳定的框架，支持多种模型，提供定制化处理机制，可以在推理前后添加功能。<br/>2:10 文章详细介绍了VLLM与Torch Server的结合，通过镜像文件启动，支持多种协议（如Restful和GRPC）。<br/>部署大模型在TorchServe+vLLM，支持同步/异步模式，性能强。<br/>2:50 支持多种功能，可与其他系统整合，适合生产部署<br/>3:15 提供同步和异步两种模式，减少后端压力，适合不同延迟要求<br/>4:05 详细步骤部署TorchServe与VAAM，使用拉玛3.1710B模型，配置文件和目录设置<br/>|
+| [多模态大模型在网易音乐推荐的应用 #小工蚁](https://www.bilibili.com/video/BV1yTDwYCEgX) | 2024-11-04 08:15:00 | 多模态大模型在网易音乐推荐场景的应用。网易音乐通过引入大模型，解决了推荐系统中的马太效应和新歌冷启动问题，提升了用户的播放时长和点击率。其推荐系统分为数据层、特征层和推荐层，利用大模型提取文本、图片和音频特征，丰富推荐系统的理解能力。技术上，网易音乐采用Spark和Hive进行数据处理，结合多种多模态模型提取特征，最终实现个性化推荐。<br/>网易音乐利用多模态大模型提升推荐效果，解决马太效应与新歌冷启动问题。<br/>0:01 多模态大模型在网易音乐推荐中落地，解决马太效应和新歌冷启动问题。<br/>1:20 大模型通过提取歌曲文本、图片、音频特征，提升推荐系统对音乐的理解能力，缓解马太效应和新歌冷启动问题。<br/>4:41 网易音乐推荐系统分为数据层、特征层和推荐层，利用多模态大模型提取特征，提升推荐效果。<br/>多模态大模型在网易音乐推荐中的应用，提升召回率50%。<br/>5:18 多模态大模型在音乐推荐中的应用，通过文字、图片、音频特征的抽取，增强音乐特征。<br/>6:04 除了音乐特征，还结合用户行为、场景特征，形成统一的特征表达，进行个性化推荐。<br/>7:27 通过多模态大模型，提高推荐多样性，提升召回率，实现歌单、长视频等多场景推荐。<br/>|
+| [firecrawl基于LLM开源爬虫项目 #小工蚁](https://www.bilibili.com/video/BV1LYSRYCE7V) | 2024-11-03 08:15:00 | 开源项目firecrawl（小工蚁）的基本功能和应用。它是一个基于LLM的大模型结合的爬虫项目，能够将网页内容爬取并输出为markdown格式或结构化数据。项目支持本地部署和API调用，可与大模型框架如lanchain等整合。其云端版本提供更强大的功能，如抓取保护机制、代理IP获取、dashboard监控等。该项目目前非常热门，拥有1.8万颗星星。<br/>开源爬虫项目FireCrawl结合大模型，自动输出结构化数据。<br/>0:01 开源项目"firecrown"是一个结合了大模型的爬虫，能够将网站内容输出为markdown格式。<br/>0:10 项目开源，提供本地部署和API方案，支持多种编程语言控制。<br/>0:51 与开源大模型框架整合，如lanchain，通过API爬取网页内容并输出markdown格式。<br/>开源爬虫项目FireCrawl支持多种格式返回数据，提供本地和云端部署，适合抓取敏感数据。<br/>2:01 可返回多种格式，包括markdown和HTML，支持meta data<br/>2:27 云端版本包含本地部署内容，更强大功能，如抓取受保护的网站，代理变化等<br/>3:11 本地部署主要提供SDK，支持抓取、爬取和大模型抽取结构化文档，适合数据敏感场景<br/>|
+| [大模型数字水印技术](https://www.bilibili.com/video/BV1obSRYLEP6) | 2024-11-02 08:15:00 | 大模型数字水印技术的原理与应用。通过在生成文本中嵌入数字水印，能够鉴别大模型输出的真实性。该技术通过在生成过程中引入随机种子，生成特定的水印文本，并通过分类算法判断其来源。Google的DeepMind与Hugging Face合作，将其集成到Transformer模型中，实现了这一功能。通过水印的鉴别，可以更好地判断文本的生成者是人类还是大模型。<br/>大模型数字水印技术可鉴别生成文本来源。<br/>0:01 大模型数字水印技术介绍，解决生成文本难辨人机问题。<br/>0:14 Google DeepMind在Transformers中加入数字水印技术，通过专业模型判断文本来源。<br/>1:10 水印原理：大模型生成文本时，加入特定水印key，确保文本中包含特定信息。<br/>大模型数字水印技术通过算法预测token，实现文本水印，并通过分类算法判断生成来源。<br/>2:02 通过大模型预测生成文本，难以察觉水印。<br/>2:44 使用随机key初始化，参数影响效果与算力。<br/>3:08 通过特定类检测水印，确认大模型生成。<br/>|
+| [谷歌发现RAG缩放定律 释放LLM长上下文潜力 提升RAG准确率  #小工蚁](https://www.bilibili.com/video/BV1gs1MYZEPq) | 2024-11-01 08:15:00 | 谷歌DeepMind发现的RAG缩放定律，揭示了长上下文大模型在提升RAG准确率方面的潜力。通过迭代的RAG方法，研究者们能够更有效地利用长上下文信息，进一步提升RAG的准确度。实验结果表明，随着上下文长度的增加，RAG的准确率也随之提升，尤其是在超过一兆上下文时，迭代的RAG算法表现出了更高的性能。<br/>谷歌DeepMind发现RAG缩放定律，提升长上下文RAG准确率。<br/>0:01 Google DeepMind提出RAG缩放定律，提升长上下文RAG准确率。<br/>2:00 ITERDRG方法通过迭代方式，充分利用大模型上下文能力，提升RAG准确度。<br/>4:00 实验显示，迭代RAG方法在复杂任务中表现优异，准确率显著提升。<br/>谷歌发现RAG缩放定律，提升LLM长上下文潜力，提高RAG准确率。<br/>4:35 缩放定律定义了利用长上下文大模型能力的函数，通过调整文档数量和示例数量，优化RAG准确率。<br/>6:08 关键参数包括放入上下文的文档数量和示例数量，过多或不足都不利，结合使用可提高准确率。<br/>8:04 Google DeepMind介绍了在大模型长上下文中，如何选择文档和算法以提高RAG准确率，强调迭代DRG算法的重要性。<br/>|
+| [偏好学习提升LLM的通用推理能力  #小工蚁](https://www.bilibili.com/video/BV1BV1YYGEpZ) | 2024-10-31 08:18:00 | 一篇名为'偏好学习提升LLM的通用推理能力'的论文。该论文由伯克利大学和纽约大学联合发布，主要探讨了如何通过算法提升大模型的推理能力。论文提出了一种新的微调算法，名为TTPO，通过DPO训练，让大模型具备更强的通用任务能力。实验结果显示，通过TTPO训练的模型在推理能力上显著提升，尤其是在处理复杂问题时的表现更为突出。此外，论文还探讨了如何让大模型通过思考过程提升能力，并通过自动生成数据来进一步增强模型的能力。<br/>论文通过新算法提升大模型推理能力，自动生成数据。<br/>0:01 探讨如何提升LLM的通用推理能力，引入新算法（GPU）进行微调。<br/>1:00 利用思考过程生成数据，通过DPO训练提升模型能力，提出TTPO方法。<br/>2:00 通过DPO训练，使用用户反馈优化模型，专注于问题回答的输出，简化思考过程的评判。<br/>偏好学习提升LLM通用推理能力<br/>4:24 使用超参数控制输出长度，惩罚过长，追求准确与简洁。<br/>5:04 通过DPO训练，结合拉玛38b和8B奖励模型，提升JUDGEMENT模型性能。<br/>5:29 TPO训练方式显著提升胜率，8B小模型表现优于大模型，尤其在推理和逻辑分析方面。<br/>|
+| [Dubbo3.3微服务框架发布 有啥新功能？#小工蚁](https://www.bilibili.com/video/BV1H41pYXERC) | 2024-10-30 08:15:00 | Dubbo3.3微服务框架的最新发布及其新功能。Dubbo3.3引入了triple x协议，这是基于GRPC协议的全面兼容版本，增强了互联互通性，使得跨语言分布式函数调用变得更加便捷。此外，triple x协议还提升了性能和稳定性，减少了丢包率和延迟。这些改进使得Dubbo3.3在微服务开发中更具竞争力，尤其是在AI应用和跨语言开发场景中。<br/>Dubbo3.3发布，支持GRPC协议，实现跨语言分布式调用。<br/>0:01 Dubbo 3.3 是开源的云原生微服务开发框架，重要度不亚于 Spring，广泛用于中国各大银行、证券及云厂商。<br/>1:10 Dubbo 3.3 发布 Triple X 协议，全面兼容 GRPC 协议，实现 HTTP 协议下的互联互通，不受端口限制。<br/>1:47 Triple X 协议支持跨语言分布式函数调用，方便在 AI 应用场景中构建业务系统。<br/>Dubbo3.3支持多种语言无缝调用，提升性能，简化开发。<br/>2:00 Dubbo3.3支持多种语言，实现跨语言函数调用，灵活架构。<br/>2:30 Dubbo3.3通过GPX协议，无需HTTP或Web包装，直接实现协议转换，提高开发效率。<br/>3:08 Dubbo3.3性能提升，支持HTTP3，UP增长五倍，内存分配更小，并发数更高，丢包率更低，延迟更短。<br/>|
+| [AI 能自主操控电脑了，揭秘实现原理 #小工蚁](https://www.bilibili.com/video/BV14j1pY8EDL) | 2024-10-29 08:15:00 | |
+| [B站大数据智能体实践 #小工蚁](https://www.bilibili.com/video/BV1jz1pYyEPv) | 2024-10-28 08:15:00 | |
+| [人工智能12个应用场景案例 （2/2）#小工蚁](https://www.bilibili.com/video/BV1CcymY9EJK) | 2024-10-27 08:15:00 | |
 # AIGCLINK
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [Fish Agent：零样本克隆声音、支持8种语言的TTS语音对话Agent，实现实时、带情感的语音对话，让每个人都可以拥有陪伴类克隆分身，服务特殊人群](https://www.bilibili.com/video/BV1y1D3YzEHY) | 2024-11-06 17:41:04 | |
+| [claude-3.5-sonnet：干翻市场已有的PDF解析器和OCR解析器，适用于分析理解各种图表和表格、提取文档的结构化信息，大大促进AI文档处理的准确率](https://www.bilibili.com/video/BV1XPDhYuEMw) | 2024-11-05 18:04:10 | |
+| [Cofounder：AI全栈程序员+项目经理，可平替Cursor+v0、Cline的AI全栈构建工具，通过一句话需求即可生成带有界面、前端、后端、数据库的网站](https://www.bilibili.com/video/BV18XDHYyExy) | 2024-11-04 19:21:06 | |
+| [Agent-S：像人一样使用计算机的开源agent框架，通过Agent-Computer接口实现与计算机的自动交互，解决计算机任务自动化中的三个关键挑战](https://www.bilibili.com/video/BV1LESZYDEK2) | 2024-11-01 20:39:56 | |
+| [phidata：国外爆火的Agent-ui框架，基于它可快速构建Muti-Agents，且可将构建的Agents快速在ui界面中测试，从而满足客户poc展示需求](https://www.bilibili.com/video/BV1eNS7YTEZ9) | 2024-10-31 15:50:35 | |
+| [cline：AI全栈程序员变AI研发团队，现支持Claude Computer Use，可实时预览代码、自动修复代码、自主地浏览网页、自主网页上测试、自主修复](https://www.bilibili.com/video/BV1DKSiYEEkz) | 2024-10-30 17:01:18 | |
+| [OmniParser：微软发布截屏解析器， 可识别任何截屏中的可交互图标，理解屏幕中各个元素的含义，从而可准确地将预期动作与屏幕上的相应区域关联操作](https://www.bilibili.com/video/BV1CQS8YWERq) | 2024-10-29 19:13:47 | |
+| [MaskGCT：支持多国语言生成、效果非常不错的TTS，其在生成的语音质量、克隆相似度、清晰度等方面优于当前最先进的 TTS，人人都可克隆多国语言](https://www.bilibili.com/video/BV1wY1LYiEXP) | 2024-10-28 18:24:08 | |
+| [Open Interpreter+ScreenPipe：实现AI Agent对计算机上看到或听到的所有内容采取action，除了计算机使用能力能力还有记忆能力](https://www.bilibili.com/video/BV1Siy6Y2EQc) | 2024-10-24 17:47:32 | |
+| [Claude compute：Claude发布计算机使用能力、claude3.5新版本、claude haiku新版本，史上最强的大模型驱动的RPA工具](https://www.bilibili.com/video/BV1cHydYGEen) | 2024-10-23 09:52:38 | |
+| [VisRAG：清华和面壁智能提出了多模态RAG新方法，基于视觉的多模态文档检索增强生成，专用于处理含有图表等复杂信息的多模态文档，比传统RAG提高25-39%](https://www.bilibili.com/video/BV1wZyHYSEK9) | 2024-10-22 16:09:28 | |
+| [Claude Financial Data Analyst：AI金融数据分析师来了，可从财报中提取关键信息输出为专业图表，大大提升证券分析师的工作效率](https://www.bilibili.com/video/BV1FQyLY8EsS) | 2024-10-21 20:46:33 | |
 # 技术爬爬虾
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [一个软件搞定全球视频下载，8万star的开源视频下载器](https://www.bilibili.com/video/BV1A2DVY2EC5) | 2024-11-06 21:11:36 | |
+| [开发一个AI行程助手，UP主只用了一下午](https://www.bilibili.com/video/BV1rRSnY8EfB) | 2024-11-04 16:00:09 | |
+| [三分钟了解网络异步编程，为什么javascript的fetch需要等待两次？](https://www.bilibili.com/video/BV1LYSoYHEmo) | 2024-11-01 21:18:05 | |
+| [没有公网IP？cloudflare优选IP，高速内网穿透](https://www.bilibili.com/video/BV1PPy6YzE5C) | 2024-10-24 20:40:35 | |
+| [直接使用git pull拉代码，被同事狠狠diss了！](https://www.bilibili.com/video/BV1McyYYtEX4) | 2024-10-20 16:41:02 | |
+| [浏览器指纹是什么？14种指纹背后的技术原理](https://www.bilibili.com/video/BV1VmmNYAE53) | 2024-10-16 21:09:30 | |
 # 秋芝2046
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
+| [教你10分钟打造专属AI客服，接入各大平台【扣子小白教程】](https://www.bilibili.com/video/BV11sD5YSEGz) | 2024-11-06 18:13:04 | |
+| [1分钟教你用AI实现相声自由！【最强AI声音F5-TTS，一键启动】](https://www.bilibili.com/video/BV1gDDcYxEZE) | 2024-11-02 13:47:24 | |
+| [她来了！会哭会方言还能操控手机的国产AI发布了](https://www.bilibili.com/video/BV1fo15YFE56) | 2024-10-28 12:21:33 | |
+| [3步让AI接管你的电脑【claude最新API使用教程】](https://www.bilibili.com/video/BV1NwyQYzELV) | 2024-10-25 20:24:30 | |
+| [这次只用一分钟，用AI打造个人写真集【免费开源PuLid】](https://www.bilibili.com/video/BV1fHyHYVEKe) | 2024-10-22 16:33:56 | |
+| [教你用AI一键完全控制任何人的脸，免费开源【附一键启动包！】](https://www.bilibili.com/video/BV1iPmTYgEgX) | 2024-10-16 17:48:10 | |
+| [看完今年AI拿诺贝尔奖怎么回事，我悟了.....](https://www.bilibili.com/video/BV1g3mjY4Ed4) | 2024-10-14 21:02:40 | |
+| [马斯克又整大活！这场AI赛博派对到底有多炸？【四分钟揭秘】](https://www.bilibili.com/video/BV1v62bYwETc) | 2024-10-12 14:46:17 | |
+| [AI视频技巧集合！一口气全了解【小白速成】](https://www.bilibili.com/video/BV1HN1yY7EKD) | 2024-10-07 17:57:41 | |
+| [AI视频抽象新操作：pika1.5另类更新](https://www.bilibili.com/video/BV1qv45e8EbB) | 2024-10-03 01:18:39 | |
 # GitHub All Languages Daily Trending
 ---
 | Title | Summary |
 | --- | --- |
-| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | 这段内容是关于如何设置和使用一个基于OpenAI API的示例应用。具体步骤包括配置后端主机、更新前端环境变量以及提供反馈的方式。<br/><br/>如果需要更详细的解释，可以查阅相关的代码片段或者直接联系作者获取帮助。 |
-| [DS4SD/docling](https://github.com/DS4SD/docling) | Docling 是一个用于解析文档并将其转换为其他格式的工具。它支持多种文档格式，包括PDF、DOCX、PPTX等，并且可以提取表格结构和代码片段。<br/><br/>安装 Docling 可以通过pip命令来完成，适用于不同操作系统环境（如MacOS, Linux和Windows）。<br/><br/>使用示例展示了如何将一个URL指向的文档转换为Markdown格式。这表明Docling不仅提供API，还提供了直观易用的命令行工具。<br/><br/>对于贡献者，Docling鼓励并提供了详细的贡献指南。如果在项目中引用了Docling，也应参考其提供的模型许可信息。 |
-| [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | 这段文字是关于一个项目（可能是AI或语言处理相关的）的说明。主要内容包括：<br/><br/>1. **OpenAI API**：提到如何使用Azure OpenAI服务，以及如何通过API key和模型名称设置参数。<br/><br/>2. **Local Models**：提到了使用本地服务器（如ollama）部署模型，并提供了下载特定模型到本地的步骤。<br/><br/>3. **自定义管道**：指出可以定制自己的推理或索引管道，提供了检查现有实现示例的链接。<br/><br/>4. **贡献与参与**：鼓励用户提供反馈和贡献，提供了详细的贡献指南链接。 |
-| [frappe/erpnext](https://github.com/frappe/erpnext) | ERPNext是一个开源的会计和企业资源规划（ERP）软件。它基于Frappe框架，提供包括CRM、采购、库存管理等在内的全面功能。<br/><br/>安装方式包括使用Docker部署在生产或开发环境中，以及手动安装步骤。此外，还提供了学习资源，如Frappe School在线课程，以及详细的文档和讨论论坛。<br/><br/>对于贡献者，ERPNext的代码遵循GNU General Public License（v3）许可，并鼓励通过Pull Request提交改进和新功能的代码。 |
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | JSON Crack是一个项目，目标是提供一个工具或平台来破解和解析JSON格式的数据。它使用Node.js和Pnpm作为开发环境，并提供了Dockerfile供本地构建。<br/><br/>对于贡献者来说，JSON Crack列出了包含小型功能和bug的"help wanted"问题，这些问题是相对有限范围的。这是一个很好的起点，适合新手学习、积累经验并熟悉贡献流程。<br/><br/>此外，项目还展示了主要贡献者的列表，以及一个指向LICENSE文件的链接，以获取更多关于许可证的信息。 |
-| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 这段文字是关于Maybe这个项目的。项目是一个个人财务管理+财富管理应用，目标用户是希望自我管理财务的个人。<br/><br/>开发者提供了本地开发环境的设置指南，包括使用Dev Container的步骤。此外，还为不同平台（如Mac、Linux和Windows）的用户提供详细的开发环境设置指南。<br/><br/>最后，提到了版权与许可信息，表明Maybe项目遵循AGPLv3开源协议，并且"Maybe"是商标，属于Maybe Finance, Inc.所有。 |
-| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 以下是AnythingLLM项目的中文摘要：<br/><br/>该项目是Mintplex Labs所研发，旨在提供一个基于VectorDB的全栈文档管理平台。项目使用PostHog作为其Telemetry服务提供商。<br/><br/>贡献者可以通过创建问题、提交PR（带有格式化的分支名称，如<issue number>-<简短描述>）以及LGTM（核心团队批准）来参与开发。<br/><br/>此外，该项目还关联了其他Mintplex Labs的产品，如VectorAdmin和OpenAI Assistant Swarm，它们分别提供管理向量数据库的工具套件和服务。<br/><br/>总之，AnythingLLM是一个集成了文档管理、向量数据库管理和多AI助手服务的综合性项目。 |
-| [vanna-ai/vanna](https://github.com/vanna-ai/vanna) | Vanna是一个用于连接SQL数据库、大型语言模型（LLMs）和向量数据库的Python包。它支持任何SQL数据库，包括OpenAI和ChromaDB等第三方服务。<br/><br/>Vanna的设计目的是提供一个通用的接口，让用户能够使用自己的LLM或向量数据库进行查询处理。用户可以选择不同的前端展示结果，例如Jupyter Notebook、Slackbot、Web应用或者自定义前端。<br/><br/>Vanna还提供了详细的文档和支持社区，用户可以在Discord群组中寻求帮助和交流经验。 |
-| [teableio/teable](https://github.com/teableio/teable) | 本文是一篇关于Teable项目的技术文档。主要介绍了Teable作为一款无代码开发工具的特点、未来发展趋势以及如何通过赞助来支持项目的更新。<br/><br/>首先，Teable强调易用性，任何人都能使用它来构建应用程序。其次，它注重数据的获取和管理，用户可以自由地处理和分享信息。<br/><br/>此外，Teable还关注数据隐私和选择权，无论数据存储在云、本地还是其他地方，用户都有控制权。<br/><br/>对于开发者来说，Teable需要同时满足他们和非技术用户的需要。并且随着业务的增长，它需要能够处理大量数据，并与其他软件进行集成。<br/><br/>最后，作者呼吁潜在赞助者支持Teable项目的发展，无论是通过购买咖啡还是给予项目正面评价，都能为项目的持续改进提供动力。 |
-| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 本文是一个关于开发者道路地图（Developer Roadmap）的资源页面。它提供了如何贡献更新到各个路线图的方法，包括添加内容、创建新路线图、提出更改建议等步骤。<br/><br/>此外，页面还强调了所有贡献者的重要性，并链接到了一个可视化贡献者的图表。<br/><br/>最后，页面提到了许可证文件，用户可以查看详细的许可条款。 |
+| [localsend/localsend](https://github.com/localsend/localsend) | 这段话是关于如何为LocalSend项目贡献的。首先，如果发现bug，应创建一个带有清晰问题描述和修复步骤的pull request。<br/><br/>其次，对于改进或新功能的想法，可以先在GitHub上创建一个问题来讨论需求。<br/><br/>此外，这段话还提到了针对不同平台（如Android、iOS、macOS和Windows）的传统构建方式，以及如何生成AppImage、Snap等特定格式的应用包。<br/><br/>最后，这段话还展示了贡献者列表的图表，表明LocalSend项目的贡献者分布情况。 |
 | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | OpenHands是一个开放平台，用于AI软件开发人员作为通用代理进行开发。它是由众多贡献者共同构建的，并且对其他开源项目和许可证的使用也有所提及。如果需要引用或参考这个项目，可以提供上述的ArXiv引用。 |
-| [mingrammer/diagrams](https://github.com/mingrammer/diagrams) | 这段文字是关于一个名为"diagrams"的Python库的介绍。它提供了事件处理、状态ful架构和高级Web服务等多种场景下的图表生成功能。<br/><br/>首先，它提到了Apache Airflow这个数据工作流管理工具，它是使用Diagrams来生成其文档中的架构图的。<br/><br/>其次，它还列举了Cloudiscovery这个云资源分析工具，它允许用户基于这个Diagrams库创建云基础设施的可视化图表。<br/><br/>最后，这段文字还提到go-diagrams这个用Go语言编写的Diagrams扩展，为熟悉Go语言的用户提供额外的选择。<br/><br/>总的来说，这段文字是在介绍一个用于生成架构图的Python库——Diagrams，并提到了一些使用场景和可能的扩展。 |
+| [DS4SD/docling](https://github.com/DS4SD/docling) | Docling 是一个用于解析文档并将其转换为其他格式的工具。它支持多种文档格式，包括PDF、DOCX、PPTX等，并且可以提取表格结构和代码片段。<br/><br/>安装 Docling 可以通过pip命令来完成，适用于不同操作系统环境（如MacOS, Linux和Windows）。<br/><br/>使用示例展示了如何将一个URL指向的文档转换为Markdown格式。这表明Docling不仅提供API，还提供了直观易用的命令行工具。<br/><br/>对于贡献者，Docling鼓励并提供了详细的贡献指南。如果在项目中引用了Docling，也应参考其提供的模型许可信息。 |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 本文主要介绍了Stirling-PDF这款PDF处理工具的使用方法、登录认证步骤以及FAQ解答部分。详细涵盖了如何设置初始用户，添加新用户，以及API的使用。同时针对下载过程中可能出现的问题，如文件下载超时，也给出了解决方案。 |
+| [django/django](https://github.com/django/django) | Django是一个用于开发高性能Web应用的Python框架。这个README文档提供了如何安装和使用Django，以及如何贡献到Django的开发和支持。<br/><br/>首先，它指导读者按照步骤安装Django。然后，通过一系列教程，帮助用户快速上手使用Django进行Web开发。<br/><br/>此外，文档还提到了如何参与Django的开发，包括如何编写代码、运行测试等。最后，鼓励依赖Django的用户支持Django软件基金会，以确保项目的持续发展和支持。 |
+| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 本文是一个关于开发者道路地图（Developer Roadmap）的资源页面。它提供了如何贡献更新到各个路线图的方法，包括添加内容、创建新路线图、提出更改建议等步骤。<br/><br/>此外，页面还强调了所有贡献者的重要性，并链接到了一个可视化贡献者的图表。<br/><br/>最后，页面提到了许可证文件，用户可以查看详细的许可条款。 |
+| [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) | "next-forge"是一个用于Next.js应用的生产级Turborepo模板。它为现代Web应用程序提供了一个全面的起点，包含坚实、有观点的基础，并且配置量最少。通过`npx next-forge init [my-project]`命令初始化项目，然后参考文档获取更多信息。 |
+| [iterative/datachain](https://github.com/iterative/datachain) | 本文是一个关于DataChain社区和支持的详细指南。DataChain是一个开源项目，提供了一种数据链路的构建方式。社区成员可以通过多种渠道获取帮助，包括官方文档、Discord聊天室、电子邮件以及Twitter等社交媒体平台。同时，本文还展示了一个简化的DataChain流程图，以帮助理解项目的运作方式。 |
+| [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine 是一个跨平台的2D和3D游戏引擎。它提供了一个功能丰富的、统一接口的游戏开发环境，支持用户从单一源创建、编辑和导出游戏。<br/><br/>引擎的核心特性包括：免费且开源（MIT许可证），具有高度模块化的设计，丰富的内置工具和脚本语言支持，以及广泛的社区支持和资源分享。<br/><br/>除了官方文档和学习资源外，Godot Engine 还有一个活跃的社区，用户可以在那里提问、交流经验和分享代码。 |
+| [teableio/teable](https://github.com/teableio/teable) | 本文是一篇关于Teable项目的技术文档。主要介绍了Teable作为一款无代码开发工具的特点、未来发展趋势以及如何通过赞助来支持项目的更新。<br/><br/>首先，Teable强调易用性，任何人都能使用它来构建应用程序。其次，它注重数据的获取和管理，用户可以自由地处理和分享信息。<br/><br/>此外，Teable还关注数据隐私和选择权，无论数据存储在云、本地还是其他地方，用户都有控制权。<br/><br/>对于开发者来说，Teable需要同时满足他们和非技术用户的需要。并且随着业务的增长，它需要能够处理大量数据，并与其他软件进行集成。<br/><br/>最后，作者呼吁潜在赞助者支持Teable项目的发展，无论是通过购买咖啡还是给予项目正面评价，都能为项目的持续改进提供动力。 |
+| [twbs/bootstrap](https://github.com/twbs/bootstrap) | Bootstrap 是一个开源的 CSS/HTML 框架，用于构建响应式、移动优先的网站和应用。它由 Twitter 工程师 Mark Otto 和 Jacob Thornton 设计并维护。<br/><br/>Bootstrap 提供了大量现成的 CSS 样式和 HTML 结构，包括导航栏、表格、按钮、下拉菜单等元素。这些组件可以根据需要进行定制和扩展。<br/><br/>Bootstrap 还支持响应式设计，即网站或应用会根据用户设备的屏幕尺寸自动调整布局和样式。这种设计使得网站在不同类型的移动设备上都能提供良好的用户体验。<br/><br/>总之，Bootstrap 是一个强大且灵活的前端框架，它为构建现代、响应式的网站提供了丰富的工具和资源。 |
+| [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) | GitHub贡献活动生成器，帮助你快速在GitHub上生成一年内每天的贡献记录。通过设置最大提交次数、频率等参数，你可以自定义生成的贡献数据。注意，生成的仓库需要未初始化状态。如果遇到错误或需要进一步的帮助，请打开问题并我会尽快解决。 |
+| [llvm/llvm-project](https://github.com/llvm/llvm-project) | LLVM是一个用于构建高性能编译器、优化器和运行时环境的工具包。这个项目包含多个组件，如核心LLVM、Clang前端、libc++标准库、LLD链接器等。<br/><br/>要获取源代码并构建LLVM，可以参考LLVM提供的《Getting Started with LLVM》页面，那里有详细的指导步骤。<br/><br/>如果想要贡献到LLVM项目中，可以查阅LLVM的《Contributing to LLVM》指南。 |
 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 二十的alpha版本正在开发中。我们已经实现了添加、过滤、排序、编辑和跟踪客户的功能。<br/><br/>创建一个或多个公司机会，轻松地在邮件集成中跟踪这些交易，这些都是我们的功能之一。<br/><br/>此外，我们强调了可扩展性，用户将有能力通过插件等方式自定义和扩展二十的功能。<br/><br/>如果你对我们的项目感兴趣，可以通过关注GitHub仓库、参与讨论、追踪问题等方式加入我们的社区。你的贡献和支持是我们持续改进的动力。 |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 这个仓库包含了多个系统设计相关的博客文章和资源。作者Donne Martin提供了代码和资料，许可为Creative Commons Attribution 4.0 International License（CC BY 4.0）。<br/><br/>如果你对系统设计或者相关技术有兴趣，可以通过阅读这些博客来学习。同时，也可以通过GitHub页面上的联系方式与作者交流。 |
 # 36氪 - 24小时热榜
 ---
 | Title | Summary |
 | --- | --- |
+| [8点1氪｜无锡虹桥医院涉骗保被罚5895万；特朗普赢得2024美国大选；印度正式申办2036年奥运会](https://www.36kr.com/p/3025557229987077) | 以下是关于几个科技和投融资事件的简要摘要：<br/><br/>1. **“微埃智能”完成数千万元A+轮融资**：这家专注于纺织领域工业机器人的公司，获得了神骐资本与东方富海联合领投的大规模资金注入。资金将主要用于推广产品、自建试工厂基地以及拓展海外市场。<br/><br/>2. **“三凯机电”完成过亿元A轮融资**：这家专注于精密减速器生产的公司，成功吸引了达晨财智的领投和多机构跟投。资金将用于研发投入、扩大生产规模以及相关产品研发与生产。<br/><br/>3. **“清维如风”完成Pre- A轮数千万元融资**：这家专注于机场物流自动化技术的初创企业，获得了云时资本的领投和启迪创投的跟投。资金主要用于团队扩张、产品研发及项目运营。<br/><br/>以上信息摘自最近的新闻报道，具体细节可能会有所更新。 |
 | [字节凶猛，阿里腾讯不再争霸](https://www.36kr.com/p/3024805726348805) | 本文是一篇关于阿里腾讯争霸时代终结的分析文章。主要内容包括：<br/><br/>1. **争霸时代的回顾**：文中提到，从2014年“互联互通”开始，到七年后阿里腾讯握手，整个过程见证了两大巨头在电商业务上的激烈竞争和合作变迁。<br/><br/>2. **争霸结束的原因**：文章指出，张一鸣作为字节跳动的创始人，其角色并非导致阿里腾讯争霸终结的根本原因。但他的存在以及字节跳动的成长壮大，客观上起到了推动双方握手、结束争霸的作用。<br/><br/>3. **未来格局与影响**：文中提到，尽管争霸时代结束了，但两大巨头在电商领域的竞争和合作模式仍然具有深远的影响。同时，这也预示着中国互联网行业可能迎来新的竞争格局和机遇。 |
+| [小鹏宣布入局增程，自研芯片算力超英伟达，连发5大黑科技](https://www.36kr.com/p/3024766879278339) | 小鹏汽车在AI技术领域的最新进展和未来布局。包括智能汽车软硬件、飞行汽车、机器人技术等多个方向的介绍。同时，也提到了与竞争对手的竞争情况。 |
+| [点名小杨哥、贾乃亮，美邦创始人不走寻常路](https://www.36kr.com/p/3024748170487305) | 这篇文章讨论的是国产男装品牌如何走出困局的问题。文章提到美特斯邦威创始人周成建亲自直播，强调国货自强和团结，这表明在转型过程中，积极的品牌策略和领导者的参与是重要的。<br/><br/>此外，文章还提到了国产男装品牌面临的挑战，如年轻消费者对“过时”品牌的认知度下降等。这意味着品牌需要不断更新形象，适应市场变化。<br/><br/>总结来说，这篇文章通过分析美特斯邦威的行动以及国产男装面临的挑战，强调了国产男装品牌在转型过程中需要采取积极策略的重要性。 |
+| [你的下一台 Vision Pro，由 iPhone 驱动](https://www.36kr.com/p/3024739955172868) | 苹果计划在2025年推出一款配备M5芯片的全新Vision Pro头戴式显示设备。这款设备将延续Vision系列，并且性能有所提升。同时，新款Vision Pro的供应链大部分会保持不变，这意味着可能会有「等等党」等待更好的升级版本。此外，苹果公司正在秘密进行智能眼镜项目，准备向增强现实硬件领域扩展产品线。 |
+| [登顶国内线上第一，参半会成为新的牙膏之王吗？](https://www.36kr.com/p/3024684001256708) | 参半作为一家致力于口腔护理的品牌，其未来的发展期待主要聚焦在全球化和标准化方面。尹阔希望将参半打造成一家全球化的口腔护理公司，通过不断认证和完善本地化服务，以满足全球消费者的需求。同时，他也表达了让全世界看到参半的愿望，这体现了品牌国际化视野和积极进取的态度。 |
 | [王慧文回归，担当美团AI“小队长” · 36氪独家](https://www.36kr.com/p/3024508246828296) | 王慧文回归AI一线，带领GN06，被看作是他正式复出的信号。美团内部正在探索大模型应用，而王慧文的角色可能包括产品和运营方面的指导。 |
-| [谁把山姆推向神坛](https://www.36kr.com/p/3024356777190912) | 本文讨论了Costco在中国市场特别是中产阶层中的成功。山姆超市通过提供高品质商品和服务，在消费者心中树立了“渠道品牌”的信仰。这种成功的背后不仅仅是品质的保证，更是对消费者心理和价值观的有效塑造。<br/><br/>此外，文章还指出山姆并非完美无缺，也曾因商品质量问题被监管机构立案调查过。这表明即使在追求高品质的过程中，企业也需要时刻保持警惕，确保其服务和产品能够达到消费者的期望。<br/><br/>总结来说，山姆在中国的成功是品质、信仰以及对消费者需求的深刻理解共同作用的结果。 |
-| [打工人午休，流行去新中式推拿店“回血”](https://www.36kr.com/p/3024170091488776) | 这篇内容是关于新中式推拿养生市场爆发的分析。商家通过线上运营、直播带货、与本地生活平台合作等多种方式，快速打开市场并吸引年轻消费者。文章还提到了足够乐品牌开业初期的成功案例，展示了新中式养生市场的潜力和增长动力。 |
-| [精密传动制造商「三凯机电」完成亿元A轮融资，减速器年产量将达80万台 · 36氪首发](https://www.36kr.com/p/3023035727881729) | 浙江三凯机电有限公司宣布完成过亿元A轮融资，达晨财智领投。资金将用于研发投入、扩大精密行星减速机生产规模以及谐波机器人关节减速器和驱动器的研发生产。公司创始人兼CEO江建斌表示，未来三年公司将显著提升产品产量，并致力于国产替代和规模化应用。 |
-| [古茗和蜜雪冰城，都在发力咖啡业务丨 独家](https://www.36kr.com/p/3023239084713225) | 1. 古茗和蜜雪冰城在咖啡市场的扩张策略：古茗从万店计划转向提升存量门店营业额，而喜茶则表示不会追求短期开店速度。<br/><br/>2. 咖啡品牌面临的挑战：瑞幸和库迪分别达到2万家店和1万家店的规模，但千店规模的咖啡品牌竞争仍激烈。<br/><br/>3. 创业者的经验分享：一位创业者提到创业初期遇到的问题，如管理、供应链、研发等多方面压力。当规模快速更新到一定数量后，这些问题得到了解决。 |
-| [看完懂车帝的30款车“安全大碰撞”，我们到底该喷谁？](https://www.36kr.com/p/3024135981540871) | 本文主要讲述了卡车防护栏的重要性以及当前存在的问题。作者通过举例和引用IIHS的研究报告，强调了在大车面前小车的脆弱性，并呼吁关注这一安全部件。<br/><br/>总结来说，文章旨在提醒大家重视卡车防护栏的安全标准，以减少高速碰撞事故中的人员伤亡风险。 |
-| [8点1氪｜海马体回应考研报名禁用海马体照片；字节跳动反腐辞退103人；共享单车企业回应大学生夜骑开封](https://www.36kr.com/p/3024153956836870) | 以下是关于最近几条新闻内容的简要咨询摘要：<br/><br/>1. **“深度原理”完成种子++轮融资**：这是一家名为“深度原理”的科技创新企业，它在人工智能领域获得了近亿元人民币的投资。这笔融资将用于产品研发和市场拓展。<br/><br/>2. **人形机器人企业“月泉仿生”获近亿元Pre- A轮融资**：这家专注于人形机器人研发的公司，“月泉仿生”最近完成了近亿元人民币的Pre-A轮融资，资金主要用于进一步技术开发和商业化进程。<br/><br/>3. **“鸿鹏航空”完成数千万元A+轮融资**：这是一家名为“鸿鹏航空”的企业，它在航空领域获得了大规模融资。这次融资金额达到数千万元人民币，并且有重要股东跟进投资。<br/><br/>以上信息是基于新闻内容的摘要，具体细节可能会根据原文有所不同。 |
+| [实习生，月薪14w+了](https://www.36kr.com/p/3024538021455104) | Jane Street是一家以其量化交易策略而闻名的金融服务公司。他们主要在衍生品市场进行交易，并且对实习生的要求极高。<br/><br/>面试题中涉及到了一些数学和逻辑推理的问题，这反映了Jane Street在招聘时重视员工的分析能力和解决问题的能力。<br/><br/>此外，Nate提出的策略实际上是一种利用游戏规则来避免被卡住的方法，这也体现了在实际工作中灵活应变的重要性。<br/><br/>总的来说，通过这些面试问题，我们可以看到Jane Street对实习生的高标准以及他们在量化交易领域独特的人才选拔标准。 |
 # eess.AS updates on arXiv.org
 ---
 | Title | Summary |
