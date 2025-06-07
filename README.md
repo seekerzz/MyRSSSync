@@ -1,12 +1,12 @@
 | source | 标题 | 关键摘要 | URL |
 |---|---|---|---|
-| GithubTrend | nautechsystems/nautilus_trader | NautilusTrader 是一个高性能的算法交易平台，支持回测和实时交易，适用于多种资产类别。 | https://github.com/nautechsystems/nautilus_trader |
-| GithubTrend | practical-tutorials/project-based-learning | 项目式学习资源，涵盖多种编程语言和开发任务，适合实践和提高技能。 | https://github.com/practical-tutorials/project-based-learning |
-| GithubTrend | TapXWorld/ChinaTextbook | 中国教材合集，提供从小学到大学的PDF教材，促进教育资源共享。 | https://github.com/TapXWorld/ChinaTextbook |
-| GithubTrend | lastmile-ai/mcp-agent | MCP代理，用于与AI模型交互，支持文件查找、网页内容获取和多轮对话。 | https://github.com/lastmile-ai/mcp-agent |
-| GithubTrend | netbirdio/netbird | NetBird 是一个简化私有网络配置的工具，支持多平台，提供安全的点对点连接和NAT穿透。 | https://github.com/netbirdio/netbird |
-| GithubTrend | iamgio/quarkdown | Quarkdown 是一个轻量级的文档处理工具，支持多种输出格式和实时预览。 | https://github.com/iamgio/quarkdown |
-| GithubTrend | scrapy/scrapy | Scrapy 是一个快速的网页爬虫和抓取框架，适用于Python，支持数据提取和自动化任务。 | https://github.com/scrapy/scrapy |
-| GithubTrend | Anduin2017/HowToCook | 程序员在家做饭方法指南，提供清晰精准的菜谱描述，方便程序员学习烹饪。 | https://github.com/Anduin2017/HowToCook |
-| GithubTrend | ArduPilot/ardupilot | ArduPilot 是一个开源的自动驾驶软件，支持多种车辆类型，如飞机、无人机、机器人等。 | https://github.com/ArduPilot/ardupilot |
-| GithubTrend | modelcontextprotocol/ruby-sdk | Model Context Protocol 的 Ruby SDK，支持工具注册、调用和资源管理。 | https://github.com/modelcontextprotocol/ruby-sdk |
+| GithubTrend | jwasham/coding-interview-university | 一个全面的编程面试学习资源，涵盖数据结构、算法、系统设计等。 | https://github.com/jwasham/coding-interview-university |
+| GithubTrend | codecrafters-io/build-your-own-x | 教程和项目指南，帮助开发者学习构建各种技术，如区块链、操作系统、数据库等。 | https://github.com/codecrafters-io/build-your-own-x |
+| GithubTrend | practical-tutorials/project-based-learning | 项目式学习的代码示例和教程，涵盖多种编程语言和应用场景。 | https://github.com/practical-tutorials/project-based-learning |
+| GithubTrend | rustdesk/rustdesk | 一款开源的远程桌面应用，提供自托管解决方案，支持多种平台。 | https://github.com/rustdesk/rustdesk |
+| GithubTrend | deepsense-ai/ragbits | 用于快速开发生成式AI应用的工具包，支持检索增强生成（RAG）和大型语言模型（LLM）。 | https://github.com/deepsense-ai/ragbits |
+| GithubTrend | coleam00/Archon | 一个基于Docker的AI开发环境，支持Streamlit UI和Graph Service。 | https://github.com/coleam00/Archon |
+| GithubTrend | unslothai/notebooks | 提供多种模型的训练和微调笔记本，支持Google Colab和Kaggle。 | https://github.com/unslothai/notebooks |
+| GithubTrend | lastmile-ai/mcp-agent | 一个AI代理框架，支持多种模型和服务器配置。 | https://github.com/lastmile-ai/mcp-agent |
+| GithubTrend | netbirdio/netbird | 一种零信任网络解决方案，支持多种平台和自托管。 | https://github.com/netbirdio/netbird |
+| GithubTrend | mlabonne/llm-course | 一个关于大型语言模型的课程，涵盖本地运行、向量存储和RAG等。 | https://github.com/mlabonne/llm-course |
