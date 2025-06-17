@@ -28,6 +28,14 @@
 |36kr|[代工宿命还是科技跃迁？赛力斯在华为生态中的身份迷思](https://www.36kr.com/p/3336292783188228)|赛力斯借华为智选模式实现销量飞跃，但面临制造成本高、利润低及技术依赖问题，需加速自研转型以构建核心竞争力，摆脱代工厂标签，成为独立智能电动汽车品牌。|
 |36kr|[豆包模型上新，字节继续卷性价比](https://www.36kr.com/p/3335845223115266)|字节推出Seedance 1.0 Pro视频生成模型及豆包1.6多模态大模型，强调产品落地与场景集成，通过内容+工具双生态构建AI应用能力，降低成本门槛，加速模型商业化进程，与OpenAI、百度形成差异化竞争策略。|
 |36kr|[史上最“壕”足球赛，32支球队分72亿奖金](https://www.36kr.com/p/3335818800081154)|2025世俱杯首次扩军至32队在美国举办，赛制改为四年一届。尽管欧洲豪门云集且奖金池达10亿美元，但揭幕战门票销售低迷，票价持续下调。中国虽放弃承办权，但仍有多名球员、裁判参与，企业成为合作伙伴。（99字）|
+|36kr|[罗永浩用 AI 带货发财了，一晚狂卖5500万，行业大为震惊](https://www.36kr.com/p/3339115904972035)|罗永浩数字人直播在百度电商创下单场GMV突破5500万、观看人次超1300万的成绩，凭借高拟真表现与AI技术支撑引发关注。尽管数字人具备降本增效潜力，但消费者更看重产品质量，且技术门槛高，小商家难以复刻。此次合作标志着百度电商在AI驱动下的战略突破，助力直播行业智能化升级。|
+|36kr|[扎克伯格砸1000亿挖他， 这个刷屏的95后华裔天才，用几十万「AI 民工」成为亿万富豪](https://www.36kr.com/p/3339112363439365)|Meta以143亿美元收购Scale AI 49%股权，该企业由28岁的MIT辍学华裔创业者Alexandr Wang创立，专注于AI数据标注服务。此举旨在借助其技术经验强化AI布局，但引发业界对数据中立性及行业垄断的担忧，竞争对手已表态转向其他供应商。|
+|36kr|[特斯拉无人车开跑，画了这么久的饼，终于可以吃了](https://www.36kr.com/p/3338969675542790)|特斯拉Robotaxi将于6月22日启动小范围试运营，基于Model Y搭载无监督FSD技术，采用地理围栏和远程监控保障安全。未来或开放车主共享出行创收，但面临技术争议与审批挑战，市场对其成败影响股价预期。|
+|36kr|[月营收破千万，前中科院国家项目负责人创业芯片先进封装赛道丨硬氪首发](https://www.36kr.com/p/3338828476297734)|深圳中科四合科技获6000万元融资，专注板级扇出封装技术，攻克AI电源模组高电流、稳定性、空间效能三大难题，实现TVS、MOSFET等高端芯片量产，2025年营收目标1.5-1.8亿元。|
+|36kr|[被安踏收购后，这家国产品牌想做「瑜伽第一」丨36氪专访](https://www.36kr.com/p/3338868054913536)|安踏收购MAIA ACTIVE 75.13%股份，助力其转型线下并聚焦中高端市场。MAIA通过产品线整合、门店升级及签约虞书欣代言，强化"三高女孩"（高能量、高情绪价值、高配得感）定位，意图争夺亚洲瑜伽服饰市场份额。|
+|36kr|[lululemon需要新故事 _ New Look专访](https://www.36kr.com/p/3338774321377796)|lululemon通过十年胸部生物力学研究，推出Go Further Bra运动内衣，融合Support Code动态支撑技术与Ultralu超轻透气面料，实现高强度支撑与舒适性的平衡。借助与运动员共创研发，强化产品性能，并拓展亚洲市场应用Asia Fit尺码，持续引领创新与增长。|
+|36kr|[1亿人口大市场，全球关税洼地，中国车企涌向埃及](https://www.36kr.com/p/3338582302992644)|2025年埃及通过活动吸引中国游客，展现中国制造产品渗透。该国1亿人口中60%为年轻群体，消费市场偏好高性价比商品，电商发展潜力大。政府提供关税优惠与政策支持，促进外资企业投资，但受限于土地稀缺及港口吞吐能力不足，建议企业实地考察了解本地化机会。|
+|36kr|[为什么很多旅行社开始害怕大学生？](https://www.36kr.com/p/3338629234747652)|网页总结：  <br/>暑期大学生旅游维权事件频发，折射出新世代对透明服务和可控风险的高要求，与旅行社传统套路间的冲突。双方因信息不对等、消费逻辑差异陷入博弈，本质是行业价值认同危机与年轻人觉醒意识碰撞的结果。|
 |Github Trending|[codexu/note-gen](https://github.com/codexu/note-gen)|NoteGen是一款跨平台Markdown笔记应用，融合AI技术实现录音与写作无缝衔接，将碎片化知识转化为结构化笔记。支持多平台（未来含移动端）、轻量级设计（仅20MB）、AI模型自定义、实时同步GitHub/Gitee/WebDAV、RAG功能及丰富的编辑特性，如代码高亮、思维导图、语音阅读等。|
 |Github Trending|[netbirdio/netbird](https://github.com/netbirdio/netbird)|NetBird是基于WireGuard的开源工具，通过SSO和MFA实现安全私有网络连接，支持点对点通信、NAT穿透、量子抗性及细粒度访问控制，适用于Linux/macOS/Windows等多平台，提供自动化配置与自托管/云部署选项。|
 |Github Trending|[DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)|React Bits是开源的动画React组件库，提供可定制的组件、背景及交互效果，支持JS/TS与CSS/Tailwind多种技术栈，适用于现代项目。文档完善，MIT协议授权，鼓励社区贡献与使用。|
@@ -54,6 +62,15 @@
 |Github Trending|[datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)|《开源大模型食用指南》是国内首个面向初学者的Linux平台大模型教程，涵盖环境配置、部署（含全参数/LoRA微调）及应用全流程，支持LLaMA、Qwen、ChatGLM等国内外主流开源模型。项目旨在降低使用门槛，提供从零开始实践的资源，鼓励社区共创，适合学生及开发者打造个性化模型，助力开源技术普及。|
 |Github Trending|[sindresorhus/awesome](https://github.com/sindresorhus/awesome)|该网页是开源社区维护的全面技术资源汇总，涵盖编程语言、开发工具、计算机科学、大数据、网络安全、游戏开发、硬件、学习资料等20+领域，每个分类下包含多个子项目链接，如Node.js、React、区块链、量子计算等，旨在为开发者提供一站式参考。|
 |Github Trending|[FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques)|该仓库以简洁方式实现多种RAG技术，使用Python基础库（如OpenAI、NumPy）而非复杂框架，提供20+可运行的Jupyter Notebook，涵盖从语义分块到多模态检索、反馈循环等技术，包含代码、解释、评估和可视化，旨在教育用户理解RAG原理并进行技术对比实验。|
+|Github Trending|[huggingface/lerobot](https://github.com/huggingface/lerobot)|LeRobot是Hugging Face推出的机器人AI库，通过端到端学习简化真实场景机器人开发，提供预训练模型、数据集及工具，支持强化学习和模仿学习，集成模拟环境与硬件设备，旨在降低技术门槛并促进开源协作。|
+|Github Trending|[anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)|Anthropic's Prompt Engineering Tutorial is an interactive guide to mastering optimal prompt creation for Claude, spanning 9 chapters and an appendix. It teaches structure, clarity, role assignment, data separation, output formatting, step-by-step reasoning, examples, hallucination avoidance, and complex use cases (chatbots, legal, financial, coding). The course includes hands-on exercises, an example playground, and emphasizes practical techniques to improve prompt effectiveness while highlighting Claude's strengths and weaknesses.|
+|Github Trending|[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)|Prompt Optimizer是一款AI提示词优化工具，支持OpenAI、Gemini等多模型，提供Web和Chrome插件两种方式。具备智能优化、参数配置、隐私保护等功能，支持多种部署方案（在线、Vercel、Docker）。开源MIT协议，欢迎贡献。|
+|Github Trending|[zen-browser/desktop](https://github.com/zen-browser/desktop)|Zen Browser是一款基于Firefox的简洁高效浏览器，主打提升生产力与减少干扰。提供Release（139.0.4）和Twilight（RC 139.0.4）两种版本，支持开源社区贡献，可通过GitHub进行问题反馈与功能建议。|
+|Github Trending|[gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)|FileBrowser Quantum是一款免费开源的自托管网页文件管理器，支持多平台、OIDC登录及实时搜索与预览功能，配置简便。相比原版，移除部分高级功能但保留核心特性，计划2025年推出稳定版。提供Docker部署，内存需求低，适合轻量级使用，具备API支持和跨平台兼容性。|
+|Github Trending|[anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)|Anthropic Cookbook 是一个开发者资源库，提供可直接使用的代码和指南，展示如何通过 Claude 实现文本分类、检索增强生成、多模态处理（如图像识别与生成）及工具集成等应用，支持多种编程语言，并鼓励社区贡献与技术扩展。|
+|Github Trending|[microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)|Fluent UI System Icons是微软开发的现代图标集合，提供常规与填充图标，支持RTL/LTR方向设置。适用于Android、iOS、Flutter等平台，可通过Maven、CocoaPods等安装。包含贡献指南与示例应用，支持问题反馈与代码规范。|
+|Github Trending|[panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)|该网页介绍Dapr Agentic Cloud Ascent（DACA）设计模式，结合OpenAI Agents SDK、Dapr、Kubernetes等技术，构建可扩展的多AI代理系统。提供三门课程（AI-201至AI-301），涵盖基础开发、云原生实践及大规模分布式部署，强调通过开源工具和云资源优化成本与性能，应对10万并发代理的挑战。|
+|Github Trending|[immich-app/immich](https://github.com/immich-app/immich)|High-performance self-hosted photo/video management solution with active development, backup features, and a demo.|
 |掘金|[刚刚，Cursor 1.0炸裂发布！4大亮点实战](https://juejin.cn/post/7512240668220702755)|Cursor发布1.0版本，新增BugBot自动代码审查、Background Agent远程编码（云端运行、节省资源）、记忆功能存储用户设定规则及MCP一键安装（简化AI工具配置）。部分功能需付费，按Max模型和Token计费，且需绑定Git仓库。优化了设置界面与Jupyter支持，迈出云端AI应用重要一步。|
 |掘金|[😲我又写出了被 Three.js 官推转发的项目？！🥳🥳(源码分享) _ 掘金一周 6.5](https://juejin.cn/post/7512033775343157283)|掘金一周精选多领域技术文章，涵盖Three.js游戏开发、Node版本管理工具、Spring Boot 4特性、Ant Design Form原理、Flutter跨平台对比及React Native架构解析等；同步发布社区活动日历，包含代码竞赛、创作者训练营及征文活动；鼓励用户投稿优质内容，推荐周期为下期发布前一周。|
 |掘金|[国内最难入职的 IT 公司排行](https://juejin.cn/post/7512031703314366527)|文章总结：  <br/>讨论中国IT公司面试难度，重点分析拼多多、字节跳动、百度、京东等企业技术面试特点，均强调算法、系统设计及项目经验。建议求职者强化计算机基础、算法能力，并在项目、实习、比赛、论文中至少具备一项突出经历以提升竞争力。|
@@ -70,8 +87,6 @@
 |掘金|[👨‍面试官：你为什么用 TS，别人用你就用？](https://juejin.cn/post/7511290103962714122)|TypeScript通过类型系统提升代码安全性与协作效率，减少运行时错误，增强IDE体验和重构能力，适合复杂项目长期维护。|
 |掘金|[腾讯 ovCompose 开源，Kuikly 鸿蒙和 Compose DSL 开源，腾讯的“双”鸿蒙方案发布](https://juejin.cn/post/7511525207480926227)|腾讯开源Kuikly与ovCompose均基于KuiklyBase框架，支持鸿蒙、Android及iOS三端开发。KuiklyUI侧重静态/动态双运行模式及小程序兼容，采用原生OEM渲染；ovCompose遵循标准Compose Multiplatform API，自绘方案优化iOS混合开发与鸿蒙编译性能。两者适配鸿蒙均依赖KuiklyBase，选择取决于项目是否需动态化或Compos对齐。|
 |掘金|[网易灰度发布系统揭秘：一天300次上线是怎么实现的？](https://juejin.cn/post/7511150244576837684)|网易灰度发布通过分批策略、多触发源（手动/CI/CD/实验平台）和结构化用户筛选（地域、VIP、登录时间等）实现可控上线，结合实时监控指标（错误率、响应延迟等）动态决策，采用金丝雀版本+热切流量+自动回滚机制确保稳定性与快速恢复，本质是通过可观测性降低发布风险。|
-|掘金|[Flutter 官方多窗口体验 ，为什么 Flutter 推进那么慢，而 CMP 却支持那么快](https://juejin.cn/post/7510701347072344105)|Flutter多窗口功能由Canonical推进，支持Windows/macOS，Linux仍在开发。Compose Multiplatform依托JVM和Swing生态，能快速实现多窗口，而Flutter因早期单窗口设计需重构框架，面临性能、内存及渲染调度挑战，编译流程复杂，当前基础功能可用但需持续优化。|
-|掘金|[计算机视觉 ： 端午无事 ，图像处理入门案例一文速通](https://juejin.cn/post/7510836365710671882)|该网页分享AI辅助下的计算机视觉实用案例，涵盖图像加解密、水印处理、人形检测及绿幕抠图，提供可执行代码与参数优化方法，旨在降低学习门槛并提升操作效率。|
 |掘金|[字节跳动技术副总裁洪定坤：TRAE 想做 AI Development](https://juejin.cn/post/7514956702346952713)|字节跳动技术副总裁洪定坤在火山引擎大会上介绍AI编程产品TRAE，该工具已助力超100万用户和80%工程师提升开发效率，通过自然语言编程和智能化开发流程，实现技术普惠与效率飞跃，并强调AI开发需深度结合人类协作。|
 |掘金|[震惊，中石化将开源组件二次封装申请专利，这波操作你怎么看？](https://juejin.cn/post/7514858513442078754)|中石化申请基于Vue的文件上传组件二次封装专利，利用开源组件实现功能简化与效率提升，引发对技术创新边界及开源社区影响的讨论，凸显企业对知识产权的重视，需平衡保护与技术共享间的矛盾。|
 |掘金|[阿里老员工发表万字离职感言引爆内网，引发万人共鸣，马云亲自回复](https://juejin.cn/post/7514604514872459273)|钉钉前员工元安反思阿里价值观缺失与战略异化，指出公司从注重社会价值转向逐利，出现短期主义、运营泡沫、官僚主义及HR失职等问题，呼吁修复内核、透明化管理，回归"客户第一"初心，期盼阿里重拾使命感以应对未来挑战。|
@@ -99,3 +114,10 @@
 |掘金|[知名开源项目AList疑似被卖，玩家炸锅了！！](https://juejin.cn/post/7514528800731676711)|开源项目Alist被曝转向商业化，原开发者Xhofe称项目交由贵州bg科技运营（曾收购Hutool），引发社区对用户数据收集和透明度的质疑。尽管官方未明确买家信息，但项目已启用PR审核和分支保护，社区仍担忧暗箱操作。该工具因高星标和广泛使用引发关注，事件反映了开源作者商业化困境与社区信任问题。|
 |掘金|[甲方嫌弃，项目首页加载太慢](https://juejin.cn/post/7514310580720517147)|总结：通过CDN引入Element UI和echarts减少打包体积，配置Nginx和Webpack Gzip压缩优化传输，采用按需加载路由及拆分vendor策略，提升首屏加载速度至3秒内，满足甲方性能需求。|
 |掘金|[货拉拉开源：鸿蒙路由 TheRouter](https://juejin.cn/post/7513962242434695208)|TheRouter是跨Android、iOS、HarmonyOS的模块化开发框架，支持三端高一致性路由、跨模块依赖注入、动态化能力及第三方SDK调用，具备编译时安全检查和动态路由下发功能，助力企业级应用开发与迁移。|
+|掘金|[支付宝开放平台，这谁写的，要扣绩效吧](https://juejin.cn/post/7515965961809690675)|支付宝接口对接中出现“服务异常”和“参数错误”问题，源于数据保留规则（仅存180天客诉）及开发文档参数注释不明确，导致开发者误传参数或查询失效。同时，部分接口第三方接入支持描述矛盾，增加开发困惑。文章最后抛出Java GC对象回收判断的面试题，强调接口文档准确性对开发的重要性。|
+|掘金|[Vue实现一个“液态玻璃”效果登录卡片](https://juejin.cn/post/7516306850715910182)|总结：该教程详解如何使用Vue结合SVG滤镜、多层叠加与3D倾斜交互实现液态玻璃登录卡片，通过模糊、色调、高光等技术提升视觉质感，优化阴影与圆角细节，同时注意浏览器兼容性与性能问题，打造现代高端UI效果。|
+|掘金|[面试官问我，后端一次性返回十万条数据，前端应该怎么处理 ？](https://juejin.cn/post/7515471025503977526)|总结：处理大量数据需分页/懒加载，结合虚拟滚动减少DOM压力，利用Web Worker和IndexedDB实现后台计算与缓存，优化前端渲染性能，同时需与后端协作设计合理接口。|
+|掘金|[从 npm 到 Yarn 到 pnpm：JavaScript 包管理工具的演进之路](https://juejin.cn/post/7515392598099378211)|JavaScript 包管理工具从 npm 到 Yarn 再到 pnpm，逐步优化了安装速度、依赖一致性及磁盘空间利用率。pnpm 通过硬链接技术减少冗余，严格隔离依赖，成为当前效率最高的选择。未来趋势聚焦零配置、原子化构建与多语言协同的集成化方案。|
+|掘金|[Cursor猛干3小时出100+工具站，轻松上线自己的网站（部署全流程）](https://juejin.cn/post/7514943187859603497)|用户利用AI生成需求文档，通过Cursor IDE自动化开发了一个纯前端工具站，包含100款无后端依赖的小工具，采用Bento Grid风格UI。开发过程高效，需手动调整部分配置，最终部署至Railway并生成临时域名，可快速上线。|
+|掘金|[iOS 26 beta1 重新禁止 JIT 执行，Flutter 下的 iOS 真机 hot load 暂时无法使用](https://juejin.cn/post/7514490441317220364)|iOS 26限制未签名二进制文件通过JIT编译执行，导致Flutter真机调试hot reload失效，模拟器不受影响。解决方案需转向解释器执行Dart代码，可能影响性能，当前探索混合模式（AOT+解释）以维持功能。|
+|掘金|[TypeScript 函数重载详解：原理、实践与最佳用法](https://juejin.cn/post/7514244463226421257)|TypeScript 函数重载通过多调用签名提升类型安全与灵活性，但实现签名需兼容所有重载组合。转译为 JavaScript 后仅保留实现体，需手动处理类型保护。适合参数逻辑差异大、返回类型明确的场景，重载过多建议封装为对象参数。|
