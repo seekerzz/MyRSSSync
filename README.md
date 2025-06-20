@@ -44,6 +44,14 @@
 |36kr|[宝马发起了大反攻](https://www.36kr.com/p/3341277114923520)|宝马因价格战与销量下滑更换中国CEO，新任高管宝思齐强化财务运营，推动新世代车型本土化；技术团队则将中国研发成果反哺全球，如AI系统与电驱技术。其他合资车企同步调整策略，注重中国市场运营效率与本地创新，以应对竞争压力与行业转型。|
 |36kr|[小米入局固态电池混战，专利披露，四大步骤瞄准量产](https://www.36kr.com/p/3341268708882688)|小米申请固态电池专利，采用聚合物+金属盐复合电解质技术，通过优化离子传输路径，提升电池倍率性能与循环寿命（达200次）。其制备方法具备规模化生产潜力，但距离量产仍需2-3年。该路线与宁德时代等企业相似，量产时间普遍指向2027年，但商业化仍面临技术、成本及产业链等挑战。|
 |36kr|[8点1氪｜印媒公开空难幸存者走出火场新画面；品牌方回应黄子韬卫生巾被曝现黑色异物；罗马仕因燃烧风险宣布召回超49万台充电宝](https://www.36kr.com/p/3341251992779011)|近日，多家公司提交港股IPO申请，AI企业赴港上市潮加速；印度空难幸存者视频公布，引发安全质疑；马斯克尿检阴性否认涉毒；法拉利推迟第二款电动车至2028年；AI风险预警及谷歌加强印度反欺诈技术研发。此外，联合国难民署裁员、韩国鸡蛋行业反垄断调查等事件也引发关注。|
+|36kr|[六小龙留不住字节大神](https://www.36kr.com/p/3343072099318272)|字节系高管因AI创业公司战略转向技术优先，纷纷被"退货"。四小强（智谱AI、MiniMax、月之暗面、阶跃星辰）在DeepSeek等竞争下，从双轮驱动回归模型创新，导致曾依赖字节产品经验的高管流失，转而投身新应用创业，行业进入技术比拼新阶段。|
+|36kr|[ChatGPT上瘾，大脑萎缩47%，MIT祭出206页92图超长报告](https://www.36kr.com/p/3343064244795909)|MIT最新研究发现，长期依赖大语言模型（LLM）会导致学习能力下降、大脑神经连接减少47%，形成"认知债务"。尽管AI提升写作效率60%，但降低有效认知负荷32%，使用户思维窄化、独立思考能力退化。研究建议应战略使用AI，避免过度依赖，以维持认知健康。（99字）|
+|36kr|[海外出货破百万台，深圳投影仪公司靠性价比冲破红海｜Insight全球](https://www.36kr.com/p/3342794648140292)|Magcubic凭借70美元低价投影仪HY300，在海外通过超短焦技术、供应链协同及平台流量扶持，快速抢占东南亚、拉美等新兴市场，年出货量达120万台跻身全球前十，但面临行业竞争加剧的挑战。|
+|36kr|[亚马逊CEO全员信曝光，硅谷AI裁员潮已至，年薪50万湾区HR被算法淘汰](https://www.36kr.com/p/3342773465119234)|硅谷AI裁员潮加剧，亚马逊、谷歌等企业加速布局AI，导致中高年员工及大学生就业受冲击。AI取代部分初级岗位，但创造新机会，整体呈现净增趋势。技术从业者面临转型压力，企业通过裁员或自愿离职补偿方案优化成本，AI技术革新正重塑就业市场结构。（99字）|
+|36kr|[这届年轻人不再买“年抛电车”了](https://www.36kr.com/p/3342086828975361)|车企618大促推出高额补贴，但消费者对价格战已持谨慎态度，更关注车辆品质、续航真实性及售后服务，警惕库存车和批次问题，倾向于通过用户反馈、电池供应商等维度选择高性价比车型。|
+|36kr|[大厂AI，还干不掉张雪峰](https://www.36kr.com/p/3342687748438273)|高考志愿填报市场因信息焦虑迅速升温，大厂与教育机构推出AI工具（如夸克、百度、腾讯）提供智能推荐，但算法不透明、数据不全面等问题导致推荐结果差异大。用户需理性选择，结合人工辅助，适合分数明确者，中段分数考生应多工具验证，未来AI或成免费普及工具。|
+|36kr|[8点1氪｜T3出行被曝要求被猥亵女乘客签署保密协议；网传微信正灰度测试备份至外部存储；李国庆7年离婚官司收场后发二婚请柬](https://www.36kr.com/p/3342647810160896)|苏州极易科技拟港交所上市，T3出行司机猥亵案平台赔偿3000元要求保密。微信灰度测试支持聊天记录备份至电脑/U盘。京东去年发放工资1161亿，刘强东称其失去创新力。特朗普延长TikTok禁令至2025年，美联储维持利率但预期年内降息两次。红杉中国开源AI基准测试xbench。多家车企因安全问题召回车辆，瑞银13万员工数据遭泄露。|
+|36kr|[黄仁勋夸爆的华为AI超节点，技术秘籍披露，昇腾910C跑DeepSeek，效率超英伟达](https://www.36kr.com/p/3341960690612743)|华为推出CloudMatrix384超级节点，搭载384颗昇腾910C NPU与192个鲲鹏CPU，通过超高带宽统一总线（UB）网络实现高效AI计算，其计算效率超越英伟达H800，支持大规模MoE模型部署，助力中国大模型需求。|
 |Github Trending|[codexu/note-gen](https://github.com/codexu/note-gen)|NoteGen是一款跨平台Markdown笔记应用，融合AI技术实现录音与写作无缝衔接，将碎片化知识转化为结构化笔记。支持多平台（未来含移动端）、轻量级设计（仅20MB）、AI模型自定义、实时同步GitHub/Gitee/WebDAV、RAG功能及丰富的编辑特性，如代码高亮、思维导图、语音阅读等。|
 |Github Trending|[netbirdio/netbird](https://github.com/netbirdio/netbird)|NetBird是基于WireGuard的开源工具，通过SSO和MFA实现安全私有网络连接，支持点对点通信、NAT穿透、量子抗性及细粒度访问控制，适用于Linux/macOS/Windows等多平台，提供自动化配置与自托管/云部署选项。|
 |Github Trending|[DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)|React Bits是开源的动画React组件库，提供可定制的组件、背景及交互效果，支持JS/TS与CSS/Tailwind多种技术栈，适用于现代项目。文档完善，MIT协议授权，鼓励社区贡献与使用。|
@@ -84,10 +92,13 @@
 |Github Trending|[automatisch/automatisch](https://github.com/automatisch/automatisch)|Automatisch是开源的Zapier替代工具，支持跨服务自动化流程，无需编程或费用。其核心优势包括数据自主存储（符合GDPR）、开放源代码社区参与、无供应商锁定，便于迁移。提供文档、安装指南及双版本授权（AGPL-3.0和企业版）。|
 |Github Trending|[continuedev/continue](https://github.com/continuedev/continue)|Continue是一个开源AI代码助手平台，提供VS Code和JetBrains扩展，集成模型、规则、提示等构建模块，支持开发者创建、分享及使用自定义AI工具。主要功能包括代码修改（Edit）、自动补全（Autocomplete）、聊天交互（Chat）和更深入的代码操作（Agent），并附有文档、贡献指南和Apache 2.0许可证信息。|
 |Github Trending|[menloresearch/jan](https://github.com/menloresearch/jan)|Jan是一个开源的离线AI助手，支持Windows、macOS和Linux系统，可运行本地大模型（如Llama、Gemma）并集成云服务（OpenAI、Anthropic等），强调隐私保护，通过Discord和GitHub提供社区支持，采用Apache 2.0协议。|
-|掘金|[刚刚，Cursor 1.0炸裂发布！4大亮点实战](https://juejin.cn/post/7512240668220702755)|Cursor发布1.0版本，新增BugBot自动代码审查、Background Agent远程编码（云端运行、节省资源）、记忆功能存储用户设定规则及MCP一键安装（简化AI工具配置）。部分功能需付费，按Max模型和Token计费，且需绑定Git仓库。优化了设置界面与Jupyter支持，迈出云端AI应用重要一步。|
-|掘金|[😲我又写出了被 Three.js 官推转发的项目？！🥳🥳(源码分享) _ 掘金一周 6.5](https://juejin.cn/post/7512033775343157283)|掘金一周精选多领域技术文章，涵盖Three.js游戏开发、Node版本管理工具、Spring Boot 4特性、Ant Design Form原理、Flutter跨平台对比及React Native架构解析等；同步发布社区活动日历，包含代码竞赛、创作者训练营及征文活动；鼓励用户投稿优质内容，推荐周期为下期发布前一周。|
-|掘金|[国内最难入职的 IT 公司排行](https://juejin.cn/post/7512031703314366527)|文章总结：  <br/>讨论中国IT公司面试难度，重点分析拼多多、字节跳动、百度、京东等企业技术面试特点，均强调算法、系统设计及项目经验。建议求职者强化计算机基础、算法能力，并在项目、实习、比赛、论文中至少具备一项突出经历以提升竞争力。|
-|掘金|[为什么我放弃使用 Pinia？](https://juejin.cn/post/7511983823258468391)|总结：Pinia虽简洁，但复杂项目中动态模块管理不足，SSR支持不完善，封装性差，需手动处理多实例和状态隔离问题，作者最终回归Vuex。|
+|Github Trending|[nocodb/nocodb](https://github.com/nocodb/nocodb)|NocoDB是一款开源的Airtable替代工具，提供丰富的电子表格界面、多视图类型及程序化API访问，支持Docker、Nix等多种部署方式。其使命是通过开放源代码的无代码数据库界面，赋能全球互联网企业，推动计算工具普及与用户创新能力。项目采用AGPLv3协议，拥有活跃社区支持。|
+|Github Trending|[DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)|该网页为数据工程师提供全面资源，涵盖学习路径、工具推荐（如Snowflake、Airflow）、书籍（如《Designing Data-Intensive Applications》）、社区（如DataExpert.io Discord）、播客、白皮书及认证课程，助力从入门到进阶的技能提升与职业发展。|
+|Github Trending|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Node Version Manager (nvm) 是用于管理多个 Node.js 版本的 POSIX 兼容脚本工具，支持 bash、zsh 等 shell。提供安装、切换版本、设置默认版本、镜像使用等功能，适用于 Linux、macOS、WSL 等平台，并包含解决常见问题的指南。|
+|Github Trending|[YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2)|YimMenuV2是GTA5 Enhanced的实验性菜单工具，需搭配FSL和注入器使用，通过禁用BattlEye后按INSERT或Ctrl+\触发。常见问题包括公共会话频繁断连、移除FSL导致数据丢失及游戏崩溃，解决方法涉及使用私有绕过、保留FSL或删除特定文件夹。|
+|Github Trending|[alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine)|LowCodeEngine 是一套企业级低代码技术体系，采用扩展架构设计，内置高质量生态组件（如材料系统、设置器、插件等），支持 TypeScript 和完整工具链，兼容主流现代浏览器，可扩展至近百个垂直平台，提供 npm 安装及多 CDN 方式使用，并拥有完善的文档和社区协作机制。|
+|Github Trending|[moby/buildkit](https://github.com/moby/buildkit)|BuildKit 是 Docker 的高效构建工具，支持并发处理、缓存优化、多平台镜像构建及多种输出格式（如 OCI/Tar）。提供容器化部署（Docker/Podman/Nerdctl）、无 root 运行和 OpenTelemetry 监控，适用于复杂构建流程和分布式环境。|
+|Github Trending|[php/frankenphp](https://github.com/php/frankenphp)|FrankenPHP是基于Caddy的现代PHP应用服务器，支持HTTP/2/3、自动HTTPS、实时通信及Worker模式，显著提升Laravel/Symfony等框架性能。兼具独立服务器功能与Go语言嵌入库特性，适用于开发、部署及高性能场景。|
 |掘金|[字节跳动技术副总裁洪定坤：TRAE 想做 AI Development](https://juejin.cn/post/7514956702346952713)|字节跳动技术副总裁洪定坤在火山引擎大会上介绍AI编程产品TRAE，该工具已助力超100万用户和80%工程师提升开发效率，通过自然语言编程和智能化开发流程，实现技术普惠与效率飞跃，并强调AI开发需深度结合人类协作。|
 |掘金|[震惊，中石化将开源组件二次封装申请专利，这波操作你怎么看？](https://juejin.cn/post/7514858513442078754)|中石化申请基于Vue的文件上传组件二次封装专利，利用开源组件实现功能简化与效率提升，引发对技术创新边界及开源社区影响的讨论，凸显企业对知识产权的重视，需平衡保护与技术共享间的矛盾。|
 |掘金|[阿里老员工发表万字离职感言引爆内网，引发万人共鸣，马云亲自回复](https://juejin.cn/post/7514604514872459273)|钉钉前员工元安反思阿里价值观缺失与战略异化，指出公司从注重社会价值转向逐利，出现短期主义、运营泡沫、官僚主义及HR失职等问题，呼吁修复内核、透明化管理，回归"客户第一"初心，期盼阿里重拾使命感以应对未来挑战。|
@@ -122,3 +133,14 @@
 |掘金|[Cursor猛干3小时出100+工具站，轻松上线自己的网站（部署全流程）](https://juejin.cn/post/7514943187859603497)|用户利用AI生成需求文档，通过Cursor IDE自动化开发了一个纯前端工具站，包含100款无后端依赖的小工具，采用Bento Grid风格UI。开发过程高效，需手动调整部分配置，最终部署至Railway并生成临时域名，可快速上线。|
 |掘金|[iOS 26 beta1 重新禁止 JIT 执行，Flutter 下的 iOS 真机 hot load 暂时无法使用](https://juejin.cn/post/7514490441317220364)|iOS 26限制未签名二进制文件通过JIT编译执行，导致Flutter真机调试hot reload失效，模拟器不受影响。解决方案需转向解释器执行Dart代码，可能影响性能，当前探索混合模式（AOT+解释）以维持功能。|
 |掘金|[TypeScript 函数重载详解：原理、实践与最佳用法](https://juejin.cn/post/7514244463226421257)|TypeScript 函数重载通过多调用签名提升类型安全与灵活性，但实现签名需兼容所有重载组合。转译为 JavaScript 后仅保留实现体，需手动处理类型保护。适合参数逻辑差异大、返回类型明确的场景，重载过多建议封装为对象参数。|
+|掘金|[时间设置的是23点59分59秒，数据库却存的是第二天00:00:00](https://juejin.cn/post/7517119131856191500)|因Java Date精度为毫秒，而数据库TIMESTAMP默认精度为秒，当毫秒部分≥500时会进位1秒，导致时间偏差。解决方法：1.代码中清空纳秒（withNano(0)）；2.调整数据库TIMESTAMP精度。|
+|掘金|[前端难还是后端难？作为八年后端开发，我想说点实话](https://juejin.cn/post/7516897654170222592)|文章探讨了前端与后端开发的难度，指出前端需应对快速变化的技术和兼容性问题，后端则涉及复杂系统逻辑与底层技术，错误影响更大。作者强调两者都有高门槛，关键在于个人掌握程度，真正的难点在于持续深入学习，最终目标都是提升用户体验和系统效率。|
+|掘金|[🧨公司非要用 Tailwind，我觉得这玩意儿不如 inline-style](https://juejin.cn/post/7516804909632847891)|作者质疑Tailwind CSS的实用性，认为其类名组合复杂、维护困难，修改样式需频繁调整多个类，且调试时难以定位生效规则。相较之下，inline-style更直接可控，虽缺乏灵活性但更清晰。文章指出Tailwind适合静态页面，但在复杂业务场景中可能带来更高维护成本。|
+|掘金|[🏄公司报销，培养我成一名 WebGL 工程师⛵️](https://juejin.cn/post/7516573541756649509)|总结：网页系统讲解Three.js在Web3D开发中的应用，涵盖基础场景搭建、材质光照、粒子特效、交互控制及物理模拟，结合Gsap与dat.GUI实现动态动画与调试，支持响应式设计和全屏功能，适用于智慧城市、企业展示等场景。|
+|掘金|[TypeScript“退潮”？大型框架集体转向引发的技术选型思考](https://juejin.cn/post/7516402026169319464)|总结：文章探讨大型框架（如Svelte、Deno）放弃TypeScript的现象，分析其因构建效率、运行时性能及类型与运行时脱节等痛点。认为技术选型应基于场景权衡，而非盲目信仰，揭示前端工程化成熟趋势下对效率与稳定性的理性取舍。|
+|掘金|[lodash vs. lodash-es：模块化、高性能工具库的选择与分析](https://juejin.cn/post/7516369217768849448)|总结：lodash-es支持ES模块，Tree Shaking优化更佳，打包体积更小，适合现代前端项目，推荐按需导入单个函数以实现极致性能。|
+|掘金|[前端调试太痛苦？这 6 个技巧直接解决 90% 问题！](https://juejin.cn/post/7516057632266764327)|该文介绍了6个前端调试技巧：通过Proxyman本地/远程映射修改线上代码、手动添加Source Map定位报错、CSS和JS实现的Hover样式调试方法（如禁用事件监听或设置断点），以及Select下拉框样式调试方案，旨在提升线上问题排查与调试效率。|
+|掘金|[Flutter 应该如何实现 iOS 26 的 Liquid Glass ，它为什么很难？](https://juejin.cn/post/7516095811749003283)|iOS 26的Liquid Glass是融合物理渲染的复杂玻璃效果，通过SDF、折射、色散及动态交互实现，区别于传统毛玻璃。Flutter社区使用自定义着色器复刻，需处理光照、环境反射等技术，但性能受限。未来Flutter可能依赖外部包实现，而非内置，以保持框架高效。|
+|掘金|[Chrome 将成为下一个 IE6](https://juejin.cn/post/7515788549017354274)|Chrome面临"IE6危机"：市场份额高但创新停滞，团队裁员且减少对Web标准的投入，用户转向AI搜索工具导致广告收入下降。AI技术颠覆传统信息获取方式，使浏览器及知识分享平台如Stack Overflow逐渐失去核心地位，未来Web生态或被AI重构。|
+|掘金|[🚀🚀🚀恭喜 Rolldown 获得 JS 开源奖年度突破奖，2025 年 JS 开源奖典礼回顾！🎉🎉🎉](https://juejin.cn/post/7515707680926810163)|JS Nation 2025开源奖评选结果公布，Rolldown获年度突破奖，TanStack Form获技术应用奖，Zod获最具生产力工具奖。其他入围项目如Oxc（Rust解析器）、Brisa（SSR框架）、Stricli（CLI工具）等，均以高性能和创新性为亮点，值得关注。|
+|掘金|[UI设计不求人，对话 Figma MCP 直出UI设计稿！](https://juejin.cn/post/7515231445276852239)|总结：作者分享了使用Cursor与Figma MCP插件协作生成UI设计稿的过程，通过提示词指令实现组件创建与调整，解决自身设计能力不足问题，同时对比了Figma免费版与专业版功能差异，强调工具链配置及跨平台使用技巧。|
