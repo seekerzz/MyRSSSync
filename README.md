@@ -1,6 +1,5 @@
 |Source|Title|Summary|
 |---|---|---|
-|36kr|[“高考作文”热搜爆了，16款AI实测挑战，AI也会玩套路了？](https://www.36kr.com/p/3326443276036612)|智东西评测16款AI助手2025高考作文，发现其结构规范但普遍模板化，引用密集，语言缺乏创新，结尾同质化，AI痕迹明显。|
 |36kr|[奔驰考虑推出一款超长续航的混动车，大电池是主要方向｜36氪独家](https://www.36kr.com/p/3334402968217857)|奔驰计划推出大电池插电混动车型以应对中国市场需求，但中国用户更倾向性价比更高的国产增程车型，导致其在华销量下滑。合资品牌如宝马、丰田、大众、沃尔沃等加速布局大电池混动技术，反映传统车企正转向以消费者需求为导向的电动化策略，争夺新能源市场主导权。|
 |36kr|[Transformer八周年，Attention Is All You Need被引破18万封神](https://www.36kr.com/p/3334838990318084)|Transformer论文发表八周年，虽初未获NeurIPS关注，却成为生成式AI核心架构，推动ChatGPT、Gemini等大模型发展，引用量翻倍达18万+。谷歌现收紧开放政策，但其影响持续，仍主导AI技术演进，未来或长存至AGI实现。|
 |36kr|[5000次风暴，谷歌训出AI预言家，天气预报ChatGPT时刻？](https://www.36kr.com/p/3334838743820553)|谷歌推出新型AI台风预测模型FGN，首次在性能上超越主流物理模型，可提前15天生成50种路径推演，显著提升热带气旋轨迹与强度预测精度，助力防灾决策，潜在挽救生命。|
@@ -43,22 +42,6 @@
 |36kr|[大厂AI，还干不掉张雪峰](https://www.36kr.com/p/3342687748438273)|高考志愿填报市场因信息焦虑迅速升温，大厂与教育机构推出AI工具（如夸克、百度、腾讯）提供智能推荐，但算法不透明、数据不全面等问题导致推荐结果差异大。用户需理性选择，结合人工辅助，适合分数明确者，中段分数考生应多工具验证，未来AI或成免费普及工具。|
 |36kr|[8点1氪｜T3出行被曝要求被猥亵女乘客签署保密协议；网传微信正灰度测试备份至外部存储；李国庆7年离婚官司收场后发二婚请柬](https://www.36kr.com/p/3342647810160896)|苏州极易科技拟港交所上市，T3出行司机猥亵案平台赔偿3000元要求保密。微信灰度测试支持聊天记录备份至电脑/U盘。京东去年发放工资1161亿，刘强东称其失去创新力。特朗普延长TikTok禁令至2025年，美联储维持利率但预期年内降息两次。红杉中国开源AI基准测试xbench。多家车企因安全问题召回车辆，瑞银13万员工数据遭泄露。|
 |36kr|[黄仁勋夸爆的华为AI超节点，技术秘籍披露，昇腾910C跑DeepSeek，效率超英伟达](https://www.36kr.com/p/3341960690612743)|华为推出CloudMatrix384超级节点，搭载384颗昇腾910C NPU与192个鲲鹏CPU，通过超高带宽统一总线（UB）网络实现高效AI计算，其计算效率超越英伟达H800，支持大规模MoE模型部署，助力中国大模型需求。|
-|Github Trending|[codexu/note-gen](https://github.com/codexu/note-gen)|NoteGen是一款跨平台Markdown笔记应用，融合AI技术实现录音与写作无缝衔接，将碎片化知识转化为结构化笔记。支持多平台（未来含移动端）、轻量级设计（仅20MB）、AI模型自定义、实时同步GitHub/Gitee/WebDAV、RAG功能及丰富的编辑特性，如代码高亮、思维导图、语音阅读等。|
-|Github Trending|[netbirdio/netbird](https://github.com/netbirdio/netbird)|NetBird是基于WireGuard的开源工具，通过SSO和MFA实现安全私有网络连接，支持点对点通信、NAT穿透、量子抗性及细粒度访问控制，适用于Linux/macOS/Windows等多平台，提供自动化配置与自托管/云部署选项。|
-|Github Trending|[DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)|React Bits是开源的动画React组件库，提供可定制的组件、背景及交互效果，支持JS/TS与CSS/Tailwind多种技术栈，适用于现代项目。文档完善，MIT协议授权，鼓励社区贡献与使用。|
-|Github Trending|[jwohlwend/boltz](https://github.com/jwohlwend/boltz)|Boltz is a family of biomolecular interaction models, with Boltz-1 achieving AlphaFold3-level accuracy and Boltz-2 surpassing it by integrating structure and binding affinity prediction. Running 1000x faster than physics-based methods, Boltz-2 enables efficient in silico screening for drug discovery. MIT-licensed for open use, it invites community contributions via Slack and supports Tenstorrent hardware.|
-|Github Trending|[scrapy/scrapy](https://github.com/scrapy/scrapy)|Scrapy是Python的高效网络爬虫框架，专用于提取结构化数据，支持跨平台及Python 3.9+。由Zyte维护，提供简单安装方式（pip install scrapy）和详细文档指导使用，欢迎贡献者参与开发。|
-|Github Trending|[vinta/awesome-python](https://github.com/vinta/awesome-python)|"Awesome Python" 是一个社区维护的Python框架、库和工具精选列表，涵盖Web开发、数据科学、自动化、测试、机器学习等领域，提供分类清晰的优质资源推荐，适合开发者快速查找高效解决方案。|
-|Github Trending|[alphacep/vosk-api](https://github.com/alphacep/vosk-api)|Vosk是一款离线开源语音识别工具，支持Android、iOS、Raspberry Pi及服务器，适配Python、Java、C#等语言。覆盖20+语言及方言，具备小体积（50MB）、零延迟流式API、可自定义词汇及说话人识别功能，适用于聊天机器人、智能家居、虚拟助手等场景，支持从小设备到大型集群的扩展部署。|
-|Github Trending|[langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)|LangChain4j是专为Java设计的LLM集成框架，提供统一API支持15+主流大模型与嵌入存储（如OpenAI、Pinecone），包含从基础提示模板到高级Agent/RAG的完整工具链，并配套多框架示例（Spring Boot、Quarkus等）及社区资源，助力快速构建LLM应用。|
-|Github Trending|[topoteretes/cognee](https://github.com/topoteretes/cognee)|Cognee 是一个通过5行代码实现AI代理动态记忆的工具，提供Extract-Cognify-Load（ECL）管道替代传统RAG系统。支持多模态数据处理、图数据库与向量存储，使用Pydantic简化数据加载与管理，适用于跨领域知识整合与检索。|
-|Github Trending|[Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro)|Art Design Pro 是一个基于 Vue3、Vite 和 TypeScript 的开源管理模板，采用 Element Plus 设计规范，注重用户体验与视觉优化，提供多主题切换、全局搜索、多标签页、路由鉴权等实用功能，支持主流浏览器，适合快速构建高质量管理后台。|
-|Github Trending|[deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits)|Ragbits 是一个为生成式AI应用快速开发提供的模块化工具集，支持灵活的RAG处理、多模型切换、类型安全调用及自定义向量存储。内置开发者工具、聊天界面和分布式处理能力，助力高效构建、部署与监控AI应用。|
-|Github Trending|[iib0011/omni-tools](https://github.com/iib0011/omni-tools)|OmniTools是一个自托管的网页工具集合，提供图像/视频处理、文本转换、日期计算、数学生成等多功能实用程序，无广告无跟踪。支持通过Docker快速部署，并欢迎贡献代码或反馈。项目采用MIT许可证开源。|
-|Github Trending|[langgenius/dify](https://github.com/langgenius/dify)|Dify是开源的LLM应用开发平台，提供可视化工作流、RAG管道、代理功能、模型管理及可观测性等工具，支持多语言模型和企业级特性（如SSO），可快速实现从原型到生产部署，提供云服务和自托管选项，并开放社区贡献与多语言翻译支持。|
-|Github Trending|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|该网页是一个免费的LLM入门课程，分为基础知识、科学家（模型构建）和工程师（应用部署）三部分，涵盖数学、Python、NLP、微调、量化、RAG、推理优化、部署及安全等主题，提供Colab笔记本、工具链和书籍《LLM Engineer's Handbook》等资源。|
-|Github Trending|[public-apis/public-apis](https://github.com/public-apis/public-apis)|该网页是一个由社区维护的免费API集合仓库，涵盖动物、天气、新闻、区块链、社交媒体等多领域，提供高质量、易用的RESTful接口及文档，支持HTTPS和CORS，部分需认证。适合开发者集成到项目中，可通过GitHub社区参与维护，MIT协议授权。|
-|Github Trending|[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)|DSPy是一个通过编程而非提示方式调用语言模型的框架，专注于快速构建模块化AI系统并优化其提示和参数。支持多阶段程序、RAG流程及代理循环，提供自改进和自动化功能，简化模型开发流程。|
 |Github Trending|[confident-ai/deepeval](https://github.com/confident-ai/deepeval)|DeepEval是一个开源的LLM评估框架，支持G-Eval、RAGAS、hallucination等指标，适用于RAG流水线、聊天机器人等应用，集成CI/CD并提供红队测试功能，支持本地运行与云平台协作，采用Apache 2.0许可证。|
 |Github Trending|[YaLTeR/niri](https://github.com/YaLTeR/niri)|niri是一款基于Wayland的可滚动平铺合成器，支持多显示器、动态工作空间和自定义布局。其核心特性包括窗口列式排列、手势操作、渐变边框、动画效果及实时配置重载，兼容混合DPI和Fractional Scaling，通过第三方工具实现Xwayland支持。项目灵感来自PaperWM，强调跨显示器的独立管理与高效布局。|
 |Github Trending|[xiangechen/chili3d](https://github.com/xiangechen/chili3d)|Chili3D是一款基于Web的开源3D CAD工具，采用TypeScript与WebAssembly技术实现高性能建模与编辑，支持基本几何体创建、2D草图、布尔运算、测量等功能，无需本地安装，提供多语言界面，当前处于早期alpha开发阶段。|
@@ -105,8 +88,6 @@
 |掘金|[一行代码，将网页元素变成图片！比 html2canvas 快 93 倍的截图神器来了！](https://juejin.cn/post/7513136826073956378)|总结：snapDOM是一款高性能、零依赖的网页截图工具，支持SVG、PNG、JPG、WebP等多种格式，精准还原CSS样式、Shadow DOM及动态效果，适用于成就分享、报表导出等场景，性能比html2canvas快6-13倍，且可灵活处理敏感信息和跨域资源。|
 |掘金|[为什么跨平台框架可以适配鸿蒙，它们的技术原理是什么？](https://juejin.cn/post/7513136826073677850)|本文总结了Flutter、React Native、uni-app x及KMP/CMP等跨平台框架适配鸿蒙Next的技术路径：Flutter通过修改嵌入层和利用鸿蒙的GN/Ninja、LLVM工具链实现；React Native借助ArkUI C API和NAPI对接；uni-app x将Vue编译为ArkTS；KMP/CMP需定制LLVM和NAPI，工作量较大。开源方案如Kuikly和ovCompose为适配提供参考。|
 |掘金|[面试官：怎么禁止用户复制？](https://juejin.cn/post/7513557849243762724)|总结：文章列举了防止网页内容复制的四种技术手段，从基础的JS事件阻止到高级的自定义渲染，但均存在被绕过风险。作者在面试中展示技术能力后，最终以18k薪资达成录用协议。|
-|掘金|[做个大屏既要不留白又要不变形还要没滚动条，我直接怒斥领导，大屏适配就这四种模式](https://juejin.cn/post/7513059488417497123)|前端大屏适配需在不留白、不变形、无滚动条间权衡，四种模式（拉伸填充、保持比例、滚动显示、隐藏超出）各具优劣。fitview插件支持灵活适配方案，可快速实现视口自适应，满足不同项目需求。|
-|掘金|[Java 内存管理技巧（新手必看集合篇）](https://juejin.cn/post/7512746351806906409)|总结（100字以内）:  <br/>Java引用类型（强、软、弱、虚）控制对象生命周期，Spring Boot通过ConcurrentReferenceHashMap实现缓存，弱引用用于临时对象避免内存泄漏，预定义集合大小优化性能。|
 |掘金|[用了三年 Vue，我终于理解为什么“组件设计”才是重灾区](https://juejin.cn/post/7514947261396205587)|总结：Vue组件设计易陷入复用困难、props/emit混乱与技术债堆积，需明确职责（UI/交互/逻辑分离），精简接口，用slots替代过度定制props，提升抽象能力以实现协作而非掌控。|
 |掘金|[🚀🚀🚀尤雨溪推荐的这个库你一定要知道！轻量⚡️，优雅！](https://juejin.cn/post/7514886290300600356)|H3是轻量级HTTP框架，基于Web标准设计，支持中间件、插件系统及tree-shakable特性，体积小且高效，适用于小型服务和边缘计算场景，可直接用于客户端替代axios，提供简洁API与灵活扩展性。|
 |掘金|[Flutter 小技巧之：实现 iOS 26 的 “液态玻璃”](https://juejin.cn/post/7514632455939358731)|iOS 26 的“液态玻璃”效果通过复杂着色器实现，结合模糊与非均匀扭曲，而非简单模糊图层。作者尝试将其移植至 Flutter，并调整参数以模拟水滴放大效果，但实际实现与苹果原版仍有差距，体现其对能耗与渲染效率的优化信心。|
