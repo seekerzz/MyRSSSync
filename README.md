@@ -42,6 +42,14 @@
 |36kr|[大厂AI，还干不掉张雪峰](https://www.36kr.com/p/3342687748438273)|高考志愿填报市场因信息焦虑迅速升温，大厂与教育机构推出AI工具（如夸克、百度、腾讯）提供智能推荐，但算法不透明、数据不全面等问题导致推荐结果差异大。用户需理性选择，结合人工辅助，适合分数明确者，中段分数考生应多工具验证，未来AI或成免费普及工具。|
 |36kr|[8点1氪｜T3出行被曝要求被猥亵女乘客签署保密协议；网传微信正灰度测试备份至外部存储；李国庆7年离婚官司收场后发二婚请柬](https://www.36kr.com/p/3342647810160896)|苏州极易科技拟港交所上市，T3出行司机猥亵案平台赔偿3000元要求保密。微信灰度测试支持聊天记录备份至电脑/U盘。京东去年发放工资1161亿，刘强东称其失去创新力。特朗普延长TikTok禁令至2025年，美联储维持利率但预期年内降息两次。红杉中国开源AI基准测试xbench。多家车企因安全问题召回车辆，瑞银13万员工数据遭泄露。|
 |36kr|[黄仁勋夸爆的华为AI超节点，技术秘籍披露，昇腾910C跑DeepSeek，效率超英伟达](https://www.36kr.com/p/3341960690612743)|华为推出CloudMatrix384超级节点，搭载384颗昇腾910C NPU与192个鲲鹏CPU，通过超高带宽统一总线（UB）网络实现高效AI计算，其计算效率超越英伟达H800，支持大规模MoE模型部署，助力中国大模型需求。|
+|36kr|[刘强东瞄准“稳定币”｜一周人物](https://www.36kr.com/p/3347163951815560)|京东正布局稳定币项目，计划在全球主要货币国家申请牌照以降低跨境支付成本90%、效率提升至10秒内。其基于公链与港元、美元挂钩的稳定币已进入沙盒测试第二阶段，应用于跨境、投资和零售场景。同期，蚂蚁、沃尔玛等巨头及传统支付机构加速推进稳定币，香港凭借成熟监管和国际地位成为关键落点，新法规将于8月实施，规范稳定币发行。|
+|36kr|[截胡海底捞的“穷鬼自助”，快被大学生捧红了](https://www.36kr.com/p/3345986697812616)|比格比萨以创新口味、高性价比和接地气的运营策略，打破传统意式披萨的桎梏。通过不限时自助、专属优惠日及"客服小赵"的互动形象，精准吸引大学生与打工人群体，以差异化定位在餐饮红海中突围，年营收近20亿，门店超200家。|
+|36kr|[《捞女游戏》，以身入局](https://www.36kr.com/p/3347100012960385)|《情感反诈模拟器》原名《捞女游戏》在Steam上线后引发热议，因涉及情感操控与社会批判题材，部分玩家质疑其价值观，导致开发者账号被封禁。游戏通过复杂角色塑造，揭示"捞女"行为背后的生存困境与人性矛盾，主张在爱人前先学会爱自己，引发对情感关系与社会环境的深层思考。|
+|36kr|[三位哈佛留学生的自白：拼命留在美国还值得吗？](https://www.36kr.com/p/3346896229407365)|总结：特朗普政府近期针对国际学生的签证限制引发美国高校诉讼，中国留学生尤其面临政策不确定性与身份焦虑，部分选择回国或调整留学计划，动摇了教育全球化的信念。|
+|36kr|[奥迪撑不住了](https://www.36kr.com/p/3347021984996226)|奥迪CEO推翻2033年全面电动化计划，将燃油车生产延至2035年，同步推进混动、纯电与燃油车型。此举反映德系豪华品牌（奔驰、宝马）集体调整战略，以应对销量下滑和电动化转型困境，重拾传统业务与技术路线平衡。|
+|36kr|[应用宝不想做“工具人”](https://www.36kr.com/p/3346221619600009)|腾讯应用宝进军PC端，日活超千万，但面临流量分散和用户留存挑战。其转型依赖微信生态导流与外部买量，游戏成为核心用户触点，但跨端开发成本高、周期长，难以复制移动时代的成功。未来或转向游戏渠道化或被整合进虎牙，PC端分发仍存不确定性。（99字）|
+|36kr|[LABUBU炒货跌价，还能火多久？](https://www.36kr.com/p/3346913727404672)|**总结**：LABUBU凭借独特"邪恶感"设计和明星带货引爆全球潮玩市场，带动泡泡玛特股价波动与收藏热潮，却因黄牛炒作、二手价格暴跌及产能不足引发争议，其能否持续发展取决于文化输出与IP创新能否突破泡沫。|
+|36kr|[我的女儿，初二，不去上学了](https://www.36kr.com/p/3344538385040257)|总结：单亲妈妈卡梅拉因女儿小恩出现中度抑郁和强迫症，决定停学并带其赴清迈调整，尝试在家自学或艺术教育路径。她面临社会压力与价值观冲突，最终选择尊重孩子意愿，寻找新出路，打破“必须上学”的传统观念。|
 |Github Trending|[confident-ai/deepeval](https://github.com/confident-ai/deepeval)|DeepEval是一个开源的LLM评估框架，支持G-Eval、RAGAS、hallucination等指标，适用于RAG流水线、聊天机器人等应用，集成CI/CD并提供红队测试功能，支持本地运行与云平台协作，采用Apache 2.0许可证。|
 |Github Trending|[YaLTeR/niri](https://github.com/YaLTeR/niri)|niri是一款基于Wayland的可滚动平铺合成器，支持多显示器、动态工作空间和自定义布局。其核心特性包括窗口列式排列、手势操作、渐变边框、动画效果及实时配置重载，兼容混合DPI和Fractional Scaling，通过第三方工具实现Xwayland支持。项目灵感来自PaperWM，强调跨显示器的独立管理与高效布局。|
 |Github Trending|[xiangechen/chili3d](https://github.com/xiangechen/chili3d)|Chili3D是一款基于Web的开源3D CAD工具，采用TypeScript与WebAssembly技术实现高性能建模与编辑，支持基本几何体创建、2D草图、布尔运算、测量等功能，无需本地安装，提供多语言界面，当前处于早期alpha开发阶段。|
@@ -73,6 +81,17 @@
 |Github Trending|[alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine)|LowCodeEngine 是一套企业级低代码技术体系，采用扩展架构设计，内置高质量生态组件（如材料系统、设置器、插件等），支持 TypeScript 和完整工具链，兼容主流现代浏览器，可扩展至近百个垂直平台，提供 npm 安装及多 CDN 方式使用，并拥有完善的文档和社区协作机制。|
 |Github Trending|[moby/buildkit](https://github.com/moby/buildkit)|BuildKit 是 Docker 的高效构建工具，支持并发处理、缓存优化、多平台镜像构建及多种输出格式（如 OCI/Tar）。提供容器化部署（Docker/Podman/Nerdctl）、无 root 运行和 OpenTelemetry 监控，适用于复杂构建流程和分布式环境。|
 |Github Trending|[php/frankenphp](https://github.com/php/frankenphp)|FrankenPHP是基于Caddy的现代PHP应用服务器，支持HTTP/2/3、自动HTTPS、实时通信及Worker模式，显著提升Laravel/Symfony等框架性能。兼具独立服务器功能与Go语言嵌入库特性，适用于开发、部署及高性能场景。|
+|Github Trending|[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)|AI Engineering Hub 是一个提供大语言模型（LLM）、检索增强生成（RAG）及实际AI代理应用教程的资源库，涵盖从基础到进阶内容，支持项目实践与社区协作。用户可通过订阅获取数据科学电子书，欢迎贡献代码或反馈，采用MIT开源协议。|
+|Github Trending|[dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)|Notepad Next 是一款跨平台的 Notepad++ 替代软件，提供 Windows、Linux 和 macOS 安装方式（支持 installer、AppImage、Flatpak 和 Homebrew）。项目尚未稳定，不建议用于关键任务，但欢迎提交修复。采用 Qt 开发，遵循 GPLv3 许可证。|
+|Github Trending|[ourongxing/newsnow](https://github.com/ourongxing/newsnow)|NewsNow是一款支持多语言的实时新闻阅读应用，提供简洁界面、GitHub OAuth登录、30分钟缓存及自适应抓取间隔功能。支持Cloudflare D1数据库和Docker部署，未来将扩展全球多语言新闻源并增强个性化设置。|
+|Github Trending|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|该网页介绍了一个GitHub仓库，提供从头用PyTorch实现ChatGPT类大语言模型的完整代码及配套书籍资源，涵盖模型构建、预训练、微调、注意力机制、文本处理等核心内容，并包含LoRA、DPO等扩展实验。用户可通过代码示例和教程学习LLM原理与实践。|
+|Github Trending|[cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)|Gitingest是将Git仓库转换为LLM友好文本的工具，支持通过替换GitHub链接中的"hub"为"ingest"获取代码摘要。提供CLI、Python库及浏览器扩展，可分析代码结构、统计文件信息，并支持私有仓库。项目开源，欢迎贡献与使用。|
+|Github Trending|[typst/typst](https://github.com/typst/typst)|Typst is a markup-based typesetting system, powerful and easy to learn, offering incremental compilation, scripting, math support, and community tools for collaboration.|
+|Github Trending|[n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)|该网页介绍了一个由n8n开发的开源自托管AI模板，通过Docker Compose快速搭建本地AI环境，集成n8n平台、Ollama语言模型、Qdrant向量数据库和PostgreSQL。适用于构建AI代理、文档处理、Slack机器人等应用，支持多种硬件配置并提供教程和扩展模板资源。|
+|Github Trending|[unionlabs/union](https://github.com/unionlabs/union)|Union是信任最小化的零知识跨链协议，支持 censorship resistance 和高安全的资产转移、NFT、DeFi 应用。兼容 Cosmos 及 EVM 链，基于 IBC 实现互操作性，无需依赖第三方或预言机，协议升级由去中心化治理控制。|
+|Github Trending|[DrKLO/Telegram](https://github.com/DrKLO/Telegram)|Telegram Android官方源代码仓库提供开发指南，要求开发者获取API ID、避免使用官方名称和Logo，遵守安全规范。编译需Android Studio 3.4、NDK rev. 20及SDK 8.1，替换配置文件如release.keystore和google-services.json。本地化资源可通过指定链接访问。|
+|Github Trending|[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)|总结：Flowseal的zapret-discord-youtube项目通过WinDivert实现Windows平台绕过Discord和YouTube限制，提供多策略及支持选项。|
+|Github Trending|[n8n-io/n8n](https://github.com/n8n-io/n8n)|n8n是一款面向技术团队的灵活工作流自动化平台，结合代码与可视化界面，支持自托管或云部署，集成400+工具，内置AI能力，采用公平代码许可证，提供企业级权限管理与社区支持。|
 |掘金|[字节跳动技术副总裁洪定坤：TRAE 想做 AI Development](https://juejin.cn/post/7514956702346952713)|字节跳动技术副总裁洪定坤在火山引擎大会上介绍AI编程产品TRAE，该工具已助力超100万用户和80%工程师提升开发效率，通过自然语言编程和智能化开发流程，实现技术普惠与效率飞跃，并强调AI开发需深度结合人类协作。|
 |掘金|[震惊，中石化将开源组件二次封装申请专利，这波操作你怎么看？](https://juejin.cn/post/7514858513442078754)|中石化申请基于Vue的文件上传组件二次封装专利，利用开源组件实现功能简化与效率提升，引发对技术创新边界及开源社区影响的讨论，凸显企业对知识产权的重视，需平衡保护与技术共享间的矛盾。|
 |掘金|[阿里老员工发表万字离职感言引爆内网，引发万人共鸣，马云亲自回复](https://juejin.cn/post/7514604514872459273)|钉钉前员工元安反思阿里价值观缺失与战略异化，指出公司从注重社会价值转向逐利，出现短期主义、运营泡沫、官僚主义及HR失职等问题，呼吁修复内核、透明化管理，回归"客户第一"初心，期盼阿里重拾使命感以应对未来挑战。|
@@ -85,9 +104,6 @@
 |掘金|[💖ElementPlusX × RuoyiAI 联合发布 《仿豆包AI全栈模版》💖](https://juejin.cn/post/7513231116034687012)|Element Plus X与RuoyiAI联合推出仿豆包通义AI全栈模板，采用Vue3.5、Pinia等技术栈，开源MIT协议支持免费商用，集成登录、会话管理、模型切换、思考模式等核心功能，提供在线预览及开发文档。|
 |掘金|[宇树科技的最新薪资和招人标准！](https://juejin.cn/post/7513231116034654244)|宇树科技更名股份公司，聚焦高性能足式/人形机器人及机械臂研发，招聘技术与非技术岗位，核心算法岗要求硕士及3年以上经验，薪资13-14薪，行业前景广阔，推动具身智能发展。|
 |掘金|[用好了 defineProps 才叫会用 Vue3，90% 的写法都错了](https://juejin.cn/post/7513117108114473001)|本文详解Vue 3中defineProps的正确用法，强调通过泛型和withDefaults实现类型推导与默认值管理，避免直接解构导致响应性丢失、类型重复等误区，指出其作为组件契约的核心作用，提升代码健壮性与可维护性。|
-|掘金|[一行代码，将网页元素变成图片！比 html2canvas 快 93 倍的截图神器来了！](https://juejin.cn/post/7513136826073956378)|总结：snapDOM是一款高性能、零依赖的网页截图工具，支持SVG、PNG、JPG、WebP等多种格式，精准还原CSS样式、Shadow DOM及动态效果，适用于成就分享、报表导出等场景，性能比html2canvas快6-13倍，且可灵活处理敏感信息和跨域资源。|
-|掘金|[为什么跨平台框架可以适配鸿蒙，它们的技术原理是什么？](https://juejin.cn/post/7513136826073677850)|本文总结了Flutter、React Native、uni-app x及KMP/CMP等跨平台框架适配鸿蒙Next的技术路径：Flutter通过修改嵌入层和利用鸿蒙的GN/Ninja、LLVM工具链实现；React Native借助ArkUI C API和NAPI对接；uni-app x将Vue编译为ArkTS；KMP/CMP需定制LLVM和NAPI，工作量较大。开源方案如Kuikly和ovCompose为适配提供参考。|
-|掘金|[面试官：怎么禁止用户复制？](https://juejin.cn/post/7513557849243762724)|总结：文章列举了防止网页内容复制的四种技术手段，从基础的JS事件阻止到高级的自定义渲染，但均存在被绕过风险。作者在面试中展示技术能力后，最终以18k薪资达成录用协议。|
 |掘金|[用了三年 Vue，我终于理解为什么“组件设计”才是重灾区](https://juejin.cn/post/7514947261396205587)|总结：Vue组件设计易陷入复用困难、props/emit混乱与技术债堆积，需明确职责（UI/交互/逻辑分离），精简接口，用slots替代过度定制props，提升抽象能力以实现协作而非掌控。|
 |掘金|[🚀🚀🚀尤雨溪推荐的这个库你一定要知道！轻量⚡️，优雅！](https://juejin.cn/post/7514886290300600356)|H3是轻量级HTTP框架，基于Web标准设计，支持中间件、插件系统及tree-shakable特性，体积小且高效，适用于小型服务和边缘计算场景，可直接用于客户端替代axios，提供简洁API与灵活扩展性。|
 |掘金|[Flutter 小技巧之：实现 iOS 26 的 “液态玻璃”](https://juejin.cn/post/7514632455939358731)|iOS 26 的“液态玻璃”效果通过复杂着色器实现，结合模糊与非均匀扭曲，而非简单模糊图层。作者尝试将其移植至 Flutter，并调整参数以模拟水滴放大效果，但实际实现与苹果原版仍有差距，体现其对能耗与渲染效率的优化信心。|
@@ -115,3 +131,12 @@
 |掘金|[Chrome 将成为下一个 IE6](https://juejin.cn/post/7515788549017354274)|Chrome面临"IE6危机"：市场份额高但创新停滞，团队裁员且减少对Web标准的投入，用户转向AI搜索工具导致广告收入下降。AI技术颠覆传统信息获取方式，使浏览器及知识分享平台如Stack Overflow逐渐失去核心地位，未来Web生态或被AI重构。|
 |掘金|[🚀🚀🚀恭喜 Rolldown 获得 JS 开源奖年度突破奖，2025 年 JS 开源奖典礼回顾！🎉🎉🎉](https://juejin.cn/post/7515707680926810163)|JS Nation 2025开源奖评选结果公布，Rolldown获年度突破奖，TanStack Form获技术应用奖，Zod获最具生产力工具奖。其他入围项目如Oxc（Rust解析器）、Brisa（SSR框架）、Stricli（CLI工具）等，均以高性能和创新性为亮点，值得关注。|
 |掘金|[UI设计不求人，对话 Figma MCP 直出UI设计稿！](https://juejin.cn/post/7515231445276852239)|总结：作者分享了使用Cursor与Figma MCP插件协作生成UI设计稿的过程，通过提示词指令实现组件创建与调整，解决自身设计能力不足问题，同时对比了Figma免费版与专业版功能差异，强调工具链配置及跨平台使用技巧。|
+|掘金|[并行性能提升300%！LangGraph如何重塑大模型任务编排](https://juejin.cn/post/7517488132989681699)|LangGraph通过图结构重构大语言模型应用逻辑，实现状态驱动、并行执行与智能路由，显著提升开发效率与系统可维护性。其核心优势包括自动脏位检查、无死循环机制、模块化扩展及企业级优化，适用于复杂多智能体协作场景，有望成为AI应用开发的新范式。|
+|掘金|[Postgres 杀疯了，堪称 “六边形战士”，还要 Redis 干啥？](https://juejin.cn/post/7517200182725296178)|作者主张避免过度使用多种数据库工具，指出Postgres可通过JSONB、LISTEN/NOTIFY等特性替代Redis、RabbitMQ、Elasticsearch等，实现缓存、队列、搜索、实时通知等功能，节省成本与复杂性。实际案例显示其可处理大规模数据，反对为潜在需求提前设计分布式架构，建议从Postgres开始，专注解决实际问题。|
+|掘金|[简单聊聊小程序、uniapp及其生态圈](https://juejin.cn/post/7517200182725132338)|总结：微信小程序因便捷性迅速崛起，但开发体验差、兼容性问题频发。uni-app等跨平台框架虽简化开发，却因厂商内斗和标准不统一，反而暴露小程序缺陷，成为“帮凶”。开发者被迫在框架与原生生态间挣扎，难以摆脱困境。|
+|掘金|[我本是写react的，公司让我换赛道搞web3D](https://juejin.cn/post/7517209356855164978)|该网页介绍了Three.js核心功能，包括场景创建、相机设置、三维物体（如立方体）操作、渲染流程及交互控制。通过轨道控制器实现视角环绕，结合GSAP动画库和dat.GUI界面实现动态效果与参数调整，并提及WebGPU的未来潜力，强调三维技术在现代前端开发中的重要性。|
+|掘金|[Vue 项目不要再用 Pinia 了，组合式 API + ref() 才是王道](https://juejin.cn/post/7517197769246720012)|作者认为Pinia虽轻量且支持DevTools与自动类型推导，但项目复杂时易变成“另一个Vuex”，更适合大型团队或需SSR/集中式管理的场景。中小项目用组合式API封装状态更灵活，减少UI逻辑耦合与调试复杂度，Vue3的组合式能力已足够替代Store，简化开发体验。|
+|掘金|[分享10个吊炸天的油猴脚本，2025最新！](https://juejin.cn/post/7517081861975277603)|网页介绍了油猴脚本插件的功能及10个实用脚本，涵盖下载加速（如GitHub、百度网盘）、网页增强（如B站高画质、VIP视频解析）、广告拦截（如CSDN）、效率工具（如网页记事本）和开发辅助（如Vue路由切换）。并推荐《油猴脚本开发实战》小册学习脚本开发。|
+|掘金|[解锁私有化AI中枢：基于Dify构建企业级开发平台的技术深潜](https://juejin.cn/post/7516897654170632192)|本文详解了Dify企业级AI平台的本地化部署流程，涵盖环境准备、服务启动、数据库初始化及安全合规配置，强调其数据安全、自定义集成、性能优化与成本优势，提供智能客服、研发助手、市场洞察等应用场景，并配套监控与安全加固方案，助力企业构建安全可控的AI开发环境。（99字）|
+|掘金|[Web 浏览器预览 Excel 及打印](https://juejin.cn/post/7516911878951518235)|网页总结：  <br/>探讨在浏览器前端预览和打印Excel的实现方案，因公司无法购买付费软件，作者通过xlsx库动态生成HTML表格并使用iframe渲染，结合浏览器打印功能解决样式显示问题，最终实现可打印的Excel预览效果，同时指出可进一步优化为后端模板渲染。|
+|掘金|[被对象嘲讽，写个网页护眼宝你都不会么](https://juejin.cn/post/7516369217770029096)|总结：作者开发了基于油猴脚本的护眼工具，通过CSS滤镜实现网页暗黑模式切换，并优化按钮为可拖拽位置，支持跨页面同步，提升用户操作体验。|
