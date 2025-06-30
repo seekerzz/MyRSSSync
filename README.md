@@ -1,13 +1,5 @@
 |Source|Title|Summary|
 |---|---|---|
-|36kr|[泡泡玛特珠宝店首店开张；永辉“胖东来模式”调改完成100店；星巴克中国降价 _ 品牌周报](https://www.36kr.com/p/3334509333637383)|**总结**：  <br/>泡泡玛特拓展珠宝业务，Zara母公司Inditex及H&M业绩低迷；永辉超市完成100家门店胖东来模式调改；欧莱雅收购护肤品牌Medik8；星巴克考虑出售中国业务；多个品牌推出新品，如让茶联名款、农夫山泉碳酸茶，同时，胖东来利润预期、日清拓展内地市场等动态凸显消费行业调整与增长机遇。|
-|36kr|[20年前，乔布斯最尴尬也最伟大的一次演讲](https://www.36kr.com/p/3337487362091520)|乔布斯2005年斯坦福毕业演讲是他唯一一次公开表达谦逊的时刻。他通过辍学、被解雇与抗癌经历，分享了"连接点滴""爱与失去""面对死亡"三大人生启示，强调追随内心、珍惜时光的重要性，并首次提出"Stay hungry. Stay foolish."的座右铭，成为激励无数人的经典之作。|
-|36kr|[中产返贫，新三件套](https://www.36kr.com/p/3337468378147079)|许多年轻人从互联网大厂离职后投身咖啡、奶茶、小酒馆创业，因选址不当、预算不足及激烈竞争普遍亏损。市场饱和导致回本周期长达1.8-3年，多数非专业投资者成为“陪跑”。尽管新茶饮曾掀起造富热潮，但增速放缓、品牌收缩，凸显低门槛创业背后的高风险与现实挑战。|
-|36kr|[全方位实测首个AI原生浏览器：618比价、写高考作文……网友：再见Chrome](https://www.36kr.com/p/3337245776537865)|总结：Dia是The Browser Company推出的首款AI原生浏览器，支持直接网页对话、多标签页智能整合、视频内容定位与总结等功能，用户反馈高效便捷但暂仅限MacOS。公司曾因Arc学习成本高而转向Dia，旨在构建更易用的基于浏览器的系统。|
-|36kr|[三箭齐发，苹果AI蓝图曝光，Siri 2.0只是冰山一角？](https://www.36kr.com/p/3337461216535816)|苹果早期凭借Siri和机器学习技术引领AI发展，但近年在大模型时代进展缓慢，WWDC 2025仅推出部分AI项目（Siri 2.0、Knowledge、Copilot），面临隐私保护与技术落地难题，依赖外部模型影响体验，市场质疑其AI战略，期待未来优化实现目标。|
-|36kr|[代工宿命还是科技跃迁？赛力斯在华为生态中的身份迷思](https://www.36kr.com/p/3336292783188228)|赛力斯借华为智选模式实现销量飞跃，但面临制造成本高、利润低及技术依赖问题，需加速自研转型以构建核心竞争力，摆脱代工厂标签，成为独立智能电动汽车品牌。|
-|36kr|[豆包模型上新，字节继续卷性价比](https://www.36kr.com/p/3335845223115266)|字节推出Seedance 1.0 Pro视频生成模型及豆包1.6多模态大模型，强调产品落地与场景集成，通过内容+工具双生态构建AI应用能力，降低成本门槛，加速模型商业化进程，与OpenAI、百度形成差异化竞争策略。|
-|36kr|[史上最“壕”足球赛，32支球队分72亿奖金](https://www.36kr.com/p/3335818800081154)|2025世俱杯首次扩军至32队在美国举办，赛制改为四年一届。尽管欧洲豪门云集且奖金池达10亿美元，但揭幕战门票销售低迷，票价持续下调。中国虽放弃承办权，但仍有多名球员、裁判参与，企业成为合作伙伴。（99字）|
 |36kr|[罗永浩用 AI 带货发财了，一晚狂卖5500万，行业大为震惊](https://www.36kr.com/p/3339115904972035)|罗永浩数字人直播在百度电商创下单场GMV突破5500万、观看人次超1300万的成绩，凭借高拟真表现与AI技术支撑引发关注。尽管数字人具备降本增效潜力，但消费者更看重产品质量，且技术门槛高，小商家难以复刻。此次合作标志着百度电商在AI驱动下的战略突破，助力直播行业智能化升级。|
 |36kr|[扎克伯格砸1000亿挖他， 这个刷屏的95后华裔天才，用几十万「AI 民工」成为亿万富豪](https://www.36kr.com/p/3339112363439365)|Meta以143亿美元收购Scale AI 49%股权，该企业由28岁的MIT辍学华裔创业者Alexandr Wang创立，专注于AI数据标注服务。此举旨在借助其技术经验强化AI布局，但引发业界对数据中立性及行业垄断的担忧，竞争对手已表态转向其他供应商。|
 |36kr|[特斯拉无人车开跑，画了这么久的饼，终于可以吃了](https://www.36kr.com/p/3338969675542790)|特斯拉Robotaxi将于6月22日启动小范围试运营，基于Model Y搭载无监督FSD技术，采用地理围栏和远程监控保障安全。未来或开放车主共享出行创收，但面临技术争议与审批挑战，市场对其成败影响股价预期。|
@@ -115,6 +107,21 @@
 |36kr|[9点1氪丨蔡澜离世，享年83岁；西贝就前员工偷拍6岁女顾客致歉；雷军：不会公布小米YU7 24小时销量](https://www.36kr.com/p/3354876874360841)|**总结**：近期多家科技公司递交港股上市申请，包括未盈利企业深圳大普微。蔡澜离世引发关注，西贝就员工偷拍事件致歉。小米回应前总监传言，称其为食堂员工；阿里财报显示净利润增长77%。反不正当竞争法修订通过，Crocs被诉产品缺陷，黄仁勋减持英伟达股票，腾讯开源AI混合推理模型。|
 |36kr|[说好的消费降级，为何小米YU7 3分钟卖掉20万台？](https://www.36kr.com/p/3354619269236738)|小米YU7在发布后1小时大定订单突破28.9万台，展现消费降级背景下对高性价比与情绪价值的双重追求。其通过精准配置、品牌信任及预期管理策略，吸引中产与富裕人群，将理性选择与感性认同结合，以技术实力和设计美学打破传统豪车定位，实现市场引爆。|
 |36kr|[谷歌杀疯，百万token神器免费开源，Claude和Codex都顶不住了？](https://www.36kr.com/p/3354371057939073)|谷歌推出开源免费的Gemini CLI编程工具，支持百万级token上下文和千次调用额度，深度集成VS Code与终端，助力开发者高效编码。该工具被视为对OpenAI、Anthropic等竞品的有力竞争，展现谷歌在AI编程领域的全面布局。|
+|36kr|[微脉递交上市申请，AI全病程管理模式跑通、已实现规模化收入](https://www.36kr.com/p/3355400170702596)|微脉向港交所递交上市申请，通过AI技术为157家医院提供全病程管理服务，覆盖超50万患者，收入三年增长近2倍，虽暂未盈利但亏损收窄，未来有望依托C端付费和多元化业务实现盈利。|
+|36kr|[在伦敦，中国品牌打算偷偷惊艳所有人？](https://www.36kr.com/p/3355512592877316)|英国正成为中国企业跨境出海重点市场，京东、比亚迪、泡泡玛特等品牌在电商、汽车、潮玩等领域取得进展，从白牌到高端定位转变。唐人街仍以华人消费为主，但部分茶饮和餐饮品牌尝试打入当地市场。中国品牌逐步渗透，但整体仍处早期阶段。|
+|36kr|[Robotaxi 2025：扩张之年，头部玩家商业化行至何处？](https://www.36kr.com/p/3355681837745925)|近期Robotaxi行业加速商业化，特斯拉、中国头部企业（如小马智行、文远知行）竞相扩大车队规模，采用视觉AI与多传感器等不同技术路线。受成本高、政策监管制约，盈利仍需时间，预计2025-2028年实现。行业突破关键瓶颈者将引领未来出行发展。|
+|36kr|[拯救P图废柴，阿里上新多模态模型Qwen-VLo！人人免费可玩](https://www.36kr.com/p/3355674845104132)|阿里推出Qwen-VLo多模态模型，具备更强细节捕捉与图像编辑能力，支持风格替换、文字添加、多语言及任意分辨率输出。其分步生成方式从左至右逐步构建画面，与GPT-4o的"障眼法"不同，更注重真实优化。网友实测显示其可完成创意任务如"洗浴用品购物篮"等，模型目前免费开放，用户可在线体验。|
+|36kr|[海致科技赴港IPO：百度创业元老大谈“AI除幻”，赎回负债压顶](https://www.36kr.com/p/3354967454177417)|海致科技由百度元老任旭阳创立，专注通过知识图谱技术降低AI幻觉，但面临高额赎回负债与三年连亏，2024年营收刚达主板上市门槛，估值33亿港元。其技术虽在细分领域领先，但研发费用锐减、市场占有率仅1%，亟需上市融资以缓解资金压力。|
+|36kr|[拨康视云四战港交所：三年亏损超20亿元，创始人千万年薪碾压同行](https://www.36kr.com/p/3354737851177097)|拨康视云通过港交所聆讯，计划7月上市。公司专注眼科创新药研发，核心产品CBT-001（翼状胬肉治疗）和CBT-009（非水性阿托品近视防治）面临激烈竞争，但技术优势显著。经历三次上市失败后，其资金储备仅余10个月，创始人高薪加剧亏损，需依赖IPO募资推进研发，能否成功仍待临床数据验证。|
+|36kr|[家电红海突围战：高玉玲治下，海信能否撕开增长缺口？](https://www.36kr.com/p/3354797625170311)|海信家电更换董事长高玉玲，面临行业增长瓶颈与三大巨头竞争压力，2024年营收增速放缓、利润率下降、市值缩水。公司正通过多元化布局（如汽车供应链）和国际化并购寻求突破，但需克服技术、市场及管理挑战，以重塑增长模式。|
+|36kr|[一热就卡，同配置机器，性能差那么多？](https://www.36kr.com/p/3356264549500681)|今年笔记本市场促销频繁，同配置机型性能差异显著。老狐指出，散热设计决定功耗释放，VC均热板等高效散热方案能提升性能并兼顾体积。建议根据使用需求选择：商务轻薄本注重静音，全能本平衡性能与便携，游戏本追求散热与高功耗。核心在于散热能力影响实际表现，而非仅看硬件配置。|
+|36kr|[拥抱安全赛：充电宝行业迎来新机遇](https://www.36kr.com/p/3356242488891782)|中国民航局自6月28日起禁用无3C标识或存在安全缺陷的充电宝，因安普瑞斯电芯批次问题引发行业信任危机。部分品牌召回涉事产品，头部企业则通过更换安全电芯、下架非合规产品等方式应对，呼吁消费者重视认证与品牌可靠性，推动行业提升安全标准。|
+|36kr|[柠檬涨价，奶茶店主慌了？我发现真相并非如此](https://www.36kr.com/p/3356894152607491)|柠檬价格因气候异常和国际供应变化上涨约30%，但头部茶饮企业凭借自建供应链和农业现代化技术（如延长柠檬树寿命、提升产量）有效控制成本，维持产品价格稳定，中小品牌或需调整配方应对。供应链能力成茶饮行业核心竞争力。|
+|36kr|[硅谷华人AI大牛被疯狂挖角！小扎打包带走4名OpenAI研究员](https://www.36kr.com/p/3357016091690754)|Meta挖角OpenAI四名顶尖华人研究员（毕树超、余家辉、任泓宇、赵晟佳），均来自中国名校并曾在谷歌等大厂任职。扎克伯格以高薪招募，但AI基础设施投入远超薪酬。此次人才流失或为Meta AI研究困境的缩影，其Llama-4表现不佳引发研究员离职，高薪挖角成效仍需下一代大模型验证。（99字）|
+|36kr|[精准便宜1万，小米YU7能否扳倒特斯拉Model Y？](https://www.36kr.com/p/3356821417789445)|小米YU7以25.35万元起售价切入SUV市场，比特斯拉Model Y低1万，首小时订单破28.9万。其配置高、价格策略激进，或分流同价位新势力车型用户，但面临产能不足导致的17-22周交付周期压力，能否突破交付瓶颈将成小米汽车销量目标达成的关键。|
+|36kr|[转转开启3000平大店，二奢真这么赚？](https://www.36kr.com/p/3355964465481734)|国内二手经济加速发展，转转与只二相继开设大型线下仓储式门店（如"超级转转"和"透明仓"），主打二奢产品透明标价和自助选购，冲击传统中古店模式，推动二手循环理念普及。行业面临价格透明化挑战，但通过专业质检和多品类扩展（如数码、服饰），形成正向循环，加速用户参与与市场扩张。|
+|36kr|[荣耀开启IPO，A股将迎2000亿「AI终端第一股」？](https://www.36kr.com/p/3356242877077637)|荣耀完成上市辅导备案，拟2026年登陆A股，成为继小米、传音后中国第三家上市手机品牌。其"阿尔法战略"旨在转型AI终端生态公司，计划5年投入100亿美元发展AI技术及生态，但需突破品牌标签弱、市场竞争激烈的困境，IPO成败将直接影响其战略实施与市场地位。|
+|36kr|[2025年如何从小白进阶成为AI/ML专家：助你拿下offer的修炼路线图](https://www.36kr.com/p/3320462537484547)|本文提供2025年AI/ML学习八步法：从掌握Python核心库和数学基础到构建项目、专精领域、掌握MLOps部署技能，强调实战能力培养与持续学习前沿技术，助学习者高效突破技术门槛，备战职场。|
 |Github Trending|[huggingface/lerobot](https://github.com/huggingface/lerobot)|LeRobot是Hugging Face推出的机器人AI库，通过端到端学习简化真实场景机器人开发，提供预训练模型、数据集及工具，支持强化学习和模仿学习，集成模拟环境与硬件设备，旨在降低技术门槛并促进开源协作。|
 |Github Trending|[anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)|Anthropic's Prompt Engineering Tutorial is an interactive guide to mastering optimal prompt creation for Claude, spanning 9 chapters and an appendix. It teaches structure, clarity, role assignment, data separation, output formatting, step-by-step reasoning, examples, hallucination avoidance, and complex use cases (chatbots, legal, financial, coding). The course includes hands-on exercises, an example playground, and emphasizes practical techniques to improve prompt effectiveness while highlighting Claude's strengths and weaknesses.|
 |Github Trending|[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)|Prompt Optimizer是一款AI提示词优化工具，支持OpenAI、Gemini等多模型，提供Web和Chrome插件两种方式。具备智能优化、参数配置、隐私保护等功能，支持多种部署方案（在线、Vercel、Docker）。开源MIT协议，欢迎贡献。|
@@ -188,10 +195,19 @@
 |Github Trending|[rxi/microui](https://github.com/rxi/microui)|microui是用ANSI C实现的轻量级即时模式UI库，仅1100行代码，支持固定内存区域操作和自定义控件扩展，内置窗口、按钮等基础组件，兼容任意渲染系统，用户需自行处理输入与绘制，采用MIT许可证开源。|
 |Github Trending|[coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents)|oTTomator Live Agent Studio是一个社区驱动的开源AI代理平台，提供多种应用场景的代理工具。新用户初始赠送免费tokens，后续可通过购买扩展使用。平台持续更新代理库及教程，用户可参考示例代码学习开发，并在社区论坛交流获取支持。|
 |Github Trending|[sindresorhus/awesome](https://github.com/sindresorhus/awesome)|该网页是综合性的开源资源目录，分类整理了编程、开发工具、计算机科学、数据库、安全、游戏开发等领域的内容，包含大量项目链接和学习资料，旨在帮助开发者发现和探索各种技术资源，所有内容均托管于GitHub，支持社区贡献与维护。|
+|Github Trending|[GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)|Sniffnet是一款跨平台、直观且可靠的网络流量监控工具，支持实时数据分析、过滤、统计及地理定位等功能。提供Windows、macOS、Linux多版本下载，含PCAP文件导入导出与自定义主题。开源免费，依赖社区支持，并通过GitHub维护更新。|
+|Github Trending|[adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore)|BookLore是自托管的书籍管理应用，支持PDF/eBook格式，提供分类组织、元数据抓取、阅读进度跟踪、OPDS协议及OIDC认证功能，兼容多用户与Docker部署，采用GNU GPL v3开源许可。|
+|Github Trending|[fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)|该网页介绍一个基于FastAPI和React的现代全栈Web应用模板，集成SQLModel、PostgreSQL、Docker、GitHub Actions等技术。提供自动HTTPS、JWT认证、邮件恢复及测试工具，支持私有仓库克隆、Copier项目生成和CI/CD部署，适用于快速构建安全、可扩展的生产级应用。|
+|Github Trending|[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)|Graphite是一款结合传统图层与现代节点式非破坏性工作流的2D矢量和位图编辑器，开源且处于alpha阶段，支持图形设计、VFX、动态图形等多种创作功能，由社区驱动开发。|
+|Github Trending|[midday-ai/midday](https://github.com/midday-ai/midday)|Midday是一款专为自由职业者、承包商等打造的一站式业务管理工具，集成计费、时间追踪、文件归档、存储、财务概览等功能，结合AI助理提升效率。采用React、TypeScript等技术栈，基于Supabase和Vercel部署，开源许可为AGPL-3.0，商业使用需联系获取授权。|
+|Github Trending|[Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio)|Serial Studio 是跨平台嵌入式设备数据可视化工具，支持串口、BLE、MQTT和网络协议，适用于教育、业余及专业场景。提供开源GPL版本（需自行编译）和商业版本（含高级功能，需激活），支持多数据源、自定义仪表板及实时调试，兼顾社区与商业需求。|
+|Github Trending|[swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)|该网页是Web应用安全渗透测试和CTF比赛的Payload资源库，包含漏洞利用方法、绕过技巧及结构化文档，支持社区贡献与赞助。提供多种payload模板和工具文件，适合安全研究人员和渗透测试者参考使用。|
+|Github Trending|[rommapp/romm](https://github.com/rommapp/romm)|RomM是一款自托管的ROM管理与播放工具，支持多平台、元数据同步及自定义艺术图，提供浏览器内直接游戏体验、成就显示、库共享等功能，兼具美观与强大特性。|
+|Github Trending|[actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)|Actions Runner Controller (ARC) is a Kubernetes operator enabling auto-scaling of GitHub Actions self-hosted runners, maintained by GitHub and the community.|
+|Github Trending|[pot-app/pot-desktop](https://github.com/pot-app/pot-desktop)|Pot是一款跨平台划词翻译与OCR工具，支持Windows/macOS/Linux系统，集成OpenAI、百度、Google等多翻译/识别接口，提供插件扩展和Wayland兼容性，满足多语言文本处理需求。|
+|Github Trending|[google-gemini/cookbook](https://github.com/google-gemini/cookbook)|该网页介绍Gemini API的学习资源，包含快速入门教程、实际应用案例和端到端演示，涵盖多模态功能及新模型如Gemini 2.5、Imagen、Veo。提供Python等官方SDK，并指导迁移至新框架。还附有贡献指南和开发者支持信息。|
 |掘金|[支付宝开放平台，这谁写的，要扣绩效吧](https://juejin.cn/post/7515965961809690675)|支付宝接口对接中出现“服务异常”和“参数错误”问题，源于数据保留规则（仅存180天客诉）及开发文档参数注释不明确，导致开发者误传参数或查询失效。同时，部分接口第三方接入支持描述矛盾，增加开发困惑。文章最后抛出Java GC对象回收判断的面试题，强调接口文档准确性对开发的重要性。|
 |掘金|[Vue实现一个“液态玻璃”效果登录卡片](https://juejin.cn/post/7516306850715910182)|总结：该教程详解如何使用Vue结合SVG滤镜、多层叠加与3D倾斜交互实现液态玻璃登录卡片，通过模糊、色调、高光等技术提升视觉质感，优化阴影与圆角细节，同时注意浏览器兼容性与性能问题，打造现代高端UI效果。|
-|掘金|[面试官问我，后端一次性返回十万条数据，前端应该怎么处理 ？](https://juejin.cn/post/7515471025503977526)|总结：处理大量数据需分页/懒加载，结合虚拟滚动减少DOM压力，利用Web Worker和IndexedDB实现后台计算与缓存，优化前端渲染性能，同时需与后端协作设计合理接口。|
-|掘金|[从 npm 到 Yarn 到 pnpm：JavaScript 包管理工具的演进之路](https://juejin.cn/post/7515392598099378211)|JavaScript 包管理工具从 npm 到 Yarn 再到 pnpm，逐步优化了安装速度、依赖一致性及磁盘空间利用率。pnpm 通过硬链接技术减少冗余，严格隔离依赖，成为当前效率最高的选择。未来趋势聚焦零配置、原子化构建与多语言协同的集成化方案。|
 |掘金|[时间设置的是23点59分59秒，数据库却存的是第二天00:00:00](https://juejin.cn/post/7517119131856191500)|因Java Date精度为毫秒，而数据库TIMESTAMP默认精度为秒，当毫秒部分≥500时会进位1秒，导致时间偏差。解决方法：1.代码中清空纳秒（withNano(0)）；2.调整数据库TIMESTAMP精度。|
 |掘金|[前端难还是后端难？作为八年后端开发，我想说点实话](https://juejin.cn/post/7516897654170222592)|文章探讨了前端与后端开发的难度，指出前端需应对快速变化的技术和兼容性问题，后端则涉及复杂系统逻辑与底层技术，错误影响更大。作者强调两者都有高门槛，关键在于个人掌握程度，真正的难点在于持续深入学习，最终目标都是提升用户体验和系统效率。|
 |掘金|[🧨公司非要用 Tailwind，我觉得这玩意儿不如 inline-style](https://juejin.cn/post/7516804909632847891)|作者质疑Tailwind CSS的实用性，认为其类名组合复杂、维护困难，修改样式需频繁调整多个类，且调试时难以定位生效规则。相较之下，inline-style更直接可控，虽缺乏灵活性但更清晰。文章指出Tailwind适合静态页面，但在复杂业务场景中可能带来更高维护成本。|
@@ -236,3 +252,6 @@
 |掘金|[​​🧠 预训练核心解密​​：Masked Language Model运作原理解析](https://juejin.cn/post/7517602418487590927)|本文系统讲解大模型迁移学习的核心概念与实战方法，涵盖预训练模型架构、微调类型及参数优化策略，结合Hugging Face工具与代码示例，提供医疗、法律等领域的微调方案与避坑指南，强调LoRA在多数场景下的高效性价比。|
 |掘金|[为什么我们项目很少出现“技术债”？我总结了 5 个前端工程的基本约束](https://juejin.cn/post/7519850615649370163)|总结：通过可测试性、文档化、避免一次性代码、限制匿名函数和组件demo等结构性约束，结合工具自动化，系统性规避技术债，提升代码可维护性与复用性。|
 |掘金|[Cursor再见！简单两步，Augment真无限续杯，爽用Claude 4！](https://juejin.cn/post/7519376321875132466)|该网页介绍了通过注册多个邮箱（如QQ、英文、Foxmail）并邀请成员至augment平台，利用试用期获取免费额度（最高1500）的方法，但需注意14天后需重新注册以延续使用。|
+|掘金|[想给面试官吹DDD吗？项目像搭积木一样运行：领域驱动设计（DDD）让复杂业务变简单](https://juejin.cn/post/7519812174899478582)|本文介绍领域驱动设计（DDD）的核心概念与项目结构，通过分层（领域、应用、触发、基础设施）分离业务逻辑与技术实现，利用实体、值对象、聚合等构件提高系统可维护性与扩展性。|
+|掘金|[MySQL是怎么提高并发度的？InnoDB为什么会设计这些锁？一篇文章串通MySQL各种锁！](https://juejin.cn/post/7519168187540619303)|MySQL锁分为全局锁、表级锁（含元数据锁、意向锁）和行级锁（记录锁、间隙锁、临键锁）。全局锁用于全库备份，表级锁降低并发冲突，行级锁通过InnoDB的Next-Key锁机制（记录锁+间隙锁）在RR隔离级别下解决幻读问题。加锁遵循B+树遍历规则，limit可缩小锁范围，避免死锁。|
+|掘金|[别再用 100vh 了！移动端视口高度的终极解决方案](https://juejin.cn/post/7520548278338322483)|总结：移动端`100vh`因地址栏动态变化易溢出，传统JS方案存在性能问题。CSS新动态视口单位`dvh`可自动适配，完美解决全屏布局问题，且主流浏览器兼容性良好。|
