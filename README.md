@@ -153,13 +153,21 @@
 |36kr|[家里真有矿，我也不敢报这个专业](https://www.36kr.com/p/3362474914924293)|总结：珠宝专业因就业率虚高吸引报考，但实际就业困难凸显。毕业生面临证书成本高、行业竞争激烈、岗位贬值等问题，部分人转向销售或创业，仍有从业者坚守专业。行业受市场波动影响，传统销售模式遇挑战，专业价值与市场现实存在落差。|
 |36kr|[情绪价值至上时代，一家硬件创业公司的10亿美元征途｜独家专访Nothing联创](https://www.36kr.com/p/3362494609213449)|Nothing成立五年，累计营收破10亿美元，凭借差异化设计（如半透明机身、Pixel风第二屏）和AI功能吸引年轻用户，拓展耳机及手表新品类，获1亿美元融资。公司正布局全球市场，但中国团队尚处初期，未来计划推出定制化产品。|
 |36kr|[降到 4.49 万起，优惠继续，车企下半年冲量开始...](https://www.36kr.com/p/3361914475579137)|各大车企下半年开启价格战，推出低首付免息、置换补贴、高价值配置赠送等政策，如乐道0首付+3年免息，理想5年免息+选装基金，吉利全系降价及终身质保，长城赠智能驾驶功能等，争夺年轻及注重长期体验的消费者，但需注意优惠附加条件及综合成本。|
-|Github Trending|[nocodb/nocodb](https://github.com/nocodb/nocodb)|NocoDB是一款开源的Airtable替代工具，提供丰富的电子表格界面、多视图类型及程序化API访问，支持Docker、Nix等多种部署方式。其使命是通过开放源代码的无代码数据库界面，赋能全球互联网企业，推动计算工具普及与用户创新能力。项目采用AGPLv3协议，拥有活跃社区支持。|
-|Github Trending|[DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)|该网页为数据工程师提供全面资源，涵盖学习路径、工具推荐（如Snowflake、Airflow）、书籍（如《Designing Data-Intensive Applications》）、社区（如DataExpert.io Discord）、播客、白皮书及认证课程，助力从入门到进阶的技能提升与职业发展。|
-|Github Trending|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Node Version Manager (nvm) 是用于管理多个 Node.js 版本的 POSIX 兼容脚本工具，支持 bash、zsh 等 shell。提供安装、切换版本、设置默认版本、镜像使用等功能，适用于 Linux、macOS、WSL 等平台，并包含解决常见问题的指南。|
-|Github Trending|[YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2)|YimMenuV2是GTA5 Enhanced的实验性菜单工具，需搭配FSL和注入器使用，通过禁用BattlEye后按INSERT或Ctrl+\触发。常见问题包括公共会话频繁断连、移除FSL导致数据丢失及游戏崩溃，解决方法涉及使用私有绕过、保留FSL或删除特定文件夹。|
-|Github Trending|[alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine)|LowCodeEngine 是一套企业级低代码技术体系，采用扩展架构设计，内置高质量生态组件（如材料系统、设置器、插件等），支持 TypeScript 和完整工具链，兼容主流现代浏览器，可扩展至近百个垂直平台，提供 npm 安装及多 CDN 方式使用，并拥有完善的文档和社区协作机制。|
-|Github Trending|[moby/buildkit](https://github.com/moby/buildkit)|BuildKit 是 Docker 的高效构建工具，支持并发处理、缓存优化、多平台镜像构建及多种输出格式（如 OCI/Tar）。提供容器化部署（Docker/Podman/Nerdctl）、无 root 运行和 OpenTelemetry 监控，适用于复杂构建流程和分布式环境。|
-|Github Trending|[php/frankenphp](https://github.com/php/frankenphp)|FrankenPHP是基于Caddy的现代PHP应用服务器，支持HTTP/2/3、自动HTTPS、实时通信及Worker模式，显著提升Laravel/Symfony等框架性能。兼具独立服务器功能与Go语言嵌入库特性，适用于开发、部署及高性能场景。|
+|36kr|[8点1氪｜罗马仕辟谣倒闭传闻；利物浦前锋若塔车祸去世；上海交大回应是否会调整进校政策](https://www.36kr.com/p/3363881704654848)|多家中国公司如宇信科技、美格智能等申请港股上市；罗马仕辟谣倒闭，利物浦球星若塔不幸去世；小米布局Redmi商标，阿里巴巴发行120亿港元债券；美股科技股集体上涨，英伟达创历史新高；世卫组织呼吁提高烟酒及含糖饮料价格；日本企业加薪5.25%，创34年最大增幅；AI领域OpenAI否认与Robinhood合作，LiblibAI推出中文设计工具。|
+|36kr|[小米YU7风暴：雷军如何回应一场车圈“奇迹”](https://www.36kr.com/p/3363108083763206)|2025年7月2日，雷军直播回应小米YU7超24万锁单质疑，确认订单非SU7用户转移，凸显产品力。用户画像显示30%女性、52.4%苹果用户，定价25.35万起突破中国品牌价格门槛。他强调优先解决交付，暂缓红米汽车计划，2027年考虑出海，展现从造车新秀到行业稳健者的转变。|
+|36kr|[刚刚，全球AI人才榜单首次曝光，华人撑起半边天，DeepSeek无人上榜](https://www.36kr.com/p/3362969060546946)|2025全球AI人才榜单揭晓，华人科学家主导榜单并活跃于中美企业。硅谷掀起激烈人才争夺，Meta等企业高薪挖角OpenAI及谷歌的华人团队，而中国本土企业如DeepSeek正通过本土化培养策略崛起，改变硅谷主导格局。报告数据显示，中美头部企业AI论文产出集中，中国腾讯、阿里、华为位列企业发文前三。|
+|36kr|[微软再裁9000人，白领「大屠杀」来袭：不用AI要被裁，用了AI也被裁](https://www.36kr.com/p/3362974216636166)|微软等硅谷科技巨头正加速AI裁员，年内已第四次大规模裁减员工，推动AI使用成为绩效考核核心。亚马逊、沃尔玛等企业同步缩减人力，AI自动化取代初级白领岗位趋势显现，引发行业对职业未来的担忧。|
+|36kr|[雷军怒赞的千亿生意，被这个理工男“截胡”了](https://www.36kr.com/p/3362873921898247)|小米与Rokid在智能眼镜领域展开竞争，前者主打AI入口，后者深耕AR技术。Rokid凭借落差显示、工业应用及高订单量（超25万）占据先机，但需克服技术难题（如重量与续航平衡）和内容生态短板。二者路线不同，小米侧重消费场景，Rokid聚焦AR融合，行业仍面临使用门槛高、体验升级不足等挑战。|
+|36kr|[汽车产业变革倒逼车险转型，新老玩家如何破局？](https://www.36kr.com/p/3361238803437958)|新能源汽车市场快速增长，但车险面临高保费、高赔付率及连续亏损问题，根源在于维修成本高、运营车辆占比大及数据评估不足。车企与传统险企展开竞合，监管推动定价改革与数据共享，力图构建可持续的新能源车险体系，智能驾驶技术或重塑行业格局。|
+|36kr|[比Labubu还猛的“碎钞机”，杀出来了](https://www.36kr.com/p/3362898622744328)|叠纸游戏凭借《恋与深空》《无限暖暖》等高人气IP，其天猫潮玩旗舰店在618期间销售额破亿，登顶成交榜。通过预售、联名等策略，低价周边（多为30元以下）以高销量支撑业绩，反映游戏周边从营销工具转型为重要收入来源，契合中国消费市场情绪价值升级趋势。|
+|36kr|[五问“车路云一体化”：如何解锁自动驾驶“规模商用”密码？](https://www.36kr.com/p/3362544708163720)|车路云一体化与单车智能互补共生，共同推进自动驾驶发展。其通过数据透明、社会可信等新型监管范式保障安全性，以驾驶商品化为核心催生新经济模式，依托Robotaxi等杀手级应用实现规模经济，需政策支持与产业链协同破局。|
+|36kr|[中国第一大慢性肝病，正在透支年轻人](https://www.36kr.com/p/3364114495768322)|脂肪肝正取代病毒性肝炎成为我国第一大慢性肝病，2021年患病率达21.36%，尤其高发于年轻人、非肥胖及男性群体。其与代谢综合征密切相关，可引发肝硬化、肝癌及心血管疾病等严重并发症。预防需通过控制体重（减3%-5%）、少糖低脂饮食及规律运动改善代谢紊乱，避免长期高脂高糖饮食与久坐不动的生活方式。|
+|36kr|[9分钟大定破万，小鹏G7硬刚Model Y](https://www.36kr.com/p/3364091589494793)|小鹏G7于7月3日上市，推出三款配置，售价19.58万-22.58万，较原预售价降价4万。直接对标特斯拉Model Y和小米YU7，强调800V平台、5C超充及算力优势，尤其Ultra版算力达全球第一。上半年销量增长显著，预计G7将助力其下半年市场份额及盈利提升。|
+|36kr|[小米才是特斯拉“真正的威胁”](https://www.36kr.com/p/3364045276137478)|特斯拉因马斯克政治活动导致经营混乱，全球销量两连降；中国小米凭借性价比和成熟商业模式，仅用一年多便超越特斯拉的市场竞争力，其电动车业务已实现盈利。中美在电池供应链与政策支持上的差异，加剧了电动车领域竞争格局变化。|
+|36kr|[美国EDA三巨头解禁，国产芯片设计迎喘息之机](https://www.36kr.com/p/3363981305333504)|美商务部解除对EDA三巨头（西门子、新思、Cadence）向中国出口芯片设计软件的许可证限制，恢复其技术和服务访问，为中国芯片设计及AI研发提供短期缓冲。此举虽缓解当前压力，但中国仍面临EDA技术壁垒和对海外依赖的长期挑战，需加快自主技术研发以实现半导体领域自给自足。（99字）|
+|36kr|[罗马仕陷倒闭传闻，充电宝行业能挺住吗？](https://www.36kr.com/p/3364005300357125)|充电宝行业因电芯缺陷引发大规模召回，核心问题指向供应商违规替换隔膜材料及代工环节品控失守，监管机构暂停相关认证，消费者面临出行限制，行业需在安全与成本间重构信任体系。|
+|36kr|[小米YU7吃肉，小鹏G7喝汤？](https://www.36kr.com/p/3363919103592198)|总结：小米YU7销量破纪录引发行业关注，小鹏G7以家用智能定位应对竞争，推出高配车型提升品牌，但面临市场挑战与销量压力。|
+|36kr|[离开蔚来汽车，清华才女要IPO了](https://www.36kr.com/p/3363835568900097)|镁佳股份拟港股IPO，专注汽车智能座舱技术，创始人庄莉曾任职蔚来汽车，带领团队开发高智能解决方案。公司客户覆盖48家车企，但近3年累计亏损超10亿元，主要因研发高压、技术迭代与行业竞争。计划通过IPO融资扭转局面，庄莉或成富豪，与丈夫周枫实现"神仙眷侣"的资本传承。|
 |Github Trending|[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)|AI Engineering Hub 是一个提供大语言模型（LLM）、检索增强生成（RAG）及实际AI代理应用教程的资源库，涵盖从基础到进阶内容，支持项目实践与社区协作。用户可通过订阅获取数据科学电子书，欢迎贡献代码或反馈，采用MIT开源协议。|
 |Github Trending|[dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)|Notepad Next 是一款跨平台的 Notepad++ 替代软件，提供 Windows、Linux 和 macOS 安装方式（支持 installer、AppImage、Flatpak 和 Homebrew）。项目尚未稳定，不建议用于关键任务，但欢迎提交修复。采用 Qt 开发，遵循 GPLv3 许可证。|
 |Github Trending|[ourongxing/newsnow](https://github.com/ourongxing/newsnow)|NewsNow是一款支持多语言的实时新闻阅读应用，提供简洁界面、GitHub OAuth登录、30分钟缓存及自适应抓取间隔功能。支持Cloudflare D1数据库和Docker部署，未来将扩展全球多语言新闻源并增强个性化设置。|
@@ -255,7 +263,17 @@
 |Github Trending|[openssl/openssl](https://github.com/openssl/openssl)|OpenSSL 是开源的 TLS/SSL、DTLS 和 QUIC 协议工具包，包含加密库（libcrypto）和应用接口（libssl），提供命令行工具用于加密操作、证书管理及协议测试。支持多平台构建与安装，采用 Apache 2.0 许可证，需注意法律限制。|
 |Github Trending|[microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)|该网页介绍了一个10小时的多模块课程，旨在教授如何利用GitHub Copilot的AI功能（含新推出的Agent Mode）提升编程效率，涵盖从基础使用到高级项目（如云部署、SQL优化、语言迁移）的实践，适合各阶段开发者学习，同时提供额外资源和其他相关课程链接。|
 |Github Trending|[mrdoob/three.js](https://github.com/mrdoob/three.js)|three.js是一个轻量级、跨浏览器的JavaScript 3D库，支持WebGL/WebGPU渲染，提供场景构建、几何图形处理及动画功能，配套有示例、文档和社区资源，可通过git克隆或npm安装使用。|
-|掘金|[并行性能提升300%！LangGraph如何重塑大模型任务编排](https://juejin.cn/post/7517488132989681699)|LangGraph通过图结构重构大语言模型应用逻辑，实现状态驱动、并行执行与智能路由，显著提升开发效率与系统可维护性。其核心优势包括自动脏位检查、无死循环机制、模块化扩展及企业级优化，适用于复杂多智能体协作场景，有望成为AI应用开发的新范式。|
+|Github Trending|[btjawa/BiliTools](https://github.com/btjawa/BiliTools)|BiliTools是一款跨平台哔哩哔哩资源工具箱，支持视频、音频、音乐、弹幕、封面等下载与解析，采用Tauri框架开发。开源GPL-3.0协议，但仅限已授权资源，无法解析付费内容，用户需自行承担账号风险。|
+|Github Trending|[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)|LibreChat是一个开源AI聊天平台，具备多模型支持（Anthropic、AWS、OpenAI等）、代码解释器、代理工具、多语言界面、文件及语音交互等功能，支持自托管与云部署，提供多用户安全认证及社区协作开发。|
+|Github Trending|[MotiaDev/motia](https://github.com/MotiaDev/motia)|Motia 是一个统一的后端框架，整合 API、事件与 AI 代理，支持多语言（JavaScript/TypeScript/Python 等）。通过 Step 构建事件驱动工作流，内置状态管理、零配置可观测性及一键部署，简化复杂系统开发与调试。|
+|Github Trending|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|Ladybird是一款基于Web标准的独立浏览器，采用多进程架构（含UI、渲染、解码和网络进程）提升安全性与稳定性，继承自SerenityOS的核心库包括Web渲染、JavaScript引擎等。当前处于预-alpha阶段，仅面向开发者，使用2-clause BSD许可证。|
+|Github Trending|[isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab)|Isaac Lab 是一个基于 NVIDIA Isaac Sim 的 GPU 加速开源框架，统一简化机器人学习流程（强化学习、模仿学习、运动规划），提供多种机器人、环境及传感器模拟支持，适用于仿真到现实的迁移。|
+|Github Trending|[Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)|总结：Genesis 是一个集成物理引擎与生成数据的平台，专为机器人学、具身AI和物理AI设计，支持高速模拟、多物理求解器、多样化材料模型及逼真渲染，具备可微分性，旨在降低物理仿真门槛并实现自动化数据生成。|
+|Github Trending|[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)|《Happy-LLM》是Datawhale推出的开源教程，系统讲解大语言模型（LLM）原理与实践，涵盖NLP基础、Transformer架构、预训练技术、模型微调及应用如RAG和Agent。教程提供代码实现与模型资源，鼓励社区贡献，适合有编程基础的学习者深入掌握LLM开发全流程。|
+|Github Trending|[llmware-ai/llmware](https://github.com/llmware-ai/llmware)||
+|Github Trending|[ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)|该网页汇总了500+人工智能项目，涵盖机器学习、深度学习、计算机视觉、NLP等领域，提供完整代码和实践资源。项目列表持续更新，包含从基础到高级的应用案例，适合学习和开发参考，部分资源来自GitHub和Medium，注重实战性和可扩展性。|
+|Github Trending|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|该网页汇总了多个领域的免费在线课程及认证资源，涵盖云技术（如AWS、Google Cloud、Azure）、网络安全、数据库管理、项目管理、市场营销等，由GitLab、Oracle、Red Hat、HubSpot等平台提供，部分含证书和限时优惠，用户可通过链接访问具体课程信息。|
+|Github Trending|[swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)|Swagger UI是基于OpenAPI规范的API文档生成工具，提供HTML/JS/CSS前端界面，支持可视化交互。包含三个NPM模块（swagger-ui、swagger-ui-dist、swagger-ui-react）适配不同场景，兼容OpenAPI 2.0及3.x版本，并提供自定义、开发指南及贡献说明，同时包含安全联系和Apache 2.0许可证信息。|
 |掘金|[🎉 unibest 3.0 发布了！看看都更新了啥好用的功能~](https://juejin.cn/post/7518343357765124136)|unibest 3.0发布，整合tabbar策略为4种（原生/半自定义/全自定义/无tabbar），优化代码配置。合并分支升级版本，更换eslint工具并集成alovajs。文档迁至新地址unibest.tech，提醒用户更新链接。|
 |掘金|[TypeScript 是如何将 enum 转化为 JavaScript 的？](https://juejin.cn/post/7518241866363404288)|TypeScript枚举在编译为JavaScript时，数字枚举生成双向映射对象，字符串枚举仅单向映射，const枚举则直接替换为值且不生成对象。其转译方式受编译选项影响，需根据运行时需求和代码体积选择合适类型。|
 |掘金|[前端权限系统怎么做才不会写吐？我们项目踩过的 3 套失败方案总结](https://juejin.cn/post/7517915625136586787)|文章总结了权限系统设计的三套失败方案（模板写死、路由统一控制、封装组件反直觉），提出最终方案通过分层管理（接口枚举+Hook+指令）实现权限统一接入，提升代码可维护性与调试效率，避免权限变更导致的维护难题。|
@@ -268,14 +286,12 @@
 |掘金|[🚀🚀🚀 Prettier 3.6.0 正式发布，支持 OXC⚓️、Hermes ！更快的体验⚡️](https://juejin.cn/post/7518931398340001802)|Prettier 3.6.0发布，推出实验性快速CLI、OXC（Rust实现的JS/TS解析器）和Hermes（Flow语法解析器）三大新特性，显著提升代码格式化性能，尤其优化大型项目处理效率，未来将在v4中成为默认配置。|
 |掘金|[老板让我弄3d，从0学建模😂](https://juejin.cn/post/7518932901699223592)|本文介绍Blender作为3D建模工具，可导出.glb/.gltf格式模型，结合Three.js实现交互式网页应用，涵盖基础操作、视口控制、材质处理和模型加载，强调Blender的开源特性及与Three.js的协作流程。|
 |掘金|[一个拼写错误让整个互联网一起犯错](https://juejin.cn/post/7518783423277547572)|HTTP Referer是用于记录用户来源的请求头，因早期拼写错误（少一个r）被保留。它支持流量追踪、防盗链和CSRF防护，现代浏览器通过Referrer-Policy策略控制发送规则，如strict-origin-when-cross-origin。HTML中可用rel属性（如noreferrer、noopener）进一步限制行为。|
-|掘金|[Tailwind 到底是设计师喜欢，还是开发者在硬撑？](https://juejin.cn/post/7517496354245492747)|总结：Tailwind加速视觉还原但维护成本高，团队反馈需手动替换样式、缺乏结构抽象。建议在Tailwind基础上封装语义类以提升可维护性，适合短期项目，长期组件库需结合抽象层。|
 |掘金|[Swift 官方正式支持 Android，iOS 的跨平台春天要来了吗？](https://juejin.cn/post/7520063683180199999)|Swift官方通过LLVM与Android NDK实现跨平台支持，将Swift代码编译为Android原生.so库，可运行于设备或被应用调用。当前仅支持基础库，UI和高级框架（如Foundation）尚未完善，需依赖JNI互操作，整体仍处早期阶段。|
 |掘金|[JIT 编译器是什么？JavaScript 为啥能“跑得像风一样快”？](https://juejin.cn/post/7519502099870957568)|JIT编译器通过动态优化技术（如类型推断、内联缓存、循环展开等），将JavaScript热点代码转化为高效机器码，大幅提升运行速度，接近静态语言性能。部分动态特性（如eval、with）会阻碍优化，但整体使JS在浏览器中表现强劲。|
 |掘金|[🎉号外！号外！vite 7.0发布](https://juejin.cn/post/7519695901289136182)|Vite 7.0发布，支持Node.js 20+，ESM原生，浏览器兼容性提升（Chrome 107等），Rolldown试验打包器优化构建性能，Vite DevTools支持多框架，vitest 3.2同步更新，社区下载量破3100万，贡献者超1100人。|
 |掘金|[Android Studio Narwhal _ 2025.1.1 发布，快来看看有什么更新吧](https://juejin.cn/post/7519343383753883667)|Android Studio Narwhal更新引入K2模式（提升Kotlin代码分析性能），优化Gemini功能（代码生成、预览、修复建议），增强终端兼容性，支持16KB页面大小检测、设备串流备份恢复及Play Policy检查，改进布局检查器与Compose预览体验，并新增项目视图设置及同步模式调整。|
 |掘金|[GitHub 6.4k星神作！这只猫正在血洗B站直播间](https://juejin.cn/post/7519351263437848576)|BongoCat是一款开源虚拟桌宠软件，支持macOS、Windows、Linux跨平台，可同步操作并自定义模型。原Steam商业版后开源，社区评价良好，模型资源丰富，适合直播与办公场景。|
 |掘金|[Cursor Pro变相涨价！教育优惠用户被逼退，Claude 4彻底凉凉](https://juejin.cn/post/7519118964976386102)|Cursor推出Ultra 200美元套餐，Pro无限请求实为隐藏收费，Claude 4被限制，教育优惠用户无法退费。用户质疑此举旨在打击白嫖，推动付费，但反对融资后仍需加价。|
-|掘金|[​​🧠 预训练核心解密​​：Masked Language Model运作原理解析](https://juejin.cn/post/7517602418487590927)|本文系统讲解大模型迁移学习的核心概念与实战方法，涵盖预训练模型架构、微调类型及参数优化策略，结合Hugging Face工具与代码示例，提供医疗、法律等领域的微调方案与避坑指南，强调LoRA在多数场景下的高效性价比。|
 |掘金|[为什么我们项目很少出现“技术债”？我总结了 5 个前端工程的基本约束](https://juejin.cn/post/7519850615649370163)|总结：通过可测试性、文档化、避免一次性代码、限制匿名函数和组件demo等结构性约束，结合工具自动化，系统性规避技术债，提升代码可维护性与复用性。|
 |掘金|[Cursor再见！简单两步，Augment真无限续杯，爽用Claude 4！](https://juejin.cn/post/7519376321875132466)|该网页介绍了通过注册多个邮箱（如QQ、英文、Foxmail）并邀请成员至augment平台，利用试用期获取免费额度（最高1500）的方法，但需注意14天后需重新注册以延续使用。|
 |掘金|[想给面试官吹DDD吗？项目像搭积木一样运行：领域驱动设计（DDD）让复杂业务变简单](https://juejin.cn/post/7519812174899478582)|本文介绍领域驱动设计（DDD）的核心概念与项目结构，通过分层（领域、应用、触发、基础设施）分离业务逻辑与技术实现，利用实体、值对象、聚合等构件提高系统可维护性与扩展性。|
@@ -297,3 +313,10 @@
 |掘金|[​《知识图谱+大模型：GraphRAG如何实现46%的多跳推理提升？》](https://juejin.cn/post/7521295907764092943)|GraphRAG通过知识图谱构建深度认知结构，突破传统RAG局部关联限制，显著提升复杂推理准确率（最高28%），在医疗、金融等领域实现高效知识组织与语境完整性增强，模仿人类记忆机制推动机器智能向认知能力跃迁。|
 |掘金|[试用了很多Go框架，为什么我最终选择了这个？真香！](https://juejin.cn/post/7520107642896334863)|使用Go框架开发时，作者发现传统方案存在效率低、代码冗余及学习成本高等问题。Sponge通过SQL/Protobuf一键生成完整项目，提供积木式架构、内置微服务组件，兼顾开发效率与代码可控性，适用于个人开发者、初创团队及中大型项目，实现快速搭建和灵活扩展。|
 |掘金|[作为前端Team Leader，我是如何做技术选型、项目排期和新人培养的？](https://juejin.cn/post/7522090849035911219)|总结：作者分享了带团队的三方面经验——技术选型注重团队适配与可靠性，排期留缓冲，带新人重实践与融入，强调实用主义和团队协作的重要性。|
+|掘金|[前端真的需要懂算法吗？聊聊感受](https://juejin.cn/post/7522381707791187983)|总结：作者认为前端面试中的算法题更考察沟通理解、逻辑思维、代码规范和应变能力，而非算法本身。建议求职者注重思路表达与原理理解，而非死记硬背，心态平和地展现思考过程。|
+|掘金|[我救了一个网站，性能提升了1500 多倍！](https://juejin.cn/post/7521954333884334132)|本文系统讲解了网站性能优化的三大核心方向：传输优化（升级带宽、CDN、HTTP/2）、体积优化（资源压缩、代码压缩、图片格式转换）和加载优化（懒加载、按需加载、预加载、请求合并），并通过实际案例展示了优化效果，强调需结合场景分析并合理使用工具进行持续改进。|
+|掘金|[🚣【附源码】牺牲两天摸鱼时间，我做了款大屏](https://juejin.cn/post/7521986967103143972)|总结：用户分享了一个基于Vue3与ECharts的大屏项目，使用TypeScript、Vite等技术实现数据可视化。通过堆叠geojson地图图层打造立体效果，底部采用自定义CSS字体与vue3-odometer库实现数字翻牌轮播。后续计划开发Node.js后台管理系统进行后端练习。|
+|掘金|[前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！](https://juejin.cn/post/7521936882353471526)|文章对比LocalStorage、SessionStorage和Cookie存储Token的安全风险，指出XSS和CSRF的威胁，推荐将RefreshToken存HttpOnly Cookie（防窃取与伪造），AccessToken存内存（避免XSS），结合Secure和SameSite属性，实现安全与体验的平衡。|
+|掘金|[Meta 宣布加入 Kotlin 基金会，将为 Kotlin 和 Android 生态提供全新支持](https://juejin.cn/post/7521642915278487606)|Meta正式加入Kotlin基金会为金牌会员，承诺推动Android领域Java至Kotlin迁移，开发Kotlinator工具及参与企业工作组，支持构建优化与生态发展，未来或拓展至多平台领域。|
+|掘金|[盘点 6 月份 yyds 的 GitHub 开源项目](https://juejin.cn/post/7520710878976884763)|该网页推荐了5个优质开源项目：Awesome是GitHub上涵盖27个领域的资源聚合库；self-llm为AI大模型提供学习指南；mindsDB实现多数据源AI查询；Qlib是量化投资AI平台；R&D-Agent革新数据科学自动化流程，提升工业AI开发效率。|
+|掘金|[《拯救你的RAG项目：Langfuse观测体系落地指南》​](https://juejin.cn/post/7520379793889083392)|总结：本文解析Langfuse开源平台如何解决RAG应用监控痛点，通过全链路可观测性、提示工程管理、评估体系及性能监控实现工程化落地，支持多框架集成与生产部署，并展望实时检测、自适应采样等未来方向。|
