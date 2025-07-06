@@ -168,6 +168,21 @@
 |36kr|[罗马仕陷倒闭传闻，充电宝行业能挺住吗？](https://www.36kr.com/p/3364005300357125)|充电宝行业因电芯缺陷引发大规模召回，核心问题指向供应商违规替换隔膜材料及代工环节品控失守，监管机构暂停相关认证，消费者面临出行限制，行业需在安全与成本间重构信任体系。|
 |36kr|[小米YU7吃肉，小鹏G7喝汤？](https://www.36kr.com/p/3363919103592198)|总结：小米YU7销量破纪录引发行业关注，小鹏G7以家用智能定位应对竞争，推出高配车型提升品牌，但面临市场挑战与销量压力。|
 |36kr|[离开蔚来汽车，清华才女要IPO了](https://www.36kr.com/p/3363835568900097)|镁佳股份拟港股IPO，专注汽车智能座舱技术，创始人庄莉曾任职蔚来汽车，带领团队开发高智能解决方案。公司客户覆盖48家车企，但近3年累计亏损超10亿元，主要因研发高压、技术迭代与行业竞争。计划通过IPO融资扭转局面，庄莉或成富豪，与丈夫周枫实现"神仙眷侣"的资本传承。|
+|36kr|[新造车这半年：三强格局改写，厂二代谋出海，万辆关卡生死](https://www.36kr.com/p/3364547680126724)|2025上半年新造车市场呈现格局重构、海外拓展与销量生死线三大趋势，头部车企竞争加剧，零跑首次超越理想登顶，厂二代通过海外布局突围，而月销万辆成为新势力生存关键。行业正从野蛮扩张转向精细化运营，下半年将考验车企技术与市场硬实力。|
+|36kr|[曝苹果要做云服务，叫板谷歌亚马逊，负责高管离职，项目生死不明](https://www.36kr.com/p/3364587889657865)|苹果计划推出面向开发者的云服务，依托自研芯片与AWS、谷歌等竞争，但因高管离职项目进展不明，或成服务收入新增长点，但AI训练策略与传统公司不同，未来仍存不确定性。|
+|36kr|[USB-C 一线通是好文明，但任天堂选择不加入](https://www.36kr.com/p/3364547543549956)|任天堂Switch 2通过加密协议限制第三方底座输出视频信号，仅Antank S3 Max等少数产品能破解。此举延续了初代Switch的官方配件垄断策略，与当前用户对便携显示设备便捷性的需求相冲突，引发对任天堂固守传统做法的批评。|
+|36kr|[零跑、理想、小米，谁将主宰下半场？](https://www.36kr.com/p/3364493479774214)|2025上半年新能源车企竞争激烈，零跑以高性价比登顶销冠，小鹏同比增长279%实现逆袭，理想、小米面临交付压力，鸿蒙智行因品牌分化表现不均。行业整体分化加剧，淘汰赛开启，技术迭代与产能竞争成关键挑战。|
+|36kr|[销量下跌、政治搅局、技术豪赌：特斯拉的危机与突围](https://www.36kr.com/p/3364463764899592)|特斯拉面临销量下滑、股价波动及马斯克政治争议的多重挑战。欧洲市场被比亚迪等中国车企侵蚀，中国市场亦受本土新势力挤压。马斯克亲自接管核心业务并推动Robotaxi和印度市场布局，但需应对技术验证、监管不确定性及高昂成本，未来增长前景存疑。|
+|36kr|[学生党预算不足想买二手电脑？全网最强避坑指南出炉：谨记三不买](https://www.36kr.com/p/3364334153619585)|雷科技建议准大学生在预算有限时优先考虑二手笔记本，但需警惕二手市场陷阱。推荐通过京东官方渠道或闲鱼验货宝购买，注意甄别卖家真实性，优先选RTX 3060/3070+7000系处理器组合。若预算充足，全新机性价比更高，当前3000元可购轻薄本，5000元可购游戏本。|
+|36kr|[苹果给FaceTime加入了裸露检测，这是苹果在隐私和道德之间的选择](https://www.36kr.com/p/3364145159145472)|苹果在iOS 26开发者预览版中推出FaceTime裸露检测功能，通过设备端AI实时识别不当内容并拦截，旨在保护青少年隐私。但该功能扩大至成人用户后引发争议，担忧隐私被过度侵犯。此举与苹果此前的CSAM扫描计划及与FBI的隐私争议形成呼应，凸显其在道德与隐私权衡上的持续挑战。|
+|36kr|[再融700亿，又一个万亿AI独角兽要诞生了？](https://www.36kr.com/p/3365493409662977)|xAI完成50亿美元债务及50亿美元股权融资，总融资达100亿美元，估值突破1200亿美元。面对月烧10亿美元的资金压力和与OpenAI等巨头的竞争，其商业化进程滞后，能否实现盈利仍存疑，全球AI投资持续升温。|
+|36kr|[「窝囊旅游三件套」，杀疯了？](https://www.36kr.com/p/3365516141610755)|总结：  <br/>“窝囊式旅游”兴起，主打低刺激、高舒适，如电梯爬山、减速蹦极、躺平漂流，满足打工人及中年人对放松的需求，反映当代人追求风险可控的快乐，强调安全第一。|
+|36kr|[美国AI继续狂撒金，25家创企半年融资超1亿：十大领域最热](https://www.36kr.com/p/3365458477434628)|2024年美国49家AI初创获超1亿融资，2025年Q1超级融资已超去年。资本聚焦大模型、基础设施及医疗、法律等垂直领域，强调产品实用性和市场落地，而非单纯技术竞争。创业机会在于未被覆盖的细分场景。|
+|36kr|[微信最近的更新，怎么狂放大招啊？](https://www.36kr.com/p/3365453888030466)|微信近期集中推出多项实用更新：朋友圈互动提醒优化、评论图片功能回归、聊天记录备份（含自动备份）及公众号划线/点赞记录查询等，提升信息管理效率。部分功能仍处灰度测试，用户期待云备份等未实现功能。整体更新被评价为解决长期痛点，但体验开放度和功能全面性仍有提升空间。|
+|36kr|[AIGC独角兽硅基智能完成D轮融资，数字人业务营收数亿、已服务超50万用户｜硬氪首发](https://www.36kr.com/p/3362675516901129)|南京硅基智能获数亿元D轮融资，聚焦AIGC技术打造数字人产品体系，其多模态大模型DUIX ONE提升交互真实感，已服务5000余家品牌及超30家金融机构，平台用户超50万，日均生成内容突破50万条，并开源核心技术推动行业应用。|
+|36kr|[9点1氪：DeepSeek给王一博道歉是假的；雷军回应纸巾盒定价169元；格力高管回应董明珠海归派言论](https://www.36kr.com/p/3365353934686208)|网页总结：  <br/>DeepSeek假道歉事件曝光，雷军回应小米磁吸纸巾盒高价，格力澄清不排斥海归人才。大公司动态包括Switch 2涨价、苹果中国销量回升、特斯拉香港降价及工信部规范隐私号。AI领域国声智库发布新型智能体，字节跳动新加坡食物中毒事件后续。|
+|36kr|[OpenAI宫斗加剧，Meta高薪截胡奥特曼](https://www.36kr.com/p/3364529325770755)|OpenAI因Meta挖角陷入人才危机，被迫停业应对。内部战略分歧与薪酬体系问题加剧流失，Meta以高薪及资源吸引人才，凸显AI领域争夺激烈，全球人才竞争加剧，教育体系需改革以适应需求。|
+|36kr|[每天忙得要死，我是怎么坚持学习的？](https://www.36kr.com/p/3332052883827206)|总结：作者分享如何在996工作制中挤出2小时学习，主张制定实际可行的时间表而非完美计划，通过削减无用事项（如刷短视频）实现时间管理，强调持续行动比完美主义更重要，同时提倡适当放松以保持精力，核心是根据自身情况灵活调整，掌控时间推动成长。|
 |Github Trending|[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)|AI Engineering Hub 是一个提供大语言模型（LLM）、检索增强生成（RAG）及实际AI代理应用教程的资源库，涵盖从基础到进阶内容，支持项目实践与社区协作。用户可通过订阅获取数据科学电子书，欢迎贡献代码或反馈，采用MIT开源协议。|
 |Github Trending|[dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)|Notepad Next 是一款跨平台的 Notepad++ 替代软件，提供 Windows、Linux 和 macOS 安装方式（支持 installer、AppImage、Flatpak 和 Homebrew）。项目尚未稳定，不建议用于关键任务，但欢迎提交修复。采用 Qt 开发，遵循 GPLv3 许可证。|
 |Github Trending|[ourongxing/newsnow](https://github.com/ourongxing/newsnow)|NewsNow是一款支持多语言的实时新闻阅读应用，提供简洁界面、GitHub OAuth登录、30分钟缓存及自适应抓取间隔功能。支持Cloudflare D1数据库和Docker部署，未来将扩展全球多语言新闻源并增强个性化设置。|
@@ -274,9 +289,17 @@
 |Github Trending|[ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)|该网页汇总了500+人工智能项目，涵盖机器学习、深度学习、计算机视觉、NLP等领域，提供完整代码和实践资源。项目列表持续更新，包含从基础到高级的应用案例，适合学习和开发参考，部分资源来自GitHub和Medium，注重实战性和可扩展性。|
 |Github Trending|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|该网页汇总了多个领域的免费在线课程及认证资源，涵盖云技术（如AWS、Google Cloud、Azure）、网络安全、数据库管理、项目管理、市场营销等，由GitLab、Oracle、Red Hat、HubSpot等平台提供，部分含证书和限时优惠，用户可通过链接访问具体课程信息。|
 |Github Trending|[swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)|Swagger UI是基于OpenAPI规范的API文档生成工具，提供HTML/JS/CSS前端界面，支持可视化交互。包含三个NPM模块（swagger-ui、swagger-ui-dist、swagger-ui-react）适配不同场景，兼容OpenAPI 2.0及3.x版本，并提供自定义、开发指南及贡献说明，同时包含安全联系和Apache 2.0许可证信息。|
+|Github Trending|[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|该网页是一个JavaScript算法与数据结构学习项目，包含排序、搜索、字符串处理、图论、机器学习等主题的实现示例，每个算法附带说明和扩展阅读链接。项目强调学习用途，不推荐生产环境使用，并提供代码测试和复杂度分析。|
+|Github Trending|[Infisical/infisical](https://github.com/Infisical/infisical)|Infisical是一款开源的密钥管理平台，支持Secrets、PKI、SSH访问及Kubernetes集成。提供可视化仪表盘、动态密钥生成、证书生命周期管理、自托管与云服务选项，并具备安全漏洞响应和社区贡献机制，旨在简化开发者安全工具使用体验。|
+|Github Trending|[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)|AFFiNE是一款开源、注重隐私的知识管理平台，集成文档、白板、数据库等功能于一體，支持多模态AI协作与本地优先实时同步，提供自托管选项，替代Notion与Miro。|
+|Github Trending|[dockur/macos](https://github.com/dockur/macos)|该网页介绍了一个在Docker容器中运行macOS的项目，支持KVM加速、Web管理界面和自动安装，提供Docker Compose、CLI及Kubernetes部署方式，但需注意仅限苹果硬件使用，否则违反EULA。|
+|Github Trending|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Hyperswitch是用Rust构建的开源支付基础设施，提供模块化解决方案，支持灵活集成支付功能（如智能路由、成本监控、加密货币存储等），并兼容本地Docker部署、云平台（AWS/GCP/Azure）及托管沙箱环境，旨在为企业提供高效、可靠且无锁的支付处理能力。|
+|Github Trending|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)|drawDB是一款免费、无需注册的在线数据库图编辑工具，支持直观创建ER图、生成SQL脚本及自定义配置。提供本地开发、构建和Docker部署选项，可分享文件需搭配服务器环境。由Warp赞助，集成AI终端技术，拥有社区互动渠道。|
+|Github Trending|[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)|Label Studio is an open-source data labeling tool supporting images, audio, text, video, and time series, with customizable UI, ML integration, and Apache 2.0 license.|
+|Github Trending|[iib0011/omni-tools](https://github.com/iib0011/omni-tools)|OmniTools是一款自托管的Web工具集合，提供图像处理、文本转换、日期计算、数学生成等功能，所有数据在客户端处理无跟踪。轻量Docker镜像（28MB）便于快速部署，支持Docker运行及开源贡献，采用MIT许可证。|
+|Github Trending|[argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts)|Argo Rollouts 是 Kubernetes 的渐进式交付工具，支持蓝绿、金丝雀等策略，提供流量控制、自动回滚及与 Ingress、服务网格集成，解决传统滚动更新的局限，适用于高风险生产环境的可控更新。|
 |掘金|[🎉 unibest 3.0 发布了！看看都更新了啥好用的功能~](https://juejin.cn/post/7518343357765124136)|unibest 3.0发布，整合tabbar策略为4种（原生/半自定义/全自定义/无tabbar），优化代码配置。合并分支升级版本，更换eslint工具并集成alovajs。文档迁至新地址unibest.tech，提醒用户更新链接。|
 |掘金|[TypeScript 是如何将 enum 转化为 JavaScript 的？](https://juejin.cn/post/7518241866363404288)|TypeScript枚举在编译为JavaScript时，数字枚举生成双向映射对象，字符串枚举仅单向映射，const枚举则直接替换为值且不生成对象。其转译方式受编译选项影响，需根据运行时需求和代码体积选择合适类型。|
-|掘金|[前端权限系统怎么做才不会写吐？我们项目踩过的 3 套失败方案总结](https://juejin.cn/post/7517915625136586787)|文章总结了权限系统设计的三套失败方案（模板写死、路由统一控制、封装组件反直觉），提出最终方案通过分层管理（接口枚举+Hook+指令）实现权限统一接入，提升代码可维护性与调试效率，避免权限变更导致的维护难题。|
 |掘金|[小红书“开盒”事件：一次点击暴露3亿用户平台的“家底”](https://juejin.cn/post/7519005878567616538)|小红书被曝存在开发者模式后门，通过特定操作可访问敏感信息，引发安全担忧。推测原因包括内部泄露、测试配置失控或流程漏洞。业内对事故等级存争议，部分认为影响有限。事件警示需强化安全内建工程文化，严格规范发布流程，避免测试逻辑误入生产环境。|
 |掘金|[JavaScript 中的 Object.freeze() 及其和 TypeScript 中 readonly 的关系](https://juejin.cn/post/7519442421626765312)|JavaScript的Object.freeze()用于冻结对象，使其不可修改、删除或添加属性，但仅实现浅冻结。TypeScript的readonly在编译时提供类型约束，不生成运行时代码。两者区别：freeze影响运行时对象结构，readonly仅限类型检查。建议结合使用以兼顾开发期安全与运行时保护。|
 |掘金|[​7天从入门到精通​​：Prompt Engineering超速通指南](https://juejin.cn/post/7519131837362389027)|本文系统讲解了提示工程的核心原理与工业级实践，涵盖定义、上下文、参数、示例四要素（DCPE框架）、五大技术原理、四类提示范式及避坑指南，强调通过结构化输入控制LLM注意力分布与推理路径，提升模型输出质量。提出效果验证三阶法与能力演进路径，推荐OpenAI Playground、PromptPerfect等工具，助力实现高效人机协作。|
@@ -320,3 +343,8 @@
 |掘金|[Meta 宣布加入 Kotlin 基金会，将为 Kotlin 和 Android 生态提供全新支持](https://juejin.cn/post/7521642915278487606)|Meta正式加入Kotlin基金会为金牌会员，承诺推动Android领域Java至Kotlin迁移，开发Kotlinator工具及参与企业工作组，支持构建优化与生态发展，未来或拓展至多平台领域。|
 |掘金|[盘点 6 月份 yyds 的 GitHub 开源项目](https://juejin.cn/post/7520710878976884763)|该网页推荐了5个优质开源项目：Awesome是GitHub上涵盖27个领域的资源聚合库；self-llm为AI大模型提供学习指南；mindsDB实现多数据源AI查询；Qlib是量化投资AI平台；R&D-Agent革新数据科学自动化流程，提升工业AI开发效率。|
 |掘金|[《拯救你的RAG项目：Langfuse观测体系落地指南》​](https://juejin.cn/post/7520379793889083392)|总结：本文解析Langfuse开源平台如何解决RAG应用监控痛点，通过全链路可观测性、提示工程管理、评估体系及性能监控实现工程化落地，支持多框架集成与生产部署，并展望实时检测、自适应采样等未来方向。|
+|掘金|[🚀拒绝试错成本！企业接入MCP协议的避坑清单​](https://juejin.cn/post/7522452035699605550)|本文介绍MCP技术在情感分析中的应用，涵盖采样原理、安全加固、性能优化、模型微调及协议升级，重点展示其如何提升电商客服等传统业务的效率，强调开发者通过三行代码替代复杂逻辑的变革价值。|
+|掘金|[Vue 官方 VSCode 插件发布 3.0 大版本，更好用！更智能！](https://juejin.cn/post/7522418729440100394)|Vue 3.0.0新增组件拖拽引入、props实时提示、组件点击跳转文件、defineProps解构自动补全及ref.value自动补全等功能，提升开发效率与代码可维护性。|
+|掘金|[从开发到上云：MCP架构全链路企业级落地指南​​​​ （完整生命周期覆盖）​](https://juejin.cn/post/7522367598814920713)|总结：本文介绍MCP协议，作为大模型与外部系统的通信桥梁，核心价值在于解耦设计、动态扩展与安全管控。涵盖消息格式、传输模式、工具开发、SSE实现、框架特性及部署优化，提供Python代码示例与学习资源链接，助力AI模型应用开发与集成。|
+|掘金|[鉴定热门文章之《别再用 100vh 了...》](https://juejin.cn/post/7522188987113979914)|作者指出100vh在移动端可能因浏览器差异导致滚动条问题，旧方案通过JS防抖动态计算视口高度，但新dvh方案存在兼容性风险（需Android 14+），提醒开发者需结合用户实际设备版本选择适配方案。|
+|掘金|[Vue扩展v3.0正式发布，体验增强，稳定性提升](https://juejin.cn/post/7522090808604016686)|VSCode Vue(Official)扩展v3.0发布，核心升级包括：混合模式默认开启（优化Vue与TypeScript协作）、版本匹配机制、全局组件跳转至源码、支持TS导入整理、新增本地语言（中/俄/日）、改进模板引用文档链接及编译参数。建议升级至v3替代已停更的vuter。|
