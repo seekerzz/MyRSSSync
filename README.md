@@ -18,7 +18,3 @@
 ---
 | Title | Date | Summary |
 | --- | --- | --- |
-# eess.AS updates on arXiv.org
----
-| Title | Summary |
-| --- | --- |
